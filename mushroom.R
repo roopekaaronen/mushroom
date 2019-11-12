@@ -27,7 +27,7 @@ library(qdap)
 
 # Read data
 
-dat = read.csv("C:/Users/RoopeOK/Documents/Yliopisto/Sienestys/mushroom_translate.csv", stringsAsFactors = FALSE, header = T)
+dat = read.csv("https://raw.githubusercontent.com/roopekaaronen/mushroom/master/mushroom.csv", stringsAsFactors = FALSE, header = T)
 
 # Decriptives
 mean(dat$Age) # Mean age
@@ -343,3 +343,5 @@ dev.off()
 ################################################
 
 # This is a test
+
+# test2
