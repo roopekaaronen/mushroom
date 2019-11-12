@@ -1,0 +1,895 @@
+ID,Age,Gender,Experience_years,Species,Experience,Hunch,Glance,Apaja,Familiar,Delicious,Protect,Parents,Grandparents,OtherRelatives,Books,Internet,Course,Other,FunHobby,Food,ResearchOrScience,Relax,NatureExperience,Exercise,SocialActivity,SpeciesPicture1,SpeciesPicture2,Heuristics,Reported_Heuristics1,Reported_Heuristics2,Reported_Heuristics3
+2,37,F,6,2,2,4,1,4,4,4,1,x,,,,,,x,x,x,,,x,x,x,,,4,Pick Sources,Lookalike,Familiar
+3,35,F,2,4,1,4,2,4,2,1,1,,,,x,x,,,x,x,,x,x,x,,FunnelChanterelle Bolete HygrophorusCamarophyllus SweetTooth AlbatrellusOvinus,Agaricus  Bolete,3,,Sponge ,
+4,27,F,7,2,2,4,1,4,4,4,4,x,x,,,,,,x,x,,x,x,,,FunnelChanterelle,,2,Eat,Pick,
+5,34,F,3,4,4,4,4,5,4,1,4,x,,,x,x,,x,x,x,,x,x,x,,FunnelChanterelle Lactarius,   WoollyMilkcap ,4,Pick,Pick,
+6,58,F,40,4,4,4,4,4,4,2,4,x,,,x,,,,x,x,,x,x,,x,FunnelChanterelle Bolete Lactarius,Bolete Russula  Chanterelle,4,Pick Eat Milk,Pick,Morel Mossy
+7,48,M,10,3,4,4,3,4,2,3,4,x,,,x,x,,,x,x,,x,x,x,,FunnelChanterelle,Bolete,4,Equipment,Sponge Milk,Kosteus
+8,36,F,2,3,2,4,2,4,4,2,3,,x,,x,,,x,x,x,,x,x,x,,Chanterelle Bolete FunnelChanterelle AlbatrellusOvinus Lactarius Russula HornOfPlenty,Bolete,5,Pick Eat Unidentified,Poisonous Lookalike,Mossy
+9,37,F,13,3,4,4,3,4,5,1,3,x,,,x,x,,x,x,x,,x,x,x,x,AlbatrellusOvinus Chanterelle SweetTooth FunnelChanterelle,Porcini  FalseSaffronMilkcap,5,Pick Eat,Sponge Smell ,
+10,30,F,2,3,3,4,4,2,2,2,1,,,,,x,,x,x,x,,x,x,,,AlbatrellusOvinus FalseSaffronMilkcap Lactarius Agaricus Hydnum,Chanterelle  Porcini,2,Sources,,Spruces
+11,31,F,5,2,4,5,4,5,4,2,5,x,x,,x,x,,,x,x,,x,x,x,,FunnelChanterelle Lactarius,Chanterelle,5,Pick,Terrain Milk Smell Sponge,Kosteus
+12,37,F,10,4,4,4,4,5,4,2,2,,x,,x,x,,,x,x,,,x,,,FunnelChanterelle Bolete HygrophorusCamarophyllus AlbatrellusOvinus,Bolete,2,Pick,Poisonous,
+13,35,F,4,3,4,4,2,5,5,1,5,x,,,,,,,x,x,,x,x,,,FunnelChanterelle Chanterelle Bolete Lactarius,HornOfPlenty  Leccinum,5,Pick,One,
+14,44,F,31,5,4,4,4,5,4,2,2,x,,,,,,,x,x,,x,x,x,x,FunnelChanterelle AlbatrellusOvinus LactariusRufus,Chanterelle  Lactarius,5,Pick,Milk,Kosteus
+15,65,F,10,1,4,5,5,5,5,4,5,x,,x,,,,,x,x,,x,x,x,x,FunnelChanterelle Lactarius,Chanterelle,4,Pick,Pick,Chanterelle Morel 
+16,36,F,4,3,2,4,4,4,4,2,3,,,,,,,x,x,x,,x,x,x,,FunnelChanterelle,Porcini  Bolete,4,Pick Eat  Separate,Lookalike,
+17,41,F,8,2,4,4,2,4,4,2,4,,x,,x,x,,,x,x,,,x,,,LactariusRufus AlbatrellusOvinus,Chanterelle,3,,,
+18,61,F,8,3,5,4,3,4,4,1,4,x,,,x,x,,,x,x,,,x,,,LactariusTrivialis Porcini BayBolete CurryMilkcap HygrophorusCamarophyllus WitchesCauldron FunnelChanterelle AlbatrellusOvinus,UglyMilkcap  RoughStemmedBolete  FlyAgaric  Chanterelle  Agaricus Coprinus,4,Eat,Lookalike ,Morel
+19,42,F,30,8,5,4,4,4,4,2,5,,x,,,,,,x,x,,x,,,,FunnelChanterelle AlbatrellusOvinus Porcini,Chanterelle,4,Pick,Smell,Mossy
+20,39,F,2,2,1,4,1,4,4,4,3,x,,,x,x,,x,,x,,,,,,FunnelChanterelle HornOfPlenty,Bolete  Chanterelle,4,Pick Clean Whole Terrain BoleteSafe,Lookalike,
+21,53,F,15,2,3,4,2,3,4,2,3,x,,,x,x,,x,,x,,,x,x,,Chanterelle Lactarius Bolete GypsyMushroom,Chanterelle ,3,Pick Clean One,,Familiar FunnelSlope Morel Kosteus
+22,51,F,45,5,5,4,4,4,5,2,3,x,,,x,,,,x,x,,x,x,,,FunnelChanterelle CurryMilkcap VelvetBolete LactariusRufus Porcini,Leccinum Russula UglyMilkcap,3,Pick,Milk,
+23,63,M,15,3,4,5,4,4,3,3,4,,,,x,x,x,,x,x,,,,,,FunnelChanterelle Porcini,Chanterelle,4,White,,Spruces Morel Familiar Old
+24,43,F,34,2,3,4,4,4,4,1,4,x,,,x,x,,,x,x,,x,x,x,,FunnelChanterelle,Chanterelle,4,Tell Eat Lost,Eat,
+25,39,F,13,3,5,5,5,4,5,1,5,x,,,,,,,,x,,x,x,,,FunnelChanterelle,Chanterelle,5,Pick,,Familiar
+26,40,F,9,5,4,2,3,1,4,1,1,x,,,x,x,x,,x,,,x,x,x,,FunnelChanterelle Chanterelle AlbatrellusOvinus,WoollyMilkcap ,4,Tell Equipment Eat,Milk BoleteSafe Sponge Smell,
+27,52,F,25,5,4,4,4,5,4,2,4,x,,x,x,x,,,x,x,,x,x,x,,FunnelChanterelle,Chanterelle,5,Milk Pick Eat,,
+29,70,F,50,3,4,4,4,3,5,5,4,x,,,,,,,,x,,,,x,,Porcini LactariusRufus HygrophorusCamarophyllus,,3,Pick,,
+30,48,F,42,1,5,5,4,3,5,4,3,x,,,,,,,x,x,,x,x,,,Lactarius,Chanterelle,5,Pick,Milk,
+31,39,F,6,3,3,4,2,1,4,4,4,x,,,,,,,,,,,x,,,Bolete FunnelChanterelle Lactarius,Chanterelle,4,Pick Clean Poisonous,,
+32,60,F,40,5,5,4,4,3,4,1,1,,,,x,,,x,x,x,,x,x,x,,FunnelChanterelle AlbatrellusOvinus Porcini,Chanterelle  Russula ,4,Eat,,Scent
+33,43,M,35,5,4,4,3,2,4,2,3,x,,,x,x,,,x,x,,,x,,,FunnelChanterelle,Bolete  Coprinus ,4,Pick Milk,Milk,
+34,49,F,20,3,2,4,4,2,5,1,5,,,x,,,,,,x,,x,,,,FunnelChanterelle Bolete Russula,Chanterelle  Lactarius ,4,Pick,Terrain Sources,Kosteus
+35,53,F,20,6,4,4,4,5,4,1,3,x,,,x,,,x,x,x,,x,,x,,FunnelChanterelle Russula LactariusRufus,FalseSaffronMilkcap  WoollyMilkcap  Chanterelle,4,Pick,Milk,
+36,25,F,8,5,4,2,4,5,4,1,5,x,,,,x,,,x,,,,x,,,FunnelChanterelle Porcini Chanterelle,Chanterelle,5,Pick Unidentified Equipment,BoleteSafe Milk Poisonous,Scent Chanterelle
+37,53,M,10,7,4,5,4,2,5,2,3,x,,,x,,,,x,x,,,x,,,Russula Bolete ShaggyParasol Hydnum CurryMilkcap FlatBulb,Chanterelle Hygrophoraceae Russula Bolete,1,Pick,Smell,FunnelMoss FunnelSpruce Path
+38,24,Other,18,6,4,4,4,2,4,1,3,x,,x,,x,,,x,x,,x,x,x,x,Bolete SlimySpikeCap FunnelChanterelle CraterellusLutescens Russula,Chanterelle  HornOfPlenty,3,Pick Eat Unidentified Equipment,Eat One White,Chanterelle FunnelMoss
+39,51,F,40,10,3,4,2,4,4,4,4,x,,,x,x,,,x,x,,x,x,x,x,Russula Chanterelle FunnelChanterelle,Russula  Chanterelle  Bolete,5,Pick White Unidentified,White Smell,
+40,41,F,12,2,2,5,2,5,4,5,5,,x,,,x,,,,x,,x,x,,,FunnelChanterelle,,5,Pick,,Kosteus
+41,70,M,60,10,4,4,3,4,5,4,5,x,,,,,,,x,,,,x,,,Lactarius,Chanterelle,5,,,
+42,37,F,21,3,4,4,5,5,4,1,3,x,x,,,,,,x,x,,x,x,,x,FunnelChanterelle AlbatrellusOvinus Russula LactariusRufus,WoollyMilkcap  Russula  Chanterelle,5,Pick Unidentified Sources,Milk ,
+43,41,M,19,7,5,4,4,2,4,2,4,,,,x,,x,,x,x,,x,x,x,,FunnelChanterelle AlbatrellusOvinus HygrocybeChlorophana,MeadowWaxcap Chanterelle BareToothedRussula,2,Eat,Poisonous,FunnelSlope Instinct
+44,45,F,40,5,4,4,2,4,4,2,5,,x,,x,,,,x,x,,x,x,,,Chanterelle Lactarius FunnelChanterelle,Chanterelle ,2,Pick,Milk Stockings Sponge,FunnelMoss FunnelSlope
+45,46,F,23,9,5,4,4,4,5,2,5,x,x,x,x,,,,x,,,x,x,,,Russula Bolete FunnelChanterelle Lactarius,,4,Pick Unidentified Milk,Bulb,Familiar Scent Mossy Kosteus Instinct
+46,50,F,10,3,4,4,2,4,2,2,4,x,,,x,x,x,x,,x,,x,x,,,FunnelChanterelle SweetTooth Porcini,Chanterelle,3,,Poisonous,Morel
+47,67,F,40,3,4,4,4,5,5,2,4,x,,,x,,,,x,x,,x,x,x,,Bolete,Russula,4,Pick,Sources,Familiar
+48,67,F,50,2,4,5,4,4,5,4,1,x,,,x,x,,x,x,x,,x,x,x,x,Porcini GypsyMushroom Leccinum LactariusRufus,WoollyMilkcap LactariusTrivialis ,5,,Smell,Familiar
+49,64,F,44,4,4,5,4,5,5,5,3,x,,,,,,,,,,x,x,x,x,FunnelChanterelle Chanterelle Porcini Hydnum,Bolete,4,Pick Alone,Milk,
+50,71,F,50,3,5,5,5,4,4,5,5,,,,x,,x,,x,x,,x,x,,,FunnelChanterelle Lactarius Bolete HornOfPlenty Chanterelle,Russula,4,Pick White One,White Lookalike ,
+51,56,F,40,3,4,5,5,5,4,1,4,x,,,,,,,x,x,,x,x,x,,Bolete FunnelChanterelle,Chanterelle,5,Pick Eat,,Similar
+52,32,F,6,6,4,4,4,2,4,1,3,,x,,,x,,,x,x,x,x,,x,,Lactarius FunnelChanterelle HornOfPlenty Bolete AlbatrellusOvinus,Bolete  Chaga,4,Poisonous Eat,Milk,
+53,55,F,40,3,4,4,4,2,4,2,2,x,,,x,x,,,x,x,,x,x,x,,Lactarius HornOfPlenty FunnelChanterelle,Bolete  Russula  Chanterelle ,4,,BoleteSafe Milk Stockings,Kosteus
+54,34,F,5,3,2,4,4,5,4,4,3,x,,,,,,,x,,,x,x,,,FunnelChanterelle,Bolete,4,Pick,,Familiar Similar
+55,38,F,3,5,3,2,4,5,1,4,3,,,,x,,x,x,x,x,,x,x,x,x,Russula FunnelChanterelle HornOfPlenty,Chanterelle,4,Pick,Milk,
+56,52,F,35,8,5,4,5,5,4,1,4,,,,,,,,x,x,,x,x,x,x,Bolete Chanterelle FunnelChanterelle AlbatrellusOvinus HornOfPlenty,Bolete Chanterelle,5,Pick Clean,Smell,Kosteus
+57,53,F,45,5,4,5,3,4,4,5,4,x,x,x,x,,,,x,x,,x,x,x,,Bolete Russula FunnelChanterelle,Chanterelle,5,Equipment,Pick White,Familiar Instinct
+58,55,F,30,10,4,4,4,4,4,2,3,x,x,,,,x,,x,x,,x,x,x,,FunnelChanterelle GypsyMushroom AlbatrellusOvinus,Chanterelle  Leccinum,4,Unidentified Pick,Pick Sponge Milk Sources,FunnelMoss Chanterelle
+59,63,F,53,3,4,4,4,5,4,2,1,x,,,,,x,,x,x,,x,x,x,x,FunnelChanterelle GypsyMushroom Bolete Lactarius,Chanterelle ,5,Pick,Milk Smell ,Familiar
+60,31,F,3,6,2,5,4,4,4,1,2,,,,x,x,,,x,x,,x,x,,,FunnelChanterelle CurryMilkcap,Chanterelle,4,Pick Milk,Milk White,
+61,45,F,15,3,2,4,3,5,2,1,3,x,,,x,,,,x,x,,x,x,,,Lactarius,Chanterelle,4,Pick,Pick,Spruces Similar Old
+62,63,F,45,8,4,4,4,3,3,1,3,x,,x,x,,,,x,x,,x,,x,x,FunnelChanterelle LactariusRufus HornOfPlenty Chanterelle Bolete Lactarius,Chanterelle  Lactarius  Bolete,4,Pick White,,Old
+63,67,F,58,5,4,4,4,4,4,2,2,x,,,,,,,x,x,,x,x,x,,Bolete FoxyBolete Porcini Lactarius RussulaDecolorans,FunnelChanterelle,4,Pick,Sponge Ring Terrain,Morel Pine Old
+64,34,F,10,2,4,4,3,4,5,2,3,,,x,,x,,,x,x,,,x,x,,FunnelChanterelle Bolete,Chanterelle,4,Pick,,
+65,63,F,30,4,4,4,4,2,4,2,2,,,x,x,,,,x,x,,x,x,,,FunnelChanterelle Chanterelle Bolete Lactarius AlbatrellusOvinus,Chanterelle Bolete,4,Equipment Poisonous,,
+66,60,F,33,6,5,5,5,4,2,2,4,x,,,x,x,x,,x,x,x,x,x,x,x,FunnelChanterelle AlbatrellusOvinus HornOfPlenty Porcini,Chanterelle  YellowSwampRussula  GrassGreenRussula RoughStemmedBolete,3,,Pick,
+67,42,M,30,4,2,4,4,5,2,2,3,,,,x,x,,,x,x,,x,x,x,x,Russula FunnelChanterelle SweetTooth,Porcini  WoollyMilkcap  Chanterelle,2,,,
+68,42,F,5,5,2,4,3,4,4,2,2,x,,x,x,x,x,,x,x,,x,x,x,,Bolete LactariusRufus Russula,WoollyMilkcap,4,Pick Milk,Milk,Path
+69,35,F,5,3,3,4,3,4,5,4,4,,,x,x,x,,,x,x,,x,,,,Bolete Hydnum FunnelChanterelle,Chanterelle  Bolete,5,Pick Unidentified Sources One ,Sources,Similar Chanterelle
+70,52,F,5,2,1,2,1,2,2,2,2,x,,x,x,x,,x,x,x,,x,x,x,,FunnelChanterelle, Lactarius,5,,BoleteSafe ,
+71,21,F,4,3,5,5,4,5,4,4,3,x,x,,,x,,,x,x,,,x,x,,Russula,Bolete,4,Pick,,
+72,64,F,45,3,4,4,4,4,4,2,5,x,x,x,,,,,x,x,,x,,x,x,Chanterelle LactariusRufus Bolete FunnelChanterelle,Chanterelle Lactarius,4,Pick One,White Webcap,
+73,29,F,3,2,2,4,4,5,3,2,4,x,,,x,,,x,x,x,,x,x,x,x,FunnelChanterelle Chanterelle HornOfPlenty Bolete,,4,Pick,,Spruces Pine
+74,66,F,55,12,5,5,5,5,5,1,2,x,,,x,,x,,x,,x,x,,,, Porcini Russula Lactarius HypholomaCapnoides,Hygrophoraceae,5,Unidentified,Ring Bulb,
+75,59,F,10,3,4,4,4,4,3,3,5,x,,,x,x,,,x,x,,x,x,x,,Lactarius Bolete FunnelChanterelle,Chanterelle,5,,Milk,
+76,35,F,3,3,2,4,2,2,4,4,2,,,,x,x,,x,x,,,x,x,x,x,Bolete,Lactarius,3,Equipment Alone Sound,BoleteSafe ,
+77,45,M,5,5,4,5,4,5,3,3,5,x,,x,x,,,,x,,,x,x,x,,FunnelChanterelle SlimySpikeCap LactariusRufus VelvetBolete,Chanterelle Porcini HornOfPlenty Leccinum,5,Pick,White Pick,Kosteus
+78,44,F,40,2,3,4,4,4,4,2,3,x,x,,,,,,x,x,,x,x,x,,Bolete GreyMilkcap  Chanterelle,Chanterelle,5,Pick Alone Tell Equipment Knife,White Red,Chanterelle FunnelSlope Morel Path Pine Rufous
+79,43,F,20,5,4,4,3,4,3,1,2,x,,,x,,,,x,x,,x,x,,x,FunnelChanterelle Lactarius SlimySpikeCap,Bolete  Chanterelle,5,Pick One,,
+80,60,F,40,5,5,5,5,5,4,4,5,x,,,x,,,,x,x,,,x,,,FunnelChanterelle Bolete,Chanterelle,5,Milk,,
+81,62,F,42,5,3,4,4,2,2,2,1,,,x,x,,,,x,x,,x,x,x,x,FunnelChanterelle Leccinum Porcini GyromitraEsculenta,Chanterelle   Bolete,5,Pick,Eat,Chanterelle FunnelMoss
+82,62,F,10,4,4,4,3,5,2,2,5,,x,,x,,x,,x,x,,,,,,FunnelChanterelle Bolete Russula,,4,,White Lookalike,FunnelMoss FunnelSpruce Pine
+83,54,F,26,6,4,3,4,1,1,2,1,x,,,x,,,,x,x,,x,x,x,,FunnelChanterelle Lactarius AlbatrellusOvinus Bolete SweetTooth,Chanterelle  Lactarius  Russula  YellowSwampRussula    WoollyMilkcap,3,Pick Unidentified,Pick ,Morel Chanterelle 
+84,65,F,30,3,4,4,4,5,4,1,3,x,,x,,x,,,x,,,,x,,x,Chanterelle FunnelChanterelle,WoollyMilkcap   AlbatrellusOvinus,4,Pick,Pick,Familiar
+85,49,F,4,3,3,4,2,2,3,4,2,,,,,,,,x,x,,x,x,x,x,Bolete,Chanterelle,4,Eat,,
+86,37,F,30,3,4,5,4,4,5,4,4,x,,,,,,x,x,,,x,x,x,,FunnelChanterelle CraterellusLutescens,Bolete,4,Pick,Bulb Milk Red,FunnelSpruce
+87,27,F,3,4,2,4,4,5,4,1,2,,,x,,,,,x,x,,x,x,x,,Bolete Chanterelle FunnelChanterelle Hydnum GypsyMushroom,Lactarius  Chanterelle,4,Pick Unidentified Equipment,Pick,Chanterelle Old
+88,59,F,10,4,2,4,3,4,4,2,4,x,,x,x,,,,x,x,,x,x,,x,FunnelChanterelle Hydnum Chanterelle,,4,Unidentified,,
+89,57,F,25,4,4,4,4,5,5,3,4,x,,,x,x,,,x,x,,x,x,x,,FunnelChanterelle,Bolete,5,Unidentified Pick Milk White,Pick Milk White,Scent
+90,56,F,4,3,4,4,4,4,5,2,2,x,,,,,,,x,x,,x,,x,,Chanterelle,Lactarius,5,Pick,Smell,
+91,67,M,25,3,4,4,3,4,5,2,2,,,,x,x,,,x,,,x,,x,,Porcini Chanterelle FunnelChanterelle,Chanterelle,5,Pick,Pick,Morel
+92,62,F,30,6,5,5,5,4,3,1,2,x,,,x,,x,,x,x,,x,x,,x,FunnelChanterelle AlbatrellusOvinus SweetTooth RussulaPaludosa RussulaVinosa BloodRedWebcap,Chanterelle ParasolMushroom ,3,Pick Unidentified Separate,,Instinct
+93,73,F,55,2,4,5,4,5,5,3,3,,,,x,x,,,x,x,,x,,x,,Porcini Lactarius HornOfPlenty GypsyMushroom FunnelChanterelle GyromitraEsculenta,Chanterelle,4,Pick,,Familiar
+94,47,F,20,7,3,4,3,5,2,2,3,x,,,x,x,,x,x,x,,x,x,x,x,FunnelChanterelle Chanterelle CurryMilkcap UglyMilkcap LactariusRufus WoollyMilkcap AlbatrellusOvinus SweetTooth Porcini HornOfPlenty HygrophorusCamarophyllus YellowSwampRussula Leccinum,Chanterelle AlbatrellusOvinus SweetTooth Porcini YellowSwampRussula Leccinum GypsyMushroom,5,One Unidentified Separate Terrain Senses,,
+95,61,F,30,3,4,4,4,4,4,3,3,x,,,x,,,,x,x,,x,x,x,,FunnelChanterelle Bolete LactariusRufus,Bolete,4,One,Smell Milk,Familiar
+96,49,F,20,8,4,5,4,5,5,1,1,x,x,,x,,,,x,x,,x,x,x,,Bolete AlbatrellusOvinus BloodRedWebcap Lactarius,Chanterelle  Russula  SheathedWoodtuft  Bolete ,5,Milk,Bulb,Kosteus
+97,36,F,5,5,4,4,4,2,4,2,3,,,,x,,,x,x,x,,x,x,x,x,FunnelChanterelle,Porcini,3,,Pick,Mossy
+98,34,M,4,12,4,5,3,4,4,2,4,x,,,x,x,x,,x,x,,x,x,x,x,FunnelChanterelle Chanterelle AlbatrellusOvinus LactariusTrivialis,Chanterelle  WoollyMilkcap  GrassGreenRussula ,3,Pick Separate Terrain,Sponge Milk None,Path Kosteus
+99,50,F,10,3,4,4,2,4,4,2,2,x,,x,x,x,,,x,x,,x,x,x,,FunnelChanterelle CurryMilkcap,Chanterelle,5,White One ,Sponge,FunnelMoss Morel Chanterelle Path 
+100,56,F,30,6,4,4,4,4,4,1,4,x,,,x,x,,x,x,x,,x,x,,,Chanterelle Lactarius FunnelChanterelle SurpriseWebcap Russula Bolete,Chanterelle  Russula  Bolete  Lactarius,4,Pick,White Milk ,
+101,55,F,40,3,5,4,4,5,2,2,3,x,,,,,x,,x,x,,x,x,x,,Russula Chanterelle FunnelChanterelle Bolete,Chanterelle ,4,Pick,,
+102,49,F,20,3,3,4,4,5,5,4,2,,,x,,,,,,,,x,x,x,,FunnelChanterelle Lactarius,Chanterelle,4,Pick,Pick,
+103,58,F,26,3,4,5,2,4,4,5,2,x,,,,,,x,x,x,,x,x,x,x,FunnelChanterelle HornOfPlenty,,5,Clean Separate Terrain Clean,Smell Milk,Kosteus
+104,44,F,15,5,4,4,4,3,4,1,4,x,,,,x,,x,x,x,,x,x,,x,AlbatrellusOvinus Hydnum FunnelChanterelle Agaricus,Russula  Bolete  Leccinum   Chanterelle    Lactarius Agaricus ParasolMushroom   ,4,Pick Terrain,White None,Familiar
+105,56,F,50,6,5,4,5,4,5,1,4,x,,x,x,,,,x,x,,x,x,x,x,Russula Bolete Chanterelle FunnelChanterelle GypsyMushroom,,5,White,White,Kosteus
+106,34,F,4,6,4,4,4,4,4,1,1,,,,x,x,,x,x,x,,x,x,x,x,Bolete Chanterelle Lactarius AlbatrellusOvinus,Bolete  Chanterelle,4,Eat,,
+107,55,F,35,2,2,4,4,4,5,4,4,x,,,,x,,x,x,x,,x,,,x,FunnelChanterelle HornOfPlenty,Chanterelle  GyromitraEsculenta,2,Pick,,
+108,51,F,40,8,5,5,4,4,4,3,3,x,,,x,,,,x,,,x,x,,,Hydnum AlbatrellusOvinus FunnelChanterelle,Chanterelle  Bolete  Russula,3,,,
+109,47,F,40,6,4,5,5,3,1,1,1,x,x,,x,,,,x,x,,x,x,x,x,Bolete Cantharellus Lactarius ,WoollyMilkcap Porcini,4,Equipment,Pick,
+110,59,F,30,3,5,4,4,4,4,2,4,x,x,,x,,,,x,x,,x,x,x,,Chanterelle FunnelChanterelle Bolete Lactarius,Chanterelle,5,Pick,Milk,Mossy Spruces Old
+111,33,F,25,2,4,5,5,5,4,4,4,x,,,x,,,x,,x,,x,,,,Russula,Bolete,3,Milk,,
+112,34,M,10,10,4,4,4,4,4,2,3,x,x,x,x,x,,x,x,x,,x,x,,x,Hydnum Bolete Cantharellus Lactarius Russula,Agaricus  HornOfPlenty,3,Pick,,Familiar
+113,22,M,3,4,4,4,4,4,3,2,5,,,,x,x,,x,x,x,,,x,x,x,FunnelChanterelle Chanterelle AlbatrellusOvinus RussulaPaludosa HornOfPlenty,Chanterelle  HornOfPlenty,2,Sources,,
+114,28,F,2,1,1,5,2,5,4,3,3,,x,,,x,,,x,x,,x,x,,,FunnelChanterelle,Bolete,5,Pick,BoleteSafe Sponge,
+115,71,M,60,7,5,5,4,3,5,1,4,x,,,,,,,x,x,x,,x,x,,Porcini LactariusTrivialis RussulaPaludosa Russula AlbatrellusOvinus SweetTooth TerracottaHedgehog HornOfPlenty Chanterelle FunnelChanterelle HygrophorusCamarophyllus Agaricus,Agaricus  OrangeBirchBolete  GrassGreenRussula Chanterelle  UglyMilkcap Clitocybe Entoloma Hygrophoraceae,3,Equipment,Milk White Pick ,Familiar Morel
+116,59,F,45,5,4,4,4,2,2,4,4,x,,,x,x,,,x,x,,x,x,x,x,RamariaFlava Ramaria LactariusTrivialis PseudoplectaniaNigrella Lactarius Russula FunnelChanterelle,WoollyMilkcap Chanterelle,3,Pick,Pick,
+117,25,M,3,4,2,4,2,2,2,2,3,x,x,,,x,,,x,x,,x,x,x,,Bolete FunnelChanterelle,,5,Equipment,,
+120,32,F,10,3,4,4,4,5,2,2,2,x,x,,x,x,,,x,x,,x,x,x,,Porcini FunnelChanterelle HypholomaCapnoides BirchMilkcap CurryMilkcap,Leccinum  Chanterelle  SlipperyJack,5,Pick Unidentified,Milk ,Morel Chanterelle FunnelSlope FunnelSpruce Rufous
+121,65,F,35,10,4,4,4,4,4,3,3,,,,x,,,x,,,,x,x,x,,FunnelChanterelle,Chanterelle  Bolete,3,,,
+122,49,F,29,6,5,4,4,5,4,2,2,x,x,,x,,,,x,,,x,x,,,Lactarius FunnelChanterelle Chanterelle AlbatrellusOvinus HygrophorusCamarophyllus SlimySpikeCap  Webcap VelvetRollRim,Porcini  OrangeBirchBolete  Russula  YellowSwampRussula  Chanterelle  UglyMilkcap ,5,Pick,Pick Poisonous Milk,
+123,85,F,60,3,4,4,5,2,5,5,3,x,,,x,,,x,x,x,,,,x,x,AlbatrellusOvinus Bolete,SlipperyJack  GrassGreenRussula    Morel ,4,Separate Sources Pick,White,Morel Chanterelle Pine
+124,53,F,48,6,5,5,4,4,4,2,2,x,x,,x,x,,,x,x,,x,x,x,x,FunnelChanterelle Porcini VelvetBolete Leccinum LactariusRufus WoollyMilkcap Russula RussulaDecolorans RussulaPaludosa RussulaVinosa Hydnum GypsyMushroom HygrophorusCamarophyllus,Chanterelle Coprinus  SlipperyJack  Lycoperdon PearShapedPuffball CommonPuffball,5,Milk White ,,
+125,57,F,3,3,5,5,4,5,5,4,4,x,,,,,,,,x,,,x,x,,FunnelChanterelle,Chanterelle,5,Tell Sound,,Path FunnelSlope Morel
+126,67,F,53,4,4,5,5,5,4,4,3,x,,,x,,,,x,,,x,x,x,,FunnelChanterelle Lactarius,Chanterelle,4,Equipment,,
+127,53,F,30,5,4,4,4,5,5,1,1,x,x,,,,,,x,,,x,x,,,FunnelChanterelle AlbatrellusOvinus Hydnum,Chanterelle  WoollyMilkcap  Bolete,5,Eat,White Smell Milk,FunnelMoss FunnelSpruce Morel Chanterelle
+128,57,F,30,15,5,3,4,3,2,1,3,x,,,x,x,x,x,x,,x,,x,,,SurpriseWebcap BloodRedWebcap Porcini RedBeltConk HornOfPlenty LactariusRufus,Chanterelle  WoollyMilkcap  ScotchBonnet  Hygrocybe ,5,Knife,,
+129,38,F,10,4,4,5,4,5,4,4,2,x,x,,,x,,,x,x,,x,x,,,FunnelChanterelle AlbatrellusOvinus Bolete GypsyMushroom Lactarius,Chanterelle  Bolete Lactarius,4,Separate,Sources,
+130,42,F,30,6,5,5,4,4,4,3,3,x,,,,,,,x,x,,x,x,x,,Bolete FunnelChanterelle,ParasolMushroom   ,3,Tell Equipment Pick,,
+131,30,F,6,3,4,5,4,4,3,4,4,x,,,,,,x,x,x,,x,x,x,x,Chanterelle HornOfPlenty Lactarius,RoughStemmedBolete,4,Equipment,Pick,
+132,38,F,30,3,4,5,4,5,5,4,4,x,x,,,,,,x,x,,x,x,x,x,FunnelChanterelle AlbatrellusOvinus Leccinum,Chanterelle,4,,Pick BoleteSafe Milk,Chanterelle FunnelMoss FunnelSlope Morel Old
+133,27,Other,4,3,3,2,1,3,2,1,2,,,,x,x,x,x,x,,,,x,,,FunnelChanterelle Lactarius Bolete Hydnum HornOfPlenty GypsyMushroom SlimySpikeCap Chanterelle,Bolete  ShaggyInkCap  GypsyMushroom  Chanterelle  CommonPuffball  ParasolMushroom,4,Milk White Pick Whole Whole ,White Milk,
+134,67,F,45,10,5,4,4,5,4,2,5,x,,,,,,,,,,x,,,,Chanterelle FunnelChanterelle HornOfPlenty,Chanterelle  UglyMilkcap ,4,Pick,,
+135,32,F,13,4,5,5,5,5,3,2,4,x,,,x,x,,,x,x,,x,x,,x, FunnelChanterelle GypsyMushroom,Chanterelle  Bolete  Russula ,5,Pick,Milk,
+136,40,F,3,3,2,4,2,2,5,1,2,,,,,x,,x,,,,,,x,, FunnelChanterelle,Lactarius,4,Pick,Pick,
+137,55,M,10,2,2,4,4,4,4,5,4,,,,,,,x,,x,,,,x,,FunnelChanterelle Bolete,Chanterelle,5,Pick,,Kosteus
+138,77,F,70,15,5,5,5,5,4,4,4,x,x,,x,x,,x,x,x,x,x,x,,,GyromitraEsculenta Chanterelle BayBolete Russula GypsyMushroom HygrophorusCamarophyllus HornOfPlenty FunnelChanterelle AlbatrellusOvinus Lactarius,Bolete  Hygrophoraceae  HornOfPlenty  CloudedAgaric ParasolMushroom  FlyAgaric,4,Pick Unidentified,,Familiar Similar
+139,49,F,12,10,2,1,2,1,2,1,1,,,,x,x,,,x,,,x,x,,,Porcini HypholomaCapnoides Lactarius FunnelChanterelle HornOfPlenty AlbatrellusOvinus Hydnum HygrophorusCamarophyllus FlatBulb,Lactarius  Russula  Leccinum  GypsyMushroom  SheathedWoodtuft  BayBolete  Chanterelle  BirchWebcap,2,Unidentified,Milk Bulb ,Kosteus
+140,27,F,10,2,4,5,5,5,4,1,1,x,,,,,,,x,x,,x,x,x,x,FunnelChanterelle HornOfPlenty,Chanterelle,4,Pick,Spot,Kosteus
+141,31,F,5,5,2,4,4,5,2,1,4,,,,x,x,,,x,x,,x,x,x,,FunnelChanterelle HornOfPlenty Russula Bolete Webcap Amanita,Chanterelle Agaricus  Amanita,3,Milk Eat,Milk,
+142,55,F,14,6,4,5,4,5,5,4,5,x,,,,,,x,,x,,,x,,,FunnelChanterelle Porcini,,5,Pick White,,
+143,46,F,10,2,3,4,2,5,4,5,5,,,,,,,x,x,,,x,,x,,FunnelChanterelle Chanterelle,,5,Pick,,Familiar
+144,50,F,18,3,4,4,4,2,2,5,3,,x,,x,,x,x,x,x,x,,,,,Matsutake GypsyMushroom LactariusRufus VelvetBolete VelvetRollRim Webcap,OrangeBirchBolete  WoollyMilkcap  Chanterelle Chaga,3,Equipment Tell Lost,Eat ,
+145,65,F,35,3,4,4,4,4,5,2,2,x,,x,x,,,,x,x,,,x,x,,LactariusRufus PineBolete,,1,Familiar Equipment Clean,Pick Smell Milk,Morel Similar
+146,69,F,50,10,4,5,4,4,3,1,3,x,,,x,,x,,x,x,,,x,,x,Russula Lactarius Chanterelle Bolete FunnelChanterelle HornOfPlenty GypsyMushroom HygrophorusCamarophyllus Hydnum Matsutake,Russula  Bolete  Chanterelle  HornOfPlenty  Agaricus,5,,,
+147,56,F,20,2,4,4,4,4,4,2,3,,,,x,x,,,x,,,x,x,,x,FunnelChanterelle,Chanterelle,5,Pick One,,FunnelMoss
+148,36,F,20,6,4,4,4,4,4,4,3,x,,,x,,,x,x,x,,x,x,x,x,FunnelChanterelle HornOfPlenty Lactarius Bolete,Chanterelle  Russula,4,Pick,Milk BoleteSafe,Chanterelle
+149,77,M,55,4,4,4,5,4,2,4,3,x,,,,,,,x,x,,,x,x,,LactariusRufus GypsyMushroom Porcini Russula,Chanterelle  GrassGreenRussula,4,White ,,
+150,30,F,5,3,2,4,4,4,4,2,5,,x,,x,x,,x,x,x,,x,,,x,Lactarius CurryMilkcap LactariusRufus WoollyMilkcap AlbatrellusOvinus HornOfPlenty FunnelChanterelle SlimySpikeCap HygrophorusCamarophyllus Russula GypsyMushroom Bolete Chanterelle,Chanterelle Bolete  Agaricus ,5,Pick ,Milk Smell,Similar
+151,26,F,10,2,4,5,4,5,4,5,2,x,,,x,x,,,x,x,,x,x,x,,AlbatrellusOvinus FunnelChanterelle,,4,Pick Poisonous Equipment,Lookalike,Familiar Cluster
+152,58,F,30,3,4,4,4,5,4,4,3,,,,,,x,x,x,,,x,x,x,,Bolete FunnelChanterelle Lactarius,Chanterelle,3,Eat,,
+153,39,F,20,3,2,4,3,4,5,2,3,x,x,,,,,,x,,,,,,,FunnelChanterelle Porcini  WoollyMilkcap AlbatrellusOvinus HornOfPlenty,Porcini   WoollyMilkcap ,5,Equipment Tell,Pick Lookalike,Chanterelle FunnelMoss Mossy Familiar Rufous
+154,29,F,3,4,4,4,5,5,2,4,5,x,x,,,x,,,x,x,,x,x,x,x,Bolete FunnelChanterelle AlbatrellusOvinus,Russula   Lactarius,5,Pick One,Poisonous Lookalike,Spruces Kosteus Sloped
+155,60,F,25,20,4,4,4,2,1,1,1,x,,,x,x,,,x,x,x,x,x,x,,HypholomaCapnoides TheMiller FalseSaffronMilkcap LactariusAurantiacus ParasolMushroom FunnelChanterelle Chanterelle CurryMilkcap Porcini Agaricus HornOfPlenty BayBolete StrobilurusEsculentus HygrophorusCamarophyllus Russula PestlePuffball BloodRedWebcap,GrassGreenRussula  YellowSwampRussula  Russula  RoughStemmedBolete  WoollyMilkcap  SheathedWoodtuft  UglyMilkcap  Chanterelle  OrangeBirchBolete  Chaga  CoconutScentedMilkcap  ClitocybeCatinus,5,Pick One Equipment Separate Terrain Senses,Poisonous Eat ,
+156,56,F,40,8,5,4,3,3,4,1,3,x,x,,x,x,,x,x,x,,x,x,x,x,Bolete SlimySpikeCap Lactarius AlbatrellusOvinus HornOfPlenty FunnelChanterelle BloodRedWebcap,Chanterelle  Bovista Lycoperdon Bolete FalseSaffronMilkcap   ,3,Alone Separate Unidentified,White Milk,Cluster FunnelMoss 
+157,57,F,50,3,5,5,4,5,4,4,4,,x,,x,x,,,x,x,,x,x,x,,AlbatrellusOvinus FunnelChanterelle GypsyMushroom HornOfPlenty,Porcini,3,Milk,White,
+158,49,F,15,2,4,4,3,5,4,3,3,,,,,,,x,x,x,,x,x,x,x,Bolete FunnelChanterelle,Chanterelle,4,Pick,,
+159,42,F,25,4,5,5,5,5,4,4,5,,,,x,,,,x,,,x,x,x,,FunnelChanterelle,Chanterelle,2,Pick,White,
+160,28,F,23,4,4,4,5,5,4,3,4,x,x,,,,,,x,,,x,x,,,,,5,Pick Separate Milk,Milk Terrain Sponge,
+161,39,F,10,2,2,5,5,2,2,2,1,x,x,,,,,,x,x,,x,x,,,,,4,Pick ,Pick,
+162,56,F,50,4,4,4,4,4,2,2,1,x,,,,,x,x,x,x,,x,x,x,x,Russula Bolete Lactarius FunnelChanterelle,Chanterelle Bolete,4,Tell Equipment Knife Lost,Pick Milk White Stockings,
+163,65,F,13,3,2,4,4,4,4,4,5,x,,,,,,x,x,,,x,,,x,Bolete Chanterelle Hydnum,WoollyMilkcap Russula,4,Pick Sound,Pick Sources,Morel Kosteus
+164,48,F,10,4,4,5,4,4,4,1,2,,,,x,x,,x,x,,,x,x,,,Chanterelle FunnelChanterelle Bolete,,5,,Pick,
+165,49,F,10,3,4,5,5,3,4,2,2,,,,x,x,x,,x,x,,x,x,x,x,FunnelChanterelle Bolete Lactarius Russula AlbatrellusOvinus,Chanterelle GrassGreenRussula,5,Pick Sources,BoleteSafe,Kosteus
+166,28,F,2,4,3,4,4,5,2,2,4,x,,,x,x,,,x,x,x,x,x,x,x,FunnelChanterelle HornOfPlenty Bolete Lactarius,Morel  SlipperyJack  ParasolMushroom  Agaricus,4,Pick Unidentified White,,
+167,51,F,3,2,2,3,3,4,4,2,2,x,,x,x,,,,x,x,,x,x,x,,HornOfPlenty Chanterelle FunnelChanterelle,Chanterelle,4,Pick,,
+168,42,F,30,2,4,4,4,5,2,2,3,x,,,,,,,x,x,,x,,,,FunnelChanterelle Chanterelle Porcini HornOfPlenty Russula,UglyMilkcap   WoollyMilkcap Agaricus,4,Equipment Milk Pick,White Bulb ,Morel Mossy Chanterelle
+169,40,F,10,2,3,4,4,3,5,4,2,,,x,,,,,x,x,,x,x,,,FunnelChanterelle Chanterelle,Bolete,5,Pick,,FunnelSpruce FunnelSlope Old
+170,53,F,5,3,4,4,3,5,4,2,4,x,,,x,x,,,x,x,,x,x,,,FunnelChanterelle Bolete,GrassGreenRussula  Chanterelle,4,Eat,,
+171,73,F,60,4,4,4,4,4,4,1,3,x,,,x,,x,,x,x,,x,x,x,,FunnelChanterelle SweetTooth,Bolete  Chanterelle ,2,Pick,Pick,
+172,27,Other,2,5,2,4,1,5,3,1,5,x,,,x,x,,x,x,x,,,,,,FunnelChanterelle,Lactarius,4,Pick,Poisonous Pick,
+173,48,F,30,1,4,5,4,5,4,4,5,x,,,x,,,,x,,,x,x,,,AlbatrellusOvinus FunnelChanterelle Porcini SweetTooth Chanterelle,Chanterelle ,4,,Milk Stockings,
+174,67,M,10,4,4,2,4,4,4,4,5,,,,x,x,,,x,x,,x,,x,,Chanterelle Bolete FunnelChanterelle HornOfPlenty,Chanterelle,4,Pick,,
+175,19,M,5,4,4,4,4,4,2,2,2,x,,,,,,,x,x,,x,x,,,LactariusRufus Porcini,Russula   Lactarius ,5,Senses Milk,,Kosteus
+176,28,F,3,2,3,4,2,4,4,1,5,x,,,,,,,x,x,,,,,,FunnelChanterelle,Chanterelle,4,Equipment,Pick,
+177,73,M,40,5,5,4,4,5,4,2,5,,,x,x,,,,x,x,,x,,x,,Leccinum Porcini Lactarius AlbatrellusOvinus, Morel,5,Milk BoleteSafe,Pick,Morel Old
+178,48,F,40,4,5,5,5,4,4,1,1,x,,,,,,,x,x,,x,x,x,,Bolete Lactarius,Chanterelle,2,Milk,Milk,
+179,39,F,8,5,3,4,4,4,4,2,4,,x,,x,x,,x,x,,,x,x,,,FoxyBolete PineBolete LactariusRufus VelvetBolete Chanterelle GypsyMushroom ,SheathedWoodtuft  YellowSwampRussula  Porcini  Chanterelle ,4,Whole Separate  Eat,Milk White Smell Terrain Stockings,Chanterelle Instinct
+180,65,F,50,2,3,4,2,1,5,1,3,x,,x,,,,x,x,x,,x,,x,,FunnelChanterelle Chanterelle Lactarius,Chanterelle,5,Pick,Milk,Chanterelle Pine FunnelMoss
+181,56,F,45,5,4,5,4,4,2,4,2,x,,,x,x,,,x,x,,x,x,x,,Porcini,Chanterelle,3,Pick Unidentified Eat Poisonous,,
+182,35,F,8,3,4,4,4,4,4,2,1,x,,x,x,,x,,x,x,,x,x,x,x,FunnelChanterelle Chanterelle Lactarius,Bolete  Lactarius,5,Knife Equipment,,Similar
+183,62,F,42,4,5,5,5,5,4,5,4,x,,,,,,,x,,,x,x,,,AlbatrellusOvinus Chanterelle FunnelChanterelle,Russula  Chanterelle,3,Pick,,
+184,70,F,60,10,4,4,4,5,5,2,5,,x,,x,,x,,,x,,,x,x,,Bolete FunnelChanterelle Hydnum Lactarius,Chanterelle  Bolete,4,Familiar,Pick,Old
+185,53,F,51,3,4,4,4,4,2,5,3,x,,,x,x,,,,x,,x,x,,,Hydnum FunnelChanterelle Chanterelle Bolete HornOfPlenty,Chanterelle  Bolete  Lactarius,4,Pick Unidentified Separate,Smell,
+186,63,F,15,3,4,4,4,5,5,4,2,x,,,x,,,,x,x,,x,x,x,,Russula FunnelChanterelle Bolete,Chanterelle  Bolete,5,Pick,Milk,Chanterelle
+187,38,F,4,2,4,4,3,5,4,4,4,x,,,x,x,x,,x,x,,x,x,x,,FunnelChanterelle Chanterelle Lactarius,Bolete,5,Pick,BoleteSafe Milk White,
+188,68,F,40,5,3,4,4,2,2,2,1,x,,,,,,,x,x,,x,x,x,x,FunnelChanterelle Lactarius HornOfPlenty Bolete Russula,Coprinus  ParasolMushroom   ,2,Pick,Pick,
+189,36,F,20,3,4,4,3,5,4,2,3,x,,,x,,,x,x,x,,x,x,x,x,FunnelChanterelle AlbatrellusOvinus GypsyMushroom, BoletusBetulicola   WoollyMilkcap,4,Pick Sources,Milk Stockings ,Mossy Sloped
+190,27,F,20,3,2,3,4,4,3,2,2,x,,,x,x,,,x,x,,x,x,,,FunnelChanterelle Lactarius Russula AlbatrellusOvinus SweetTooth Bolete,Chanterelle  Bolete,5,Milk  Pick,Milk BoleteSafe,
+191,63,F,55,5,5,4,5,5,4,5,5,x,,,x,,,x,,x,,x,x,,,Chanterelle FunnelChanterelle Bolete Russula AlbatrellusOvinus HornOfPlenty,Bolete  Russula  Chanterelle  ParasolMushroom SlimySpikeCap,5,Equipment Separate Knife White Sources,Stockings White Poisonous,FunnelSpruce FunnelSlope Morel Chanterelle
+192,74,F,64,4,4,4,4,4,3,4,4,x,,x,x,,,,x,x,,,x,x,,FunnelChanterelle Chanterelle Russula Bolete HypholomaCapnoides SweetTooth AlbatrellusOvinus Lactarius HornOfPlenty,Russula  Lactarius ,4,Pick Unidentified,White Webcap ,Mossy Kosteus Path
+193,31,F,15,5,4,2,3,2,1,2,3,x,,,x,,x,,,x,x,x,x,,,FunnelChanterelle HornOfPlenty Porcini GyromitraEsculenta GypsyMushroom SlimySpikeCap,Chanterelle  Leccinum  WoollyMilkcap  SlipperyJack,4,Pick One Clean,BoleteSafe Sponge Milk,
+194,53,M,10,6,4,4,4,5,4,5,4,x,,,,,,,x,x,,x,x,x,x,HornOfPlenty,Chanterelle,4,,Pick,
+195,33,F,6,3,4,4,4,5,5,2,1,,,,,,,x,x,x,,,x,x,,FunnelChanterelle,Bolete,3,Pick,Smell,Familiar Similar
+196,78,F,55,10,4,5,4,4,5,1,2,x,,,x,x,,,x,,,x,x,,,GypsyMushroom Lactarius HornOfPlenty FunnelChanterelle,Chanterelle  Russula,4,Pick,Webcap Milk,
+197,68,F,50,10,5,4,5,4,4,3,3,x,x,,x,,,,,x,,x,,x,,,SheathedWoodtuft,2,Eat,White ,
+198,37,F,16,3,3,4,4,2,4,2,5,x,,,,,,x,x,x,,x,,,x,HornOfPlenty FunnelChanterelle,Chanterelle,4,Pick,Pick,Familiar
+199,38,F,25,3,4,4,4,4,4,2,2,x,,,,,x,,x,x,,x,x,,,Chanterelle FunnelChanterelle,WoollyMilkcap,4,Pick Clean,,Kosteus
+200,38,F,8,3,4,5,4,5,5,2,5,,,x,x,x,,,x,x,,x,x,x,x,ParasolMushroom Chanterelle FunnelChanterelle,Porcini,5,,,
+201,37,F,31,5,5,5,4,4,4,1,3,x,,x,x,,,,x,x,,x,x,,x,AlbatrellusOvinus SweetTooth FunnelChanterelle HygrophorusCamarophyllus,Porcini,4,Pick,Poisonous,
+202,38,F,5,3,1,3,4,5,2,1,4,x,x,,x,x,,,x,x,,x,x,x,x,Bolete FunnelChanterelle Chanterelle,WoollyMilkcap  Chanterelle,4,Pick Milk Sources,,Kosteus
+203,63,F,41,5,5,4,4,2,4,4,2,,,,x,x,x,,x,x,,x,x,,,FunnelChanterelle AlbatrellusOvinus HornOfPlenty Chanterelle SweetTooth LactariusTrivialis Porcini LactariusLignyotus HygrophorusCamarophyllus HypholomaCapnoides,Chanterelle  Russula  WoollyMilkcap  Leccinum,2,Pick ,Milk,
+204,75,M,86,6,5,5,5,3,3,3,3,x,,,x,,x,x,x,x,,x,,,x,Lactarius Russula AlbatrellusOvinus FunnelChanterelle Hydnum,Chanterelle  BirchWebcap  Russula OrangeBirchBolete,4,Pick,,Kosteus
+205,52,M,45,5,4,3,4,2,4,2,4,x,,,,,,,x,x,,x,x,,,Russula Lactarius Chanterelle FunnelChanterelle HygrophorusCamarophyllus,Russula  Lactarius  Hygrophoraceae  GypsyMushroom,4,Eat Separate,Eat ,
+206,36,F,2,4,2,4,4,4,2,2,2,,,x,x,,x,,x,x,,x,x,x,,,,4,,,
+207,59,F,50,10,5,4,5,5,5,1,3,x,,,,,,,x,x,,x,x,x,x,Lactarius FunnelChanterelle Bolete Chanterelle GypsyMushroom Russula, Chanterelle  Hydnum,1,Eat,None,
+208,69,M,6,10,2,4,4,4,4,2,3,,,,x,x,,,x,x,,x,x,x,,Bolete FunnelChanterelle AlbatrellusOvinus SweetTooth ParasolMushroom Russula Chanterelle,WoollyMilkcap,4,,White,
+209,65,F,6,3,4,4,4,5,2,2,4,,,x,x,x,,,x,x,,x,x,x,x,FunnelChanterelle HornOfPlenty Chanterelle SweetTooth AlbatrellusOvinus RedBandedCortinarius,GrassGreenRussula  Chanterelle  WoollyMilkcap,5,Pick,Milk Sources,
+210,48,F,36,6,4,5,4,4,4,2,2,x,,,x,x,,,x,x,,x,x,x,x,LactariusRufus Bolete Russula,Lactarius  Bolete,4,Familiar Equipment Alone,Pick Smell Milk,Kosteus
+211,55,F,5,3,4,1,4,5,5,2,4,,x,,x,x,,,x,x,,,x,x,,FunnelChanterelle Lactarius,Chanterelle,4,Milk Pick BoleteSafe,,Chanterelle Old
+212,36,F,10,10,2,3,3,4,2,1,2,,,,x,,,x,x,x,,x,x,x,,AlbatrellusOvinus SlimySpikeCap Hydnum Webcap,SlipperyJack,4,Separate Sources,Bulb,
+213,49,F,10,3,2,4,4,1,5,2,1,x,,,,,,,x,,,x,x,x,x,Chanterelle FunnelChanterelle Hydnum Bolete,Chanterelle,3,,Pick,
+214,26,F,1,2,1,2,2,4,4,1,3,,,,x,x,,,x,x,,x,x,,,FunnelChanterelle Bolete,WoollyMilkcap,4,Eat Separate Equipment,Terrain,Familiar
+215,50,F,10,3,2,4,4,2,4,1,4,,,,,x,,,x,x,,x,x,x,x,FunnelChanterelle,Chanterelle,5,Pick Separate Knife Alone,,
+216,65,F,25,5,4,4,3,2,4,4,3,x,,x,x,,,,x,x,,,x,x,x,FunnelChanterelle HornOfPlenty Bolete Chanterelle LactariusRufus,Chanterelle LactariusTrivialis ,3,,,Familiar
+217,21,M,4,3,4,4,4,5,4,2,5,x,x,x,x,x,,,x,x,x,x,x,x,x,FunnelChanterelle Porcini,Chanterelle  SlipperyJack  Agaricus,5,Knife,Poisonous,
+218,36,F,30,2,4,5,3,5,5,2,2,x,,,,,,,x,x,,x,x,x,x,FunnelChanterelle Chanterelle Bolete,-,5,Pick,Sources,Familiar
+219,29,F,5,6,2,4,5,5,2,2,1,,,,x,,,x,x,x,,x,x,,,FunnelChanterelle Chanterelle Bolete Hydnum,Lactarius Russula  Chanterelle ,4,Eat One,,Mossy
+220,40,Other,10,5,2,4,1,5,5,4,3,x,,,,,,x,x,,,x,x,x,x,FunnelChanterelle Chanterelle Bolete,Chanterelle,5,Pick Familiar,,Familiar
+221,51,F,32,9,5,5,4,5,4,2,4,,,,x,x,,x,x,x,,x,x,x,x,FunnelChanterelle HornOfPlenty Lactarius Russula GypsyMushroom SlimySpikeCap Bolete,Chanterelle Bolete ,4, Clean,Milk Sponge ,FunnelSlope FunnelMoss Path
+222,61,F,51,20,5,5,4,4,4,1,4,x,,,x,,,x,x,x,,,x,,,FunnelChanterelle SweetTooth Bolete,Russula  LactariusRufus,2,eat White Pick,,Familiar FunnelMoss
+223,54,F,23,4,4,4,4,4,4,2,4,x,,,x,,,x,,x,,,x,x,,Lactarius Cantharellus Bolete AlbatrellusOvinus HornOfPlenty,Agaricus  Amanita,2,,Webcap,Path Cluster Old
+224,34,F,4,3,4,4,4,5,3,2,4,,,,x,x,,,x,x,,x,x,x,,FunnelChanterelle LactariusRufus Porcini,Chanterelle  WoollyMilkcap  OrangeBirchBolete,3,Pick,Milk,
+225,70,F,40,5,4,5,5,4,5,4,3,x,,,x,,,x,x,x,,x,x,x,,Bolete Chanterelle FunnelChanterelle Lactarius Russula,,4,Pick Equipment,,Mossy
+226,64,F,30,12,5,5,4,5,5,2,3,x,,,,,,,x,x,,x,x,x,,FunnelChanterelle CraterellusLutescens Chanterelle GypsyMushroom SlimySpikeCap Bolete Lactarius,Chanterelle Lactarius,5,Eat,Milk,Familiar
+227,67,F,47,3,4,4,2,5,5,2,4,x,,x,x,,,,x,x,,,,,,Chanterelle Bolete GypsyMushroom Lactarius FunnelChanterelle,AlbatrellusOvinus  Chanterelle  Russula,3,Milk White ,Pick,
+228,44,F,8,10,5,5,4,5,4,1,3,,,x,x,x,,,x,x,,x,x,,,HornOfPlenty FunnelChanterelle CraterellusLutescens Chanterelle LactariusTrivialis LactariusUtilis CurryMilkcap Porcini FoxyBolete AlbatrellusOvinus SweetTooth GypsyMushroom HygrophorusCamarophyllus SlimySpikeCap,Chanterelle YellowSwampRussula LactariusTrivialis OrangeBirchBolete,5,Eat Sources Clean White,Smell Milk BoleteSafe ,Morel Familiar
+229,48,F,10,20,5,2,4,2,2,1,5,,,,,,x,,x,,x,x,x,,,HornOfPlenty FunnelChanterelle Webcap,Hygrocybe  Cuphophyllus Gliophorus Geoglossum,3,Eat Senses,None,
+230,35,F,10,3,4,4,2,5,4,2,5,x,,,,x,,,x,x,,x,x,,,Lactarius AlbatrellusOvinus FunnelChanterelle,,3,Pick,,Kosteus
+231,63,F,40,4,4,4,5,4,5,5,5,x,,,x,,,,x,x,,x,x,,,FunnelChanterelle,Bolete  Chanterelle,5,,,Familiar
+232,61,F,10,3,4,3,3,4,4,4,4,x,,,x,x,,,x,x,,x,x,,,FunnelChanterelle Chanterelle LactariusTrivialis,Chanterelle  Bolete ,5,,,
+233,37,F,5,5,4,3,4,5,4,2,2,x,,,x,,,,x,,,x,x,,,FunnelChanterelle Bolete Lactarius,,4,One Pick Clean White,Milk  Pick White Sponge,Cluster Mossy Spruces
+234,51,F,10,3,4,5,5,5,5,1,5,x,,,x,x,,,x,x,,x,x,x,,Bolete Chanterelle FunnelChanterelle,Lactarius  Chanterelle,4,Pick,Milk,
+235,25,M,5,10,4,4,4,2,3,1,3,x,,,x,,,,x,x,,x,,x,,FunnelChanterelle SweetTooth GypsyMushroom AlbatrellusOvinus LactariusTrivialis,OrangeBirchBolete  Chanterelle  SlipperyJack ,4,Pick Unidentified White Clean,Spot Sponge Milk,Old
+236,56,F,36,4,4,4,4,5,4,4,3,,,,x,,x,x,x,x,,x,x,x,x,FunnelChanterelle Bolete HornOfPlenty,Chanterelle,4,Pick BoleteSafe Milk ,,Familiar
+237,59,M,12,3,4,4,4,4,4,2,5,x,,,x,x,,,x,x,,x,,x,x,Bolete HornOfPlenty Lactarius Chanterelle,Chanterelle ,4,Pick,Milk,Chanterelle Morel
+238,42,F,11,6,4,4,3,4,4,2,3,x,,x,x,,,x,x,x,,x,x,x,,FunnelChanterelle Bolete Chanterelle Lactarius,Chanterelle  Russula  Lactarius,4,Milk Poisonous,,Chanterelle FunnelMoss
+239,42,F,30,4,4,5,2,5,1,1,1,x,,,,,,,,x,,x,x,,,,,3,One Eat,Pick,
+240,56,F,36,3,4,4,4,2,5,2,3,x,,,x,,,,x,x,,,,,,Bolete Lactarius,Chanterelle  Russula  AlbatrellusOvinus,4,Pick,Milk Sponge,Mossy Rufous
+241,69,F,15,6,4,4,2,3,4,2,2,,,,x,,x,,x,x,,,x,,,FunnelChanterelle LactariusRufus GypsyMushroom,Chanterelle,4,,White Milk ,
+242,24,F,3,20,2,4,2,4,4,4,2,x,,,x,x,,,x,x,,x,x,x,x,Porcini FunnelChanterelle ShingledHedgehog GypsyMushroom HornOfPlenty,Chanterelle  Porcini  SlipperyJack,4,Milk BoleteSafe ,Sponge ,Chanterelle FunnelMoss
+243,35,F,8,2,2,1,1,5,4,2,5,x,x,,,,,,,x,,,x,,,FunnelChanterelle,Chanterelle,4,Pick,White,
+244,39,M,4,3,4,4,4,4,4,4,2,x,,,x,x,,,x,x,,x,x,x,,Porcini FunnelChanterelle Hydnum AlbatrellusOvinus GyromitraEsculenta,Chanterelle  Porcini,2,Pick,Pick,Old
+245,53,M,30,3,4,4,4,5,2,2,4,x,,x,,,,,x,x,,,,,,FunnelChanterelle Chanterelle,,3,Eat,White Ring,
+246,53,F,34,3,4,5,4,4,4,4,5,x,,,,,,x,,x,,x,x,,,FunnelChanterelle Chanterelle Bolete,WoollyMilkcap  Chanterelle,4,Pick Clean,Milk,FunnelMoss FunnelSpruce
+247,61,F,30,5,3,4,4,2,4,2,2,,,,x,,x,,x,x,,x,,,,FalseSaffronMilkcap,Chanterelle  WoollyMilkcap,4,Equipment,,Familiar
+248,37,F,30,2,5,5,4,5,2,2,5,x,,,,,,,x,x,,,x,x,,Chanterelle HornOfPlenty Porcini,Chanterelle   ,5,Lost Equipment Alone Pick Sound,One,
+249,39,F,20,3,5,5,5,5,5,3,4,x,x,,x,,,,x,x,,x,x,x,,AlbatrellusOvinus Chanterelle HornOfPlenty Porcini Russula HygrophorusCamarophyllus,Chanterelle  Russula  WoollyMilkcap,4,Eat Milk,,
+250,33,F,10,4,3,4,4,4,5,4,4,,,x,x,,,,x,x,,x,,,,HornOfPlenty,Chanterelle,5,Pick Milk Familiar ,Milk Pick,Old Sloped Mossy
+251,64,F,59,9,5,4,4,5,5,2,4,,,x,,,,,x,x,,x,x,x,,Russula Lactarius Chanterelle Bolete,Chanterelle Bolete,4,White,,Chanterelle Sloped
+252,66,F,49,4,4,4,4,4,4,2,2,x,x,,,,,,,x,,x,x,,,GypsyMushroom Lactarius Bolete,Chanterelle  Lactarius  Bolete,4,Milk,,FunnelSpruce Chanterelle Morel Rufous
+253,32,F,10,3,2,4,3,4,4,2,2,x,,,x,,x,,,x,,x,x,,x,Lactarius Chanterelle FunnelChanterelle,Bolete,4,Pick Terrain Senses,,
+254,41,F,5,8,5,4,5,2,2,1,3,,,,x,x,x,,,,x,x,,,,FunnelChanterelle Porcini LactariusRufus RussulaPaludosa GypsyMushroom,Chanterelle Bolete Russula  SlimySpikeCap   ,4,Knife Equipment Lost,,
+255,37,F,20,10,4,4,4,5,4,4,1,,x,,x,x,,x,x,x,,x,x,x,x,Lactarius,,4,Senses,Milk Pick,
+256,69,F,45,5,4,4,5,5,4,2,4,x,,,,,,,,x,,,,,,,,4,,,
+257,68,F,10,4,4,4,4,5,4,1,4,x,,,x,,,,x,x,,,,x,,Chanterelle Bolete SlimySpikeCap,WoollyMilkcap Chanterelle,5,Pick,Pick,
+258,53,F,12,4,4,4,3,4,3,1,1,x,,,x,x,,,x,,,x,x,x,x,FunnelChanterelle Lactarius AlbatrellusOvinus,Bolete  Agaricus,4,,,
+259,35,F,8,3,2,4,2,2,4,2,3,x,,,,,,,x,x,,x,x,,x,Bolete,Chanterelle,4,Pick Clean,,
+260,32,F,7,10,5,5,4,2,4,2,1,x,,,x,x,,,x,x,x,,,,,Bolete Lactarius FunnelChanterelle HornOfPlenty GypsyMushroom SlimySpikeCap SweetTooth TerracottaHedgehog AlbatrellusOvinus ,Chanterelle  SummerCep  SlipperyJack  OrangeBirchBolete  SheathedWoodtuft  CoconutScentedMilkcap,5,Pick Separate Unidentified,Poisonous,
+261,74,F,37,5,4,2,4,5,3,2,2,x,,x,x,,,,x,x,,,x,x,,FunnelChanterelle Hydnum AlbatrellusOvinus,Bolete  WoollyMilkcap  Russula  Chanterelle,2,Alone Equipment,Pick,FunnelSlope
+262,69,F,40,3,5,4,5,5,5,5,4,,,,x,x,,,x,x,x,x,x,x,,Bolete FunnelChanterelle GypsyMushroom,Chanterelle,4,,,
+263,68,F,60,7,1,5,5,3,4,1,2,x,,,x,,x,,x,x,,x,x,x,,,,3,,,
+266,70,F,40,4,4,5,4,5,4,5,5,,,,x,,,,x,x,,x,x,x,,Russula FunnelChanterelle,Chanterelle,4,Pick,Webcap,Old
+267,69,F,50,10,4,4,5,4,4,2,4,x,,,,,,,x,,,,,,,FunnelChanterelle Lactarius,Bolete,5,,,Familiar
+268,45,F,10,2,2,4,3,2,4,2,2,x,,,x,,,,x,x,,x,x,,,Bolete AlbatrellusOvinus,,4,BoleteSafe,,
+269,33,F,8,4,4,4,4,2,2,4,1,,x,,,,,x,x,x,x,x,x,x,x,AlbatrellusOvinus LactariusRufus BirchMilkcap CurryMilkcap Chanterelle Porcini Hydnum ShingledHedgehog LeccinumPiceinum HornOfPlenty FunnelChanterelle BloodRedWebcap VelvetRollRim,Chanterelle  Lactarius  WoollyMilkcap  LactariusFlexuosus  Russula ,4,Pick One,,
+270,35,F,10,4,4,4,4,2,4,1,2,x,,,x,x,,,x,x,,x,x,,,FunnelChanterelle Porcini AlbatrellusOvinus,,5,Pick,,
+271,30,M,4,4,1,4,2,4,2,1,1,,,,,x,,x,x,x,,,,x,x,Chanterelle HornOfPlenty Bolete,,4,Pick,Pick,
+272,54,F,35,3,4,4,3,5,4,4,3,x,,,x,,x,,x,x,,x,x,x,,FunnelChanterelle AlbatrellusOvinus,WoollyMilkcap   GrassGreenRussula,4,Pick,Milk None,Morel Chanterelle FunnelMoss FunnelSlope FunnelSpruce
+273,23,F,15,1,1,3,4,4,4,2,4,x,,,x,x,,,x,x,,x,x,x,,Bolete,Chanterelle Chaga,4,Pick,Pick,
+274,36,F,1,2,2,5,2,3,4,4,3,,,,,x,,,x,x,,x,x,,,FunnelChanterelle SlimySpikeCap Lactarius,,5,Pick,White Pick,
+275,48,F,20,2,4,4,4,4,4,2,4,x,,,x,,,,x,x,,x,x,x,x,Russula Lactarius GypsyMushroom  FunnelChanterelle HeraldOfTheWinter Leccinum,Chanterelle,3,Pick  Whole Sources,,Kosteus
+276,46,F,25,4,4,5,4,5,5,2,2,x,x,,x,,,,x,x,,x,x,x,x,Bolete AlbatrellusOvinus Chanterelle HornOfPlenty FunnelChanterelle,Russula  Cantharellus  Bolete  Chanterelle  Lactarius,5,Pick,,
+277,42,M,14,6,5,4,4,4,2,2,1,x,,,,,,,x,x,,x,x,x,x,FunnelChanterelle Chanterelle Bolete Russula,Bolete  Russula  Lactarius,2,Pick,Pick,Kosteus
+278,44,F,2,1,1,4,1,3,5,1,4,x,,,x,x,,,x,,,,,,,FunnelChanterelle,,1,Pick,BoleteSafe,
+279,31,F,7,4,2,4,4,5,4,2,3,,x,,x,x,,,x,x,,x,x,,,Porcini Chanterelle Lactarius,,5,Pick,Poisonous,Pine
+280,29,Other,19,10,4,5,4,5,4,1,4,,x,,x,x,,,x,x,,x,x,x,x,Lactarius Bolete FunnelChanterelle,Chanterelle  Bolete,4,Pick,Milk White ,Familiar
+281,31,F,8,2,2,2,4,5,5,4,5,x,x,,x,,,,x,x,,x,x,x,x,Chanterelle FunnelChanterelle HornOfPlenty Lactarius,Chanterelle  Lactarius  Bolete,5,Pick,,
+282,39,F,10,3,2,4,3,2,4,3,3,,,,,,,x,x,x,,x,x,,x,Bolete,,3,Pick,,
+283,58,F,50,6,4,4,4,5,4,4,2,x,,,x,,,,,x,,x,x,,,FunnelChanterelle Porcini Leccinum HygrophorusCamarophyllus HornOfPlenty Russula Lactarius AlbatrellusOvinus SweetTooth,Chanterelle  Bolete ParasolMushroom,4,White Pick One,,Old Path
+284,59,F,15,3,2,4,4,4,4,4,3,x,,,x,,,x,x,x,,x,x,x,,FunnelChanterelle Chanterelle Russula,Bolete,4,,Pick,
+285,32,F,27,3,4,2,4,5,5,1,5,x,,,x,,,,x,x,,x,x,x,x,Chanterelle Bolete Lactarius FunnelChanterelle AlbatrellusOvinus,Russula ,2,,,
+286,54,M,21,4,4,5,4,5,5,5,3,,,,,,x,,x,x,,,,,,FunnelChanterelle,Lactarius,5,,,Familiar
+287,69,M,60,4,5,2,4,4,4,1,4,x,,,x,x,,,x,x,,x,x,x,,Russula Bolete Chanterelle GypsyMushroom,Bolete  Russula  Lactarius ,5,Sound Pick,,Familiar
+288,39,M,24,4,5,4,4,4,2,2,3,x,,,x,,,x,x,x,,,x,,x,SweetTooth Porcini FunnelChanterelle CrabBrittlegill,Chanterelle  ParasolMushroom  Leccinum  Russula,1,Senses  Eat,Lookalike,
+289,65,F,50,4,4,5,4,5,5,4,5,x,,,,,,,x,x,,x,,,,FunnelChanterelle Russula,Chanterelle,5,,Pick,
+290,55,F,30,1,5,5,3,1,4,4,1,x,x,,x,,x,,x,x,,x,x,x,,Lactarius FunnelChanterelle,Chanterelle  Bolete ,4,Milk BoleteSafe Familiar Pick,,
+291,62,M,58,5,5,5,5,4,4,2,4,,x,,x,x,,,x,x,,x,,x,x,Bolete Cantharellus AlbatrellusOvinus HornOfPlenty Hydnum,Lactarius  Bolete  Agaricus  Chanterelle,5,Separate Unidentified,White Sources,Morel FunnelSlope Chanterelle
+292,57,F,2,4,1,4,4,2,4,4,4,x,,,x,,,x,x,x,,,,,x,FunnelChanterelle AlbatrellusOvinus,,4,Pick,Sources,Familiar
+293,55,F,30,3,3,5,5,5,5,2,5,,,,x,,,x,x,x,,x,x,,,FunnelChanterelle Chanterelle Hydnum Bolete HornOfPlenty,Bolete,4,Pick,Pick,FunnelMoss FunnelSpruce
+294,57,F,32,3,4,2,4,5,2,1,1,x,,,,,,,x,,,x,x,x,,FunnelChanterelle HornOfPlenty,Coprinus ,2,Poisonous,Poisonous,
+297,57,F,25,4,4,4,2,5,4,2,5,x,,,,,,,x,x,,x,x,x,x,FunnelChanterelle Bolete Chanterelle GypsyMushroom,,4,Tell Equipment Pick,,
+298,60,F,52,6,5,5,5,5,4,1,4,x,x,,,,,,x,x,,x,x,x,x,HornOfPlenty Chanterelle FunnelChanterelle,Bolete,1,Milk,,Morel FunnelMoss
+299,35,F,5,2,1,2,2,5,4,2,1,,,,x,,,x,x,x,,x,x,,,Bolete FunnelChanterelle,GyromitraEsculenta ,5,Eat Sources ,Sources Eat,
+300,56,F,20,9,5,4,4,3,2,1,3,x,,,x,,,,x,x,,x,x,x,,Chanterelle FunnelChanterelle Russula Bolete Lactarius GypsyMushroom,HornOfPlenty  Bolete,5,Pick Milk Equipment,Pick,Familiar Similar
+301,37,F,2,3,2,3,2,5,3,1,3,,,,x,x,,,,x,,,x,x,,,Chanterelle ,3,Pick,,
+302,35,F,6,5,4,4,4,2,2,2,4,,,,x,x,,x,x,x,,x,x,x,x,FunnelChanterelle AlbatrellusOvinus Lactarius Bolete,Chanterelle  Bolete,4,Equipment,Poisonous,
+303,23,F,10,2,4,5,5,5,4,2,4,x,,,x,,,,x,x,,x,x,,x,FunnelChanterelle Porcini  HygrophorusCamarophyllus,Chanterelle ,5,Pick Equipment,Pick Sources,Chanterelle FunnelMoss
+304,27,F,8,3,4,4,4,5,5,2,4,,,x,x,,,,x,x,,x,,,,FunnelChanterelle Chanterelle,,5,Pick,,FunnelMoss
+305,27,F,5,2,4,5,5,4,4,2,3,,x,,,,x,,x,x,,x,x,x,x,Bolete FunnelChanterelle HornOfPlenty TerracottaHedgehog SweetTooth,Chanterelle ,4,Pick,Pick Webcap ,Familiar Old
+306,34,F,12,3,2,4,2,4,4,1,1,x,,,x,x,,,x,x,,x,x,x,,FunnelChanterelle,Chanterelle,3,,,
+307,46,F,5,2,2,4,1,2,5,1,3,x,,,x,,,,x,x,,x,,x,,FunnelChanterelle,Lactarius,5,Pick,,
+308,64,M,44,5,5,4,4,4,3,1,1,,,,x,x,,x,x,x,x,x,x,x,,FunnelChanterelle VelvetBolete Leccinum,YellowSwampRussula  RussulaDecolorans  Leccinum  Chanterelle  SheathedWoodtuft,2,,White ,Rufous
+309,66,F,50,2,3,5,4,5,4,3,4,,,x,,,,,x,x,,,x,x,,Bolete Chanterelle GyromitraEsculenta Lactarius AlbatrellusOvinus,Chanterelle,1,Pick Poisonous,Pick Milk Ring,Kosteus Mossy
+310,59,F,10,4,4,4,4,5,3,3,2,,,,,,,x,,,,x,x,x,,FunnelChanterelle,Chanterelle,5,,Pick,
+311,55,F,35,5,5,5,5,5,2,1,5,,,,x,x,x,,x,x,,x,x,x,,FunnelChanterelle Bolete CurryMilkcap AlbatrellusOvinus,Bolete,4,Pick Unidentified,Smell Milk Sponge,
+312,33,F,8,5,4,4,4,3,5,2,3,,,,x,x,x,,x,x,,x,x,,,FunnelChanterelle HygrophorusCamarophyllus Russula LactariusRufus,Chanterelle  Russula,3,Eat ,Milk Bulb,
+313,65,F,33,4,4,4,4,1,2,1,5,x,,,x,x,,x,x,x,,,x,,,SweetTooth HornOfPlenty HygrophorusCamarophyllus FunnelChanterelle HeraldOfTheWinter HypholomaCapnoides,Chanterelle ,5,White Whole Terrain Sources,White Milk ,
+314,46,F,40,8,5,4,4,5,4,2,4,x,x,x,x,x,,,x,x,,x,x,x,,AlbatrellusOvinus FunnelChanterelle Lactarius CurryMilkcap HygrophorusCamarophyllus Chanterelle HornOfPlenty,Chanterelle  ParasolMushroom ,4,,Milk,
+315,54,F,20,3,5,4,4,5,4,2,2,x,,x,x,,,,x,x,,x,x,x,x,Porcini AlbatrellusOvinus,Chanterelle Bolete WoollyMilkcap,4,Pick,White,Chanterelle
+316,32,F,7,5,4,4,4,4,3,2,5,,,,x,,,x,,x,x,,x,,,Cantharellus HornOfPlenty Porcini AlbatrellusOvinus Hydnum Russula Lactarius,Chanterelle  Lactarius   Leccinum Russula ,3,Equipment Tell,None Pick,
+317,70,F,60,4,5,4,5,5,5,2,1,x,x,,x,,,,x,x,,,,,,LactariusTrivialis FunnelChanterelle SurpriseWebcap,Chanterelle,5,Pick,Milk,
+318,45,F,10,3,4,4,4,5,4,2,5,,,,x,x,x,x,x,x,,x,x,x,x,FunnelChanterelle Chanterelle Bolete Russula AlbatrellusOvinus,WoollyMilkcap,5,White Milk Pick Equipment,Sources,Old Mossy Sloped
+319,59,M,40,5,5,5,4,4,4,4,3,x,,x,x,,,,x,x,,x,x,,x,FunnelChanterelle,Bolete,4,Pick,Pick,
+320,45,F,27,2,4,4,4,4,2,2,3,x,,,,,,,,x,,x,x,,,FunnelChanterelle SweetTooth AlbatrellusOvinus,GrassGreenRussula,3,,Pick,Morel
+321,59,F,50,10,4,4,4,5,4,1,2,x,,,x,x,,x,x,x,,x,x,x,,FunnelChanterelle Hydnum AlbatrellusOvinus HornOfPlenty Porcini Russula Lactarius Marasmius HypholomaCapnoides Ramaria Polyporaceae,Russula  WoollyMilkcap Leccinum  SheathedWoodtuft Chanterelle  BirchPolypore ,5,Pick,Pick,Familiar
+322,62,F,55,5,5,4,4,5,4,1,2,x,,x,x,x,,x,x,x,x,x,x,x,x,FalseSaffronMilkcap UglyMilkcap LactariusRufus WoollyMilkcap VelvetBolete Porcini FunnelChanterelle HornOfPlenty SweetTooth Chanterelle GyromitraEsculenta HygrophorusCamarophyllus AlbatrellusOvinus,Chanterelle  YellowSwampRussula  Agaricus  LactariusTrivialis  GypsyMushroom  UglyMilkcap ,5,Milk Eat,Milk Sponge,Old FunnelMoss FunnelSpruce Chanterelle Familiar
+323,48,F,20,3,4,5,4,3,4,2,2,x,,,x,,,,x,x,,x,x,,,Russula LactariusRufus FunnelChanterelle,Chanterelle  GrassGreenRussula  Bolete,5,Pick One ,Pick Sources ,Chanterelle Pine FunnelSpruce Path Sloped
+324,46,F,12,4,4,4,4,5,5,2,1,,,,x,,,x,x,x,,x,x,x,x,Bolete FunnelChanterelle,Morel,4,Pick,Sources,
+325,52,F,30,3,5,5,5,5,5,1,1,x,x,,x,,,,x,x,,x,x,x,,FunnelChanterelle,Chanterelle,5,Pick,,
+326,54,M,45,3,5,5,4,3,4,3,2,x,,,x,,,,x,x,,x,x,x,x,Porcini FlatBulb ScalyWoodMushroom FunnelChanterelle Chanterelle HornOfPlenty GypsyMushroom AlbatrellusOvinus SweetTooth TerracottaHedgehog YellowSwampRussula RussulaVinosa BareToothedRussula RussulaPaludosa RussulaDecolorans RussulaVinosa RamariaFlava ClusteredCoral LactariusTrivialis LactariusRufus UglyMilkcap,Chanterelle  OrangeBirchBolete  BoletusBetulicola  GrassGreenRussula  BirchWebcap  TheMiller  WoollyMilkcap,5,Pick,,Path Sloped
+327,70,M,50,3,4,4,2,2,4,2,3,x,,,,,,,x,,,,,,,Porcini Chanterelle LactariusTrivialis,WoollyMilkcap Russula,4,Pick,Pick,Morel
+328,57,F,20,10,4,4,2,4,5,1,4,x,,,x,,,,x,,,x,,,,Bolete FunnelChanterelle Lactarius,Chanterelle  Leccinum  WoollyMilkcap,4,Pick,Pick,
+329,69,F,60,4,5,4,4,4,4,2,4,x,,,x,,,,x,x,,x,x,x,,FunnelChanterelle, Bolete  Chanterelle,4,Pick,,
+330,53,F,30,3,2,4,4,5,2,1,4,,,x,,,,,x,x,,x,x,,,Bolete FunnelChanterelle HornOfPlenty Lactarius,Chanterelle  Bolete FunnelChanterelle,4,Pick,White Milk ,Chanterelle FunnelMoss
+331,36,Other,30,12,5,5,4,1,1,1,4,x,,,x,x,,,x,x,x,x,x,x,x, FunnelChanterelle TawnyGrisette HornOfPlenty HygrophorusCamarophyllus HoodedFalseMorel HypholomaCapnoides SlimySpikeCap Chanterelle,SaffronRinglessAmanita  YellowSwampRussula  GrassGreenRussula  Chanterelle  RoughStemmedBolete  WoollyMilkcap  UglyMilkcap ,4,Knife Eat  Clean ,Milk White BoleteSafe ,
+332,54,F,30,4,5,4,4,5,4,2,3,x,,,x,,,,x,x,,x,x,,,FunnelChanterelle,Chanterelle,4,Pick Poisonous,,
+333,48,F,5,2,2,4,4,4,4,2,2,x,,,,x,,,x,,,,x,x,x,Lactarius,,3,Pick,Milk,
+334,52,F,15,20,4,3,3,2,2,2,1,x,,,x,,,,x,,x,x,x,x,,FunnelChanterelle Otidea Webcap,,4,Pick,Sources,
+335,46,F,23,4,5,4,4,5,5,2,4,x,,,,,,,x,x,,x,,,,FunnelChanterelle Chanterelle,Bolete,2,Pick,,
+336,49,F,40,2,4,5,4,5,3,4,3,x,,,,,,,x,x,,x,x,x,,FunnelChanterelle AlbatrellusOvinus Lactarius,,4,Pick Lost,Sources Pick,
+337,22,F,7,1,4,4,5,5,4,4,4,,x,x,x,x,,,x,,,x,x,x,,Chanterelle LactariusTrivialis Bolete,Lactarius Russula ,4,Pick Familiar Lost Equipment,Smell Sponge Terrain Sources,
+338,29,F,10,10,4,4,4,2,4,3,2,x,x,x,x,x,,,x,x,,x,x,x,x,Porcini Leccinum LactariusRufus HornOfPlenty FunnelChanterelle,WoollyMilkcap  Chanterelle  AlbatrellusOvinus  Russula ,4,Familiar Equipment Alone,Pick  Milk,Cluster
+339,50,F,40,3,4,4,4,5,4,2,4,x,x,,x,,,,x,x,,x,x,x,x,FunnelChanterelle,Chanterelle  HornOfPlenty  Lactarius  Russula,4,,Smell Terrain,
+340,48,F,5,2,5,4,5,5,4,5,3,,,,,,,x,,x,,x,x,x,,Russula LactariusRufus Bolete,,5,,,
+341,56,F,18,2,5,4,2,4,4,2,5,,,,x,,,,x,x,,x,,,,Porcini FunnelChanterelle,Chanterelle Lactarius,4,Pick Clean Separate,,Old Sloped Path
+342,32,F,24,1,4,4,2,4,4,4,5,x,,,,x,,,,x,,,,,x,FunnelChanterelle,,4,Pick Senses White Poisonous Milk,,Kosteus
+343,62,F,40,4,4,4,4,5,4,4,5,x,,,x,,,,x,x,,,x,,,Chanterelle FunnelChanterelle Bolete,Chanterelle,4,Pick,Pick,FunnelMoss
+344,29,M,15,12,4,2,4,1,2,2,2,x,x,,x,x,x,,x,x,x,,,,x,HornOfPlenty FunnelChanterelle HygrophorusCamarophyllus AlbatrellusOvinus  SlimySpikeCap RamariaBoreimaxima Polyporaceae PhellinusFerrugineofuscus PhlebiaCentrifuga Fuscoporia,Hygrophoraceae Bolbitius  Roundheads Inocybe  Entoloma Bolete Corticium Bolete  Russula ParasolMushroom,2,Eat,None,
+345,35,F,10,3,4,5,2,5,5,5,5,,,,,,,x,x,x,,x,x,x,,Bolete Chanterelle,,4,Pick,,Familiar
+346,50,F,10,2,2,2,2,5,4,1,1,,,,x,,,,x,x,,,x,x,,FunnelChanterelle Chanterelle,Bolete,4,White Pick,White,Chanterelle
+347,58,M,50,4,3,4,4,4,5,1,3,x,,,x,,,,x,x,,x,x,x,,FunnelChanterelle Chanterelle WoollyMilkcap,Russula  HornOfPlenty  Porcini,4,,Milk Pick,Familiar
+348,63,F,53,3,4,4,5,5,4,4,5,x,,,x,x,,,x,x,,x,x,x,,Bolete Lactarius Hydnum AlbatrellusOvinus FunnelChanterelle,Chanterelle  PestlePuffball  GrassGreenRussula YellowSwampRussula  SheathedWoodtuft,5,Pick Equipment Separate Knife,Pick One,
+349,60,F,35,4,4,5,5,4,3,4,5,x,,,x,x,,,x,x,,x,x,x,,Bolete FunnelChanterelle Lactarius,Bolete  Chanterelle,5,Pick,Pick Milk Sponge,Mossy
+350,43,F,6,6,1,4,4,4,4,2,4,,x,,x,x,,,x,x,,x,x,x,,FunnelChanterelle,,5,Pick Tell,Milk White ,FunnelSlope FunnelMoss Cluster Chanterelle Rufous
+351,56,F,42,4,5,4,5,5,3,2,5,,,,x,,,,x,x,,x,x,,,FunnelChanterelle AlbatrellusOvinus SheepPolypore Bolete HornOfPlenty GypsyMushroom,Agaricus  Chanterelle  OrangeBirchBolete,5,Separate Sources ,Bulb,
+352,52,F,30,5,4,5,4,3,5,2,4,x,,,,,,,x,x,,x,x,x,,Bolete FunnelChanterelle Lactarius Russula,Chanterelle,4,Pick Separate ,,Familiar
+353,38,F,25,4,4,4,5,5,4,1,3,x,,,x,x,,,x,x,,x,x,x,x,FunnelChanterelle Polyporaceae Russula Bolete,Chanterelle,4,Unidentified,,Instinct
+354,47,F,35,5,5,4,4,4,4,2,5,x,,,,,,,x,x,,x,x,x,,Russula Lactarius,Bolete Chanterelle,4,Pick,White,
+355,62,F,56,8,5,4,4,3,4,2,2,x,,,x,,,,x,x,,x,x,x,,Russula Bolete,Chanterelle ,4,Pick Separate One,None,
+356,40,M,15,2,2,4,4,2,4,3,4,,,,x,x,,x,x,,,x,x,x,,FunnelChanterelle,Chanterelle  Bolete,3,Pick,Sources,
+357,52,M,20,3,4,4,4,4,4,4,3,x,,,x,x,,,x,x,,x,x,x,,FunnelChanterelle Bolete HornOfPlenty Russula Chanterelle HygrophorusCamarophyllus HypholomaCapnoides Lactarius,Bolete  Chanterelle  Morel  Russula ,4,Pick,Milk,
+358,51,M,10,2,2,4,4,4,4,4,3,,,,x,,,,x,x,,x,x,x,,Lactarius,,4,Pick,Pick,Mossy
+359,63,M,1,3,2,4,3,3,2,3,3,x,,,,,,,x,x,,,x,x,,FunnelChanterelle,Lactarius,4,Pick,,
+360,50,F,30,4,4,4,2,4,3,2,4,,x,,,,,,,x,,,x,,x,AlbatrellusOvinus HornOfPlenty Russula FunnelChanterelle Lactarius Chanterelle,Chanterelle Lactarius,4,Pick Clean Terrain,Milk Smell White,
+361,53,M,30,7,4,4,4,5,4,1,3,x,,x,x,x,,,x,x,,x,x,x,,FunnelChanterelle Lactarius HornOfPlenty GypsyMushroom Porcini,SheathedWoodtuft Chanterelle UglyMilkcap GrassGreenRussula Armillaria,4,Pick BoleteSafe Milk,,
+362,40,F,10,3,2,4,4,5,4,1,2,x,x,,x,,x,,x,x,,x,x,,x,Bolete,Chanterelle,4,Pick,Sponge Milk,
+363,40,F,34,3,4,5,3,5,4,3,2,x,,,x,,,x,,,,x,x,,,LactariusRufus Porcini GypsyMushroom,GrassGreenRussula,5,Pick Clean Familiar,Pick,Kosteus
+364,28,F,5,1,2,4,4,4,3,3,3,x,,x,,x,,,x,x,,,x,,,FunnelChanterelle,,3,Pick,Pick,
+365,51,F,4,3,2,5,5,5,5,1,1,,,,x,x,,,x,x,,,x,,,FunnelChanterelle HornOfPlenty,Chanterelle,4,Pick,Poisonous Milk,Sloped Familiar
+366,27,M,5,4,4,4,4,4,2,4,3,x,x,,,,x,,x,x,,,,x,x,FunnelChanterelle,Bolete,5,Eat Equipment,Webcap Milk,
+367,69,F,50,5,4,5,4,5,4,2,5,x,,x,x,x,,x,x,x,,x,x,x,x,FunnelChanterelle AlbatrellusOvinus Russula,Chanterelle  OrangeBirchBolete  Russula,5,Pick Sound Tell,Milk Pick,Sloped Path FunnelMoss
+368,48,M,40,4,5,5,5,5,4,2,5,x,,,,,,,,x,,,x,,,Porcini,Chanterelle,5,,,
+369,40,F,8,3,4,4,5,4,3,2,3,x,,,,,,,x,x,,x,x,x,x,Bolete Hydnum FunnelChanterelle Chanterelle Russula HornOfPlenty,Bolete Chanterelle,4,Pick,,Mossy FunnelSlope Cluster
+370,34,M,2,3,2,4,4,5,3,4,4,x,,,,x,,,x,,,x,x,,,HornOfPlenty Chanterelle Bolete,,2,Pick,White,
+371,52,F,10,5,2,4,3,4,5,3,4,,,,x,,,,x,x,,x,x,x,,FunnelChanterelle,Bolete,3,Pick,White Red,
+372,63,F,57,6,4,4,5,2,2,1,5,x,x,,,,,,,,,x,,,,AlbatrellusOvinus Russula FunnelChanterelle HornOfPlenty Chanterelle,Chanterelle  WoollyMilkcap  Leccinum,5,Pick,BoleteSafe White,Chanterelle Rufous
+373,46,F,30,2,5,5,5,5,4,2,2,x,,,,,,,x,x,,x,x,,,FunnelChanterelle Porcini Chanterelle Lactarius AlbatrellusOvinus,Chanterelle  SlipperyJack,4,Pick Clean Lost ,Sources Smell,
+374,55,F,15,4,4,5,4,5,4,1,4,x,,,x,,,,,x,,x,x,x,,FunnelChanterelle HornOfPlenty AlbatrellusOvinus,Chanterelle Cantharellus Hydnum Lactarius,4,Pick,Milk,
+375,30,F,10,3,4,4,2,3,2,2,1,x,x,,x,x,,,x,x,,,x,,x,FunnelChanterelle,Bolete,2,Eat,,
+376,54,F,45,5,4,4,4,4,4,1,1,,,x,,,,,x,x,,x,,x,,Porcini FunnelChanterelle,Chanterelle  Bolete,4,Pick,Pick,
+377,52,F,10,2,4,4,4,5,4,2,3,,,x,x,,x,,,x,,x,,,,FunnelChanterelle HornOfPlenty Lactarius,Chanterelle,4,Sound Tell Equipment,,
+378,66,F,30,4,4,4,4,5,4,4,5,x,,,x,x,,x,x,x,,x,x,x,,Chanterelle HornOfPlenty Russula GypsyMushroom,WoollyMilkcap  Bolete  LactariusTrivialis,4,Pick Separate Sources White Senses Poisonous,White Milk,
+379,56,F,40,2,5,5,4,5,4,2,4,x,,,,,,,x,,,x,,,,Chanterelle FunnelChanterelle HornOfPlenty Porcini,,5,Pick,,Chanterelle Path
+380,59,M,49,12,5,5,4,4,4,1,5,,,,x,x,,,x,x,x,x,x,x,,RussulaPaludosa RussulaDecolorans GypsyMushroom FunnelChanterelle Porcini,Bolete  Chanterelle  HornOfPlenty Russula  Bolete ,1,,None,
+381,56,F,20,2,4,4,4,4,4,2,4,x,,,,,,,x,x,,x,x,x,,Bolete HornOfPlenty,,3,,,Chanterelle
+382,60,F,42,5,4,4,3,4,4,4,2,x,,,x,,,,x,x,,x,x,x,x,FunnelChanterelle,Chanterelle  WoollyMilkcap,4,Tell,Milk Sponge,
+383,39,Other,20,6,4,4,4,4,3,2,4,x,,,x,x,,,x,x,,x,x,x,,Lactarius Russula Bolete FunnelChanterelle Chanterelle Hydnum,Russula,4,Sources Equipment Tell Sound Separate,Sources,Sloped Familiar
+384,55,F,30,5,4,2,4,4,5,4,2,x,,,,,,,x,x,,x,x,x,,Bolete Lactarius  LactariusRufus Hydnum,Chanterelle ,5,Pick,Sources Pick,Chanterelle Rufous
+385,53,F,11,2,4,4,2,4,5,5,4,,,x,,,,,,,,x,x,,,FunnelChanterelle HornOfPlenty,Chanterelle,2,Pick One,White,
+386,46,F,26,4,4,4,4,4,5,5,1,,,,,,,x,x,x,,,x,x,,FunnelChanterelle Hydnum Lactarius Porcini,Chanterelle  OrangeBirchBolete,4,Pick Familiar Tell,Sponge Milk,
+387,29,M,4,3,4,2,3,4,4,2,5,x,,,x,x,,,x,x,x,,,,,FunnelChanterelle Porcini RussulaVinosa HypholomaCapnoides,Chanterelle  ParasolMushroom  OrangeBirchBolete ,2,Pick,None,
+388,72,F,50,5,4,4,4,5,5,1,4,,,,x,,,,x,,,x,x,,,Chanterelle HornOfPlenty,Chanterelle  Lactarius,3,,,
+389,43,F,15,3,4,4,4,5,4,4,5,x,,,x,x,,,x,x,,x,x,x,,Porcini Leccinum Russula FunnelChanterelle Chanterelle GypsyMushroom AlbatrellusOvinus,Chanterelle,5,Pick,Eat,
+390,64,F,40,3,5,5,5,5,4,1,5,x,,,,,,,,x,,,x,,,Lactarius,Chanterelle,4,Equipment,Milk,
+391,43,F,17,3,4,5,5,2,4,1,4,x,,,,,,x,x,x,,x,x,x,x,FunnelChanterelle HornOfPlenty LactariusTrivialis Porcini FalseSaffronMilkcap HygrophorusCamarophyllus GypsyMushroom AlbatrellusOvinus,WoollyMilkcap  Chanterelle  Porcini  OrangeBirchBolete,4,Separate,Milk,FunnelSpruce FunnelSlope Chanterelle Rufous
+392,39,F,5,4,2,4,3,4,3,1,3,x,,,x,x,,,x,x,,x,x,x,x,FunnelChanterelle Lactarius,,4,Pick Senses,Poisonous Lookalike,
+393,58,F,10,3,2,2,2,4,5,2,2,,,,x,,,x,,x,,x,x,,,FunnelChanterelle,WoollyMilkcap,4,Pick,,
+394,30,M,3,4,2,3,2,3,4,2,3,,,,,,,x,x,,,,,,,,,3,,,
+395,56,F,30,3,2,4,3,4,4,3,3,,,,x,x,,x,x,,,x,x,,,HornOfPlenty FunnelChanterelle,Chanterelle,4,Pick Unidentified,Milk Bulb,Chanterelle FunnelSpruce Morel
+396,70,F,50,3,4,5,4,4,5,1,2,x,,,x,,x,,x,x,,x,x,x,,Lactarius Bolete,Chanterelle,5,Pick,White,
+397,36,F,33,6,5,5,5,4,2,1,3,x,x,,x,,x,,x,x,,x,x,x,x,FunnelChanterelle LactariusRufus Porcini Hydnum,OrangeBirchBolete  Chanterelle  SheathedWoodtuft,5,White Milk Senses,,Chanterelle Morel
+398,71,F,50,2,4,4,4,4,4,4,5,x,,,x,,x,,x,x,,x,x,x,x,PineBolete  LactariusRufus,Chanterelle ,5,Pick,Lookalike Smell,Familiar
+399,51,F,35,8,5,5,5,5,2,1,2,x,x,,x,,,,x,x,,x,x,x,,FunnelChanterelle Chanterelle HornOfPlenty AlbatrellusOvinus,Bolete Lactarius,5,Pick Equipment,White Smell,
+400,52,F,15,3,2,5,4,5,5,1,2,,,,,,,x,,x,,x,,,,FunnelChanterelle,Chanterelle  Russula,1,Pick,,FunnelMoss FunnelSlope Chanterelle
+401,47,F,10,4,4,4,4,4,4,2,2,,,,x,,,x,x,,,x,x,x,x,Chanterelle Bolete FunnelChanterelle,Bolete  Russula,5,Pick Familiar,,Similar Familiar
+402,52,F,30,4,5,5,4,4,4,2,2,x,,,x,x,x,x,x,x,,x,x,,,Chanterelle FunnelChanterelle HornOfPlenty Lactarius Hydnum HypholomaCapnoides,Bolete  Lactarius  SheathedWoodtuft  Russula  ,4,Pick Clean Equipment,White Poisonous,
+403,55,F,10,4,5,5,5,2,2,2,3,x,,,x,x,,,x,x,,x,,x,,Russula Lactarius  Chanterelle HornOfPlenty FunnelChanterelle ,Chanterelle,4,Milk Unidentified Lost Senses,,Familiar
+404,66,F,55,5,5,4,4,4,4,2,3,x,,,x,x,,,x,x,,x,,,,GypsyMushroom AlbatrellusOvinus Porcini Charbonnier HornOfPlenty,Agaricus  Leccinum  Russula,3,Senses,BoleteSafe Smell,
+405,41,F,6,5,4,4,4,4,4,2,1,,,,x,x,,x,x,x,,x,x,x,x,FunnelChanterelle HornOfPlenty LactariusRufus,Bolete Chanterelle WoollyMilkcap,4,Milk Tell Equipment Pick,Milk Bulb,FunnelMoss FunnelSpruce Cluster Rufous
+406,36,F,10,2,4,4,4,4,4,3,4,x,x,,x,x,x,,x,x,,x,x,,,FunnelChanterelle FalseSaffronMilkcap AlbatrellusOvinus SweetTooth,Leccinum  Lactarius,4,Eat,White Webcap,
+407,50,M,3,3,2,4,2,4,4,4,2,,,,x,x,,,,x,,x,x,x,,FunnelChanterelle GypsyMushroom HygrophorusCamarophyllus,HornOfPlenty  Chanterelle,4,,,
+408,59,F,10,4,4,4,4,2,4,2,3,,,x,x,,,,x,x,,x,,x,x,FunnelChanterelle Bolete,Chanterelle,3,Pick,,
+409,64,F,54,10,4,4,3,5,4,2,2,x,,,x,,,x,x,x,,x,x,x,x,Lactarius FunnelChanterelle Chanterelle Bolete HornOfPlenty AlbatrellusOvinus,Chanterelle  Bolete,4,Lost,Milk White,
+410,61,F,38,7,5,4,4,4,4,2,4,x,x,,x,,,,x,x,,x,,x,,Lactarius Chanterelle FunnelChanterelle Bolete,Leccinum  Chanterelle,3,Pick Unidentified,Milk,Instinct
+411,46,F,18,4,4,4,4,4,4,2,1,x,x,,x,,,x,x,x,,x,,,,FunnelChanterelle Chanterelle Lactarius AlbatrellusOvinus HornOfPlenty,Chanterelle,4,Pick,,
+412,60,F,30,3,4,4,4,4,4,1,1,x,,,,,,,x,,,x,x,,,Chanterelle FunnelChanterelle,,4,White,,
+413,43,F,23,4,4,5,4,4,5,4,2,x,,,,,,,x,x,,x,x,x,x,Bolete FunnelChanterelle Chanterelle,Bolete  FunnelChanterelle  Chanterelle,4,Pick Familiar Tell,Pick,Familiar
+414,31,F,4,3,2,3,2,2,2,2,5,,,x,x,x,,,x,x,,x,x,x,x,FunnelChanterelle HornOfPlenty GypsyMushroom CurryMilkcap,Agaricus  Coprinus,2,Milk Pick,,
+415,63,F,25,5,5,5,4,5,4,2,4,x,,,x,,,,x,x,,x,x,,,Chanterelle FunnelChanterelle HornOfPlenty CurryMilkcap HygrophorusCamarophyllus,Chanterelle,5,Pick Unidentified,Milk,Morel Old
+416,55,F,35,3,2,2,2,5,2,2,2,x,,x,,,,,x,x,,x,,,,FunnelChanterelle AlbatrellusOvinus Russula HornOfPlenty,Bolete ,3,Equipment,,Familiar Morel
+417,38,F,30,3,4,4,5,5,2,1,4,x,,,,,,,x,x,,x,x,x,,FunnelChanterelle HornOfPlenty Chanterelle Bolete,,3,Pick Alone Separate,,
+418,50,F,30,7,4,4,3,4,5,1,3,x,,,x,,,,,x,,x,x,,,Bolete Chanterelle FunnelChanterelle,,3,Pick,,Chanterelle
+419,53,M,15,3,4,4,4,5,4,2,3,,,x,x,,,,x,x,,,x,x,,FunnelChanterelle Russula,Chanterelle,4,,,
+420,66,M,60,5,5,5,5,5,4,4,4,x,,,,,x,x,x,x,,x,x,,x,FunnelChanterelle Lactarius HygrophorusCamarophyllus AlbatrellusOvinus,Chanterelle  UglyMilkcap,5,One ,Smell Stockings White,Chanterelle Sloped
+421,44,F,35,5,4,4,4,4,4,4,4,x,x,x,x,x,,,,,,x,x,,,Agaricus,SlipperyJack,4,,,
+422,29,F,23,11,5,3,4,2,2,2,4,,x,,x,x,,,x,x,,x,,x,x,FunnelChanterelle AlbatrellusOvinus,SlipperyJack  Chanterelle,4,Sources Poisonous,White Milk,Kosteus
+423,49,F,30,24,5,5,5,2,4,1,4,,,,,,,x,x,x,,x,x,x,x,FunnelChanterelle HornOfPlenty UglyMilkcap LactariusLignyotus Leccinum AlbatrellusOvinus TerracottaHedgehog SweetTooth SlimySpikeCap CurryMilkcap,YellowSwampRussula   GrassGreenRussula   Chanterelle,5,White Milk ,Sponge Bulb Milk,
+424,44,F,20,2,4,5,4,5,5,2,4,x,,,,,,,x,x,,x,x,,,FunnelChanterelle Porcini,Chanterelle,5,,Pick,
+425,67,F,35,5,4,4,4,4,4,3,2,,,,x,,,,x,,,x,x,x,,FunnelChanterelle HornOfPlenty Bolete,Chanterelle,5,,Smell Milk Terrain,
+426,38,F,8,4,5,4,5,5,3,1,2,x,,,x,x,,,x,x,,x,,,,FunnelChanterelle AlbatrellusOvinus,Chanterelle  Armillaria,3,Unidentified,None,
+427,45,F,20,2,5,4,4,4,4,2,4,x,,,x,x,x,,x,x,,,x,,x,FunnelChanterelle Lactarius Bolete,Chanterelle  Bolete,5,Pick,,FunnelMoss Chanterelle
+428,39,F,35,4,4,4,4,5,5,2,5,x,,,,,,,x,x,,,x,,,Chanterelle FunnelChanterelle HornOfPlenty,Russula ,5,Pick,,
+429,56,F,10,5,4,4,4,3,4,2,5,,,,x,x,,,x,,,x,,,x,Bolete FunnelChanterelle HornOfPlenty AlbatrellusOvinus,Chanterelle  Bolete,4,One,Eat,
+430,45,F,30,4,4,4,4,5,5,2,2,x,x,x,x,,,,x,,,x,x,x,x,AlbatrellusOvinus HornOfPlenty FlatBulb FunnelChanterelle SweetTooth,Porcini SlipperyJack  Chanterelle  WoollyMilkcap  Russula ,4,,Milk Bulb Stockings,Chanterelle FunnelSpruce Rufous
+431,63,F,50,9,4,4,4,4,2,3,3,x,x,,x,,,,x,x,,,x,,,FunnelChanterelle Russula,Bolete,3,Eat,,
+432,35,F,10,8,4,4,5,2,2,3,3,,,,,x,,,x,x,x,x,x,x,,Lactarius Russula GypsyMushroom,WoollyMilkcap,4,Eat,Milk,
+433,60,F,6,3,2,2,2,5,2,1,2,,,,,,,x,x,x,,x,x,x,,Bolete FunnelChanterelle Chanterelle Hydnum HornOfPlenty AlbatrellusOvinus,Bolete  FunnelChanterelle  Chanterelle  Hydnum  HornOfPlenty AlbatrellusOvinus,5,Pick,Sources,Familiar
+434,55,F,36,4,4,5,5,4,4,4,4,,,,x,,x,x,x,x,,x,x,,x,FunnelChanterelle LactariusRufus,Chanterelle  Russula,4,Pick Milk,,FunnelMoss Chanterelle 
+435,65,F,40,7,4,3,3,1,3,2,3,,,,x,,x,x,x,x,x,x,x,x,x,GypsyMushroom Lactarius Bolete Russula,,3,Eat Whole Terrain,White Webcap,Familiar Morel Rufous
+436,55,F,25,4,4,4,4,5,5,1,5,x,,,x,,,x,x,x,,x,x,x,,Bolete Russula Chanterelle FunnelChanterelle HornOfPlenty GypsyMushroom AlbatrellusOvinus Hygrophoraceae,Lactarius ,5,Eat,Sources Smell,
+437,53,F,32,4,5,5,4,4,4,4,2,x,x,,x,x,,,x,x,,x,x,x,,Bolete GypsyMushroom HornOfPlenty Lactarius Russula FunnelChanterelle,Agaricus  Chanterelle  Russula ,4,Lost Pick Sound,Pick,
+438,54,M,38,6,4,4,3,4,3,4,4,x,,,,x,,x,x,x,,x,x,x,x,FunnelChanterelle Porcini HornOfPlenty Hydnum Agaricus,Leccinum,5,White,Milk Spot,
+439,26,F,16,7,5,5,4,5,2,2,2,x,x,,x,x,,,,x,,x,x,x,,FunnelChanterelle Porcini Russula,Lactarius  Chanterelle  Leccinum,4,Pick Unidentified Milk,BoleteSafe,Mossy
+440,57,F,12,5,4,4,4,4,4,2,4,,,,x,x,,x,x,x,,x,x,x,x,FunnelChanterelle,Chanterelle,4,Pick,BoleteSafe,
+441,60,F,20,3,1,4,4,5,5,1,5,x,,x,,,,,,x,,x,x,,x,FunnelChanterelle,Chanterelle,5,Pick,,FunnelMoss Chanterelle
+442,45,F,7,3,3,4,4,4,3,2,4,x,,,,,,x,x,x,,x,x,,,Porcini FunnelChanterelle AlbatrellusOvinus SweetTooth,Chanterelle   HornOfPlenty,4,Pick Sources,BoleteSafe ,Chanterelle FunnelSpruce
+443,52,F,10,2,3,3,3,4,4,4,4,x,,x,x,x,,,x,x,,x,x,,,FunnelChanterelle Bolete,Bolete Chanterelle,5,,,
+444,56,F,25,3,5,5,5,5,4,2,5,x,,,,,x,,x,x,,x,x,x,,FunnelChanterelle,Chanterelle,5,Sound Equipment,Pick,
+445,51,F,20,5,4,4,4,4,3,1,4,x,,,x,x,,,x,x,,x,x,x,,Bolete CurryMilkcap Russula Cantharellus,Chanterelle ,4,Pick,Milk,Morel Pine
+446,35,F,9,5,4,4,4,5,2,2,1,x,x,,x,x,,x,x,x,,x,x,x,x,FunnelChanterelle Chanterelle Bolete Lactarius,Cantharellus  ParasolMushroom ShaggyParasol  HornOfPlenty ,5,Unidentified,Spot ,FunnelMoss Chanterelle Cluster
+447,65,M,57,25,1,4,2,1,4,1,4,x,,,x,x,x,,x,x,x,x,x,x,x,Webcap Bolete Russula Polyporaceae Ramaria Hydnum,Russula  Bolete  Polyporaceae Agaricales,4,,,
+448,49,Other,20,3,2,4,4,2,4,4,2,x,x,,x,,,,x,x,,x,x,x,x,FunnelChanterelle Porcini Lactarius,,4,Pick Familiar Equipment Alone,,
+449,40,F,20,5,2,4,2,5,4,1,2,x,,,x,x,,,x,x,,x,x,x,,FunnelChanterelle Porcini,Chanterelle  Agaricus,4,Pick Senses,Milk,
+450,46,F,27,6,5,4,4,4,4,2,5,,x,,,,,,x,x,,x,x,x,,FunnelChanterelle HornOfPlenty AlbatrellusOvinus Lactarius,Chanterelle,4,Eat,Milk White ,FunnelMoss Old Chanterelle Morel Path
+451,58,M,50,3,4,5,5,4,4,4,4,x,,,x,,,,x,x,,x,x,x,,Chanterelle FunnelChanterelle HornOfPlenty AlbatrellusOvinus Porcini ,,4,Knife,,
+452,48,F,35,4,4,4,4,5,4,1,4,x,,,,,,x,x,x,,,x,x,,Bolete AlbatrellusOvinus,Chanterelle,1,,,
+453,61,F,40,3,4,4,4,4,5,2,2,x,,,,,,,x,x,,x,x,x,,FunnelChanterelle,Chanterelle,4,Pick,Pick Poisonous,Familiar
+454,56,F,15,2,4,3,2,4,4,4,4,,,,x,,x,x,x,x,,x,x,x,,Bolete,Lactarius,4,Pick Milk Sources,Milk Sponge,Pine
+455,39,M,3,3,1,4,3,5,5,5,4,,,,x,,,,x,x,,x,x,x,x,,,5,Pick Separate,,
+456,29,F,10,6,2,4,4,5,4,4,2,x,,,x,x,,x,x,x,,x,x,,,FunnelChanterelle LactariusRufus CurryMilkcap Porcini FlatBulb BayBolete,Agaricus ParasolMushroom SlipperyJack ,2,Eat Separate Whole One,,
+457,68,M,50,4,4,4,4,2,4,4,2,x,,x,,,,,,x,,,x,,,Bolete Russula,Chanterelle,5,Pick,Sources,
+458,46,F,12,1,3,4,4,4,2,4,3,x,,,x,x,,x,x,,,x,,,,FunnelChanterelle Lactarius Bolete AlbatrellusOvinus SlimySpikeCap,Chanterelle,3,Pick,Pick,FunnelSpruce
+459,58,F,53,10,5,5,4,2,3,2,4,x,,,x,,x,,x,x,,,x,x,,AlbatrellusOvinus, OrangeBirchBolete,2,Alone Knife Equipment,None Milk Pick,
+460,34,F,3,2,2,4,2,2,4,4,3,x,,x,,x,,,x,x,,x,x,x,x,FunnelChanterelle HornOfPlenty,Chanterelle,5,Equipment Pick,Pick,
+461,67,F,42,5,4,2,2,4,1,1,4,x,,,x,,,,x,x,,x,x,x,,FunnelChanterelle HornOfPlenty Chanterelle,Chanterelle,4,,Milk,Kosteus Mossy
+462,47,F,1,3,1,2,2,5,4,1,2,,,x,x,x,x,x,x,x,,x,x,x,x,FunnelChanterelle YellowStagshorn SlimySpikeCap Bolete Chanterelle HypholomaCapnoides,Russula Bolete WoollyMilkcap Porcini  FalseChanterelle,4,Pick Separate Whole ,White Milk Sponge,FunnelSpruce Morel
+463,68,F,50,5,5,5,4,2,3,2,2,x,,x,x,,x,,x,x,,x,x,x,x,FunnelChanterelle AlbatrellusOvinus,GrassGreenRussula ,4,Separate Unidentified,,FunnelMoss FunnelSpruce FunnelSlope Chanterelle Pine
+464,49,F,10,3,2,4,2,5,3,2,4,,,,x,x,,,x,x,,x,x,,,FunnelChanterelle HornOfPlenty,Chanterelle,2,Sources Pick,Webcap,FunnelSpruce
+465,52,F,6,3,2,4,2,4,4,5,5,,,,,,,x,x,,,x,x,x,,FunnelChanterelle LactariusRufus Russula,Chanterelle,5,Equipment Sources,Sources,Familiar
+466,29,Other,4,3,3,2,2,5,4,3,3,,,,x,,x,,,x,,,x,,,Russula LactariusRufus,Bolete,3,Pick Unidentified,,Cluster
+467,47,F,15,4,4,4,4,2,4,2,4,x,x,,x,,,,x,x,,x,x,x,,FunnelChanterelle Chanterelle HornOfPlenty Webcap LactariusTrivialis,Amanita  Porcini ,3,Sources Eat Poisonous,,Path Old Mossy Spruces
+468,59,F,50,5,5,4,4,4,4,2,4,x,,,,,,,x,,,x,x,x,x,Bolete FunnelChanterelle,Russula Chanterelle,4,White Pick,,FunnelMoss FunnelSlope
+469,46,F,4,3,3,4,4,4,2,2,2,x,,,x,x,,,x,x,,x,,x,,FunnelChanterelle,HornOfPlenty Chanterelle,4,Pick,Smell,
+470,73,M,40,6,4,4,5,2,4,2,3,x,,,x,,,,x,x,,x,,x,,Russula Bolete Lactarius,Lactarius  Russula  Chanterelle,4,Pick,Webcap,Chanterelle Morel Rufous
+471,28,F,5,4,3,2,4,4,3,2,3,x,,,x,x,,,x,x,,x,x,x,,AlbatrellusOvinus FunnelChanterelle Bolete,Chanterelle,4,Pick,Milk,Familiar
+472,35,F,3,3,2,4,4,4,4,4,4,,,,,x,,,x,x,,x,x,x,,Bolete Lactarius FunnelChanterelle,Chanterelle ,5,Pick White,Milk,Chanterelle
+473,57,M,44,7,5,5,5,4,3,4,5,x,,,x,,,,x,x,,,,x,,Russula Lactarius,Chanterelle,3,,,Chanterelle FunnelSlope FunnelSpruce
+474,47,F,25,10,4,3,2,5,4,2,4,x,,,x,,,,x,x,,,x,,,Lactarius Cantharellus Bolete Russula,Cantharellus Bolete,3,Pick White Clean,White,
+475,58,F,35,5,5,5,5,4,2,2,2,,,,x,,x,,x,x,,,x,x,,GypsyMushroom SweetTooth Russula HygrophorusCamarophyllus FunnelChanterelle,Russula  Chanterelle  AlbatrellusOvinus,3,Whole Pick Unidentified,White Webcap,Mossy
+476,58,F,20,15,4,4,4,2,2,1,1,,,,,,,x,x,x,,x,,,,Russula Bolete FunnelChanterelle Lactarius,,4,,Milk,Old Chanterelle Pine Morel Rufous
+477,50,F,23,3,4,4,4,5,2,5,5,x,,,,,,,x,x,,x,x,x,,FunnelChanterelle HeraldOfTheWinter,Chanterelle  Bolete,5,Pick Lost,One,
+478,39,M,9,2,2,4,3,5,4,4,4,,,x,x,,,,,x,,,x,,,FunnelChanterelle,Chanterelle,5,Pick,Pick,
+479,28,F,3,3,2,4,2,5,5,2,4,x,,,,x,,x,x,x,,x,x,,x,WoollyMilkcap Russula,,4,Pick,None Sources,Familiar
+480,57,F,30,4,5,3,4,2,5,2,3,,,,x,,,,x,x,,x,x,x,,Bolete,Agaricus  ParasolMushroom,4,Equipment Lost,White,
+481,40,F,15,5,4,4,4,4,2,2,1,x,,,,,,x,x,,,x,x,,,FunnelChanterelle HornOfPlenty Bolete GypsyMushroom,Bolete,3,Pick,Sponge Milk,Kosteus Morel
+482,47,F,10,7,4,5,4,4,2,4,1,,,,,,,x,,,,x,x,x,,Lactarius LactariusRufus FunnelChanterelle Chanterelle,Chanterelle,4,Pick,,
+483,36,F,26,4,4,5,4,5,4,4,5,x,,,,,,,x,x,,x,x,,,FunnelChanterelle HornOfPlenty AlbatrellusOvinus Bolete SlimySpikeCap Lactarius Chanterelle,Chanterelle  Russula  Bolete,5,Pick,White,Mossy
+484,56,F,30,4,4,4,3,5,3,1,2,,,,x,x,,x,x,x,,x,x,,,FunnelChanterelle Chanterelle HornOfPlenty Hydnum AlbatrellusOvinus HygrophorusCamarophyllus LactariusRufus CurryMilkcap,Bolete   Chanterelle,5,White Milk,,Chanterelle
+485,61,F,2,2,1,4,1,5,4,1,3,,,,x,x,x,,x,x,,x,x,,,Porcini Chanterelle, Chanterelle,4,,,
+486,56,M,48,10,5,4,4,2,4,1,4,x,,,x,,x,,x,x,x,x,x,x,,Russula Bolete Lactarius FunnelChanterelle Aphyllophorales,Bolete  Russula Lactarius   Chanterelle,2,Poisonous Separate Pick Equipment Knife Lost ,None,
+487,43,F,30,5,4,4,3,4,4,2,3,x,,,x,,,,x,x,,x,,x,,FunnelChanterelle AlbatrellusOvinus,Chanterelle,3,Pick,Milk,Mossy
+488,46,Other,16,7,5,4,5,2,4,1,1,x,,,x,,,x,x,x,,x,x,x,,Russula RussulaPaludosa RussulaDecolorans AlbatrellusOvinus Lactarius CurryMilkcap BirchMilkcap LactariusAurantiacus Chanterelle FunnelChanterelle GypsyMushroom SweetTooth Bolete LeccinumPiceinum Porcini,WoollyMilkcap  Leccinum  Chanterelle  GrassGreenRussula  YellowSwampRussula,5,Tell Equipment Knife Pick Clean Lost,Poisonous None ,Morel
+489,29,F,20,4,4,4,3,5,3,1,4,x,x,,x,,,,x,x,,x,,,,FunnelChanterelle HornOfPlenty Bolete,Chanterelle  OrangeBirchBolete,4,Pick,Red,
+490,42,F,24,4,4,5,5,5,3,2,4,x,,,x,x,,,x,x,,x,x,x,,LactariusRufus GypsyMushroom Bolete Hydnum,Chanterelle  Russula,3,Pick Unidentified,Milk,
+491,55,F,12,5,4,3,4,2,4,2,2,x,,,,,,,x,x,,,x,,x,Lactarius,Lactarius,5,Milk,Milk,
+492,70,F,45,4,5,4,5,5,4,4,3,x,,x,x,x,x,,x,x,,x,x,x,x,FunnelChanterelle Lactarius,Lactarius   Chanterelle,4,Milk BoleteSafe,,Rufous
+493,62,F,47,5,5,5,5,4,4,2,4,x,x,x,,,,,x,x,,x,x,x,,Porcini LactariusTrivialis LactariusRufus FunnelChanterelle Russula,Chanterelle  Russula  Leccinum   GypsyMushroom,4,Pick,Milk BoleteSafe,
+494,67,F,40,5,5,5,4,5,5,2,5,,,,x,,,,x,x,,x,x,x,,SweetTooth Russula FunnelChanterelle LactariusRufus AlbatrellusOvinus GypsyMushroom,GrassGreenRussula  YellowSwampRussula  WoollyMilkcap  Chanterelle,5,Pick Unidentified,Pick None,Morel
+495,59,F,20,3,4,4,4,1,4,2,1,,,,,,,x,x,x,,,,x,,Bolete Lactarius,Chanterelle WoollyMilkcap,3,Pick,,Familiar
+496,30,F,4,4,2,4,2,5,2,1,4,x,,,x,x,,x,x,x,,x,x,x,x,AlbatrellusOvinus GypsyMushroom Russula HygrophorusCamarophyllus FunnelChanterelle,Chanterelle  GrassGreenRussula  ShaggyInkCap  Bolete,4,Pick One Sources,Bulb Milk,Old Kosteus
+497,36,F,10,4,4,4,4,5,2,2,5,x,x,,x,,,,x,,,,,,,FunnelChanterelle AlbatrellusOvinus Russula HornOfPlenty Porcini SlimySpikeCap,Chanterelle  Leccinum,4,Pick Clean  Whole,BoleteSafe,Sloped Chanterelle Pine
+498,53,M,42,4,4,5,5,4,4,1,4,x,,,,,,,,x,,x,,x,,Russula FunnelChanterelle,Chanterelle ,4,Pick,,
+499,38,F,6,3,4,5,5,5,4,4,4,x,,,x,x,,,x,x,,x,x,,x,Bolete,Chanterelle,4,White,Terrain,
+500,42,F,30,4,5,4,5,4,4,2,1,x,,,,,,,x,x,,x,x,x,,FunnelChanterelle Lactarius,Russula  Chanterelle,4,Pick,,Sloped
+501,76,M,68,10,5,5,4,2,3,1,3,x,,,,,,,x,x,,x,,,x,AlbatrellusOvinus Hydnum,Russula,3,Pick Separate ,,Path
+502,31,F,6,4,4,4,4,5,4,2,4,x,,,,,,,x,x,,x,x,,,FunnelChanterelle AlbatrellusOvinus HornOfPlenty CurryMilkcap,Chanterelle  Bolete Lactarius,4,Eat Familiar,Poisonous Eat Sources,
+503,57,F,20,5,4,2,4,5,3,1,4,x,,,x,,x,,x,x,,x,x,x,,FunnelChanterelle SurpriseWebcap BloodRedWebcap LactariusTrivialis Chanterelle Russula Bolete,Chanterelle  Bolete  Russula,4,Milk,Sources Smell,Familiar
+504,63,F,40,5,5,4,3,2,4,1,5,x,,,,,x,,x,,,,x,,,FunnelChanterelle Lactarius,Bolete  Russula  Chanterelle  HornOfPlenty,4,Equipment,Eat Sources,
+505,36,F,4,8,4,4,4,4,2,1,2,x,,,,,,,x,x,,x,x,,x,FunnelChanterelle BloodRedWebcap AlbatrellusOvinus Porcini HornOfPlenty,Chanterelle  Leccinum  WoollyMilkcap,4,Pick Separate,Pick,FunnelSpruce Old Chanterelle
+506,54,F,4,3,1,2,2,1,4,2,1,x,,,,,,,x,x,,x,x,x,x,FunnelChanterelle,Chanterelle,3,Lost,Red Pick,
+507,50,M,43,3,4,4,4,5,1,2,4,x,x,,x,,,,x,x,,x,x,x,x,AlbatrellusOvinus Lactarius FunnelChanterelle Chanterelle Bolete,Chanterelle Russula,4,Pick Poisonous One ,Milk Smell ,Old Chanterelle Pine kosteus Morel
+508,58,F,52,6,4,3,4,5,3,2,4,x,,x,x,,x,,x,x,,x,x,x,,HornOfPlenty AlbatrellusOvinus FunnelChanterelle,Chanterelle,5,Pick,Milk Smell White,Familiar
+509,53,F,33,25,5,4,4,4,2,1,1,,x,,x,x,x,x,x,x,x,x,x,x,x,WitchesCauldron Polyporaceae StrobilurusEsculentus,Chanterelle,1,,,
+510,61,F,42,4,5,4,4,5,4,1,2,x,,,x,,,,,x,,x,x,x,,Porcini FunnelChanterelle HypholomaCapnoides,WoollyMilkcap,4,Pick,Terrain,
+511,36,F,8,6,4,4,4,5,4,2,4,,,x,x,,,,x,x,,x,x,x,x,Lactarius Bolete Hydnum HornOfPlenty FunnelChanterelle,Chanterelle  Bolete,5,White  ,BoleteSafe Pick,
+512,39,F,30,6,5,3,4,5,4,1,1,x,,,x,,,,x,x,,x,x,x,x,FunnelChanterelle Porcini BrownSlimecap,OrangeBirchBolete  Chanterelle,4,Sound Lost,,FunnelMoss FunnelSpruce Chanterelle
+513,60,F,25,5,4,4,4,4,5,2,2,,,,x,,,,x,x,,x,,,,Chanterelle FunnelChanterelle Bolete Lactarius Hydnum GypsyMushroom,Russula  CommonPuffball  Chanterelle Coprinus ,4,Pick Separate,,
+514,61,F,30,7,4,5,5,4,5,4,5,x,,,,,,,x,x,,x,x,x,,FunnelChanterelle Chanterelle HornOfPlenty,ParasolMushroom,4,Pick,None,Sloped
+515,57,F,40,4,4,4,4,5,5,2,2,x,,x,x,,,,,x,,,x,,,HornOfPlenty Russula AlbatrellusOvinus,ParasolMushroom  Agaricus  Chanterelle  WoollyMilkcap ,4,Eat Senses,Milk Poisonous,Chanterelle
+516,46,F,7,4,2,4,4,1,2,1,3,,,,x,x,x,x,x,x,,x,x,,,HornOfPlenty Chanterelle Bolete Hydnum GypsyMushroom FunnelChanterelle,Agaricus,2,,Stockings ,
+517,68,M,40,5,4,4,4,5,4,2,4,x,,,,,x,,,x,,,x,x,,FunnelChanterelle Russula Lactarius,,2,,Pick,
+518,55,F,45,6,5,5,4,5,4,1,5,x,,,,,,,x,x,,,x,,x,Bolete FunnelChanterelle Russula Lactarius,Russula  Leccinum,5,Pick Sources Milk,Pick Sources Milk,Familiar
+519,33,F,5,3,3,4,3,5,4,3,5,,x,,,,,,x,x,,,x,,,Chanterelle CurryMilkcap FunnelChanterelle,JerseyCowMushroom Agaricus ,4,Milk,Milk,
+520,51,F,10,5,3,4,2,4,5,2,2,,,,x,x,,,x,x,,x,x,x,x,FunnelChanterelle Bolete,,4,Pick,Milk,Familiar
+521,55,F,15,2,4,3,4,5,2,2,4,,,,x,x,,,x,x,,x,,x,,FunnelChanterelle,Chanterelle,4,Pick One,,
+522,65,F,50,5,5,5,4,5,4,1,5,x,x,,x,,x,,x,x,x,x,x,x,x,FunnelChanterelle Hydnum Lactarius Bolete,Chanterelle,4,,,
+523,39,F,20,4,4,4,4,2,4,2,3,x,,x,x,x,,,x,x,,x,x,x,x,FunnelChanterelle Chanterelle,Chanterelle,4,,Milk Stockings,Morel
+524,63,F,50,3,4,4,4,5,4,4,1,x,,,x,,,,x,x,,x,x,,,Lactarius FunnelChanterelle HygrophorusCamarophyllus BloodRedWebcap,Chanterelle ,4,Pick ,White Sources,Familiar Cluster
+525,68,F,50,5,4,4,4,4,4,1,1,x,,,x,,,,x,x,,x,x,,,FunnelChanterelle Bolete,Chanterelle,4,Pick Clean,Sources,
+526,36,M,36,3,4,4,3,2,4,4,3,x,x,x,x,,,,x,,,x,x,x,,Chanterelle Bolete,,3,Pick,Pick,
+527,62,F,59,10,5,3,2,5,1,1,4,x,,,,x,x,x,x,x,x,,x,,,Russula Lactarius Bolete LyophyllumFumosum,Chanterelle   Lactarius Bolete,4,Poisonous,Milk,
+528,81,M,55,2,5,5,5,4,5,4,4,x,,,,,x,,,,,,x,x,,FunnelChanterelle,,5,Pick,,
+529,56,F,36,5,5,4,4,4,2,2,1,x,,x,,,x,,x,x,,x,x,,,LactariusRufus Leccinum FunnelChanterelle HypholomaCapnoides HygrophorusCamarophyllus,,4,Pick,Poisonous,
+530,43,F,15,3,4,4,4,5,5,4,2,,,,x,x,,,,x,,x,x,,,Chanterelle FunnelChanterelle AlbatrellusOvinus Bolete GyromitraEsculenta,Bolete GyromitraEsculenta,4,Pick,Pick Lookalike,Morel FunnelMoss
+531,60,F,38,10,4,4,4,1,2,1,2,x,,x,x,,,,x,x,,x,x,,,FunnelChanterelle HygrophorusCamarophyllus HornOfPlenty SaffronMilkcap,Agaricus  ShaggyInkCap,5,Pick,Webcap Pick,
+532,33,F,15,2,5,5,4,4,4,2,4,x,x,,x,x,x,,x,x,,x,x,,,AlbatrellusOvinus HornOfPlenty Hydnum Lactarius Cantharellus,Agaricus Chanterelle Morel Russula Coprinus,3,Equipment Lost,White Milk,
+533,40,F,25,3,4,4,4,5,4,4,3,x,,,x,,,,x,x,,x,,x,x,HornOfPlenty FunnelChanterelle,Chanterelle  LactariusTrivialis,4,Equipment Lost,Red White,Chanterelle
+534,37,F,12,3,5,4,4,4,4,5,3,,,x,x,x,,,,x,,x,x,,x,Bolete Chanterelle,,1,,,
+535,55,F,49,49,5,5,5,5,5,1,1,x,,,,,,,x,x,,x,x,x,x,FunnelChanterelle LactariusRufus,Leccinum   Porcini,3,,Milk,
+536,42,F,7,4,3,2,4,1,2,1,2,,x,,x,,,,,x,,x,x,,,FunnelChanterelle,Chanterelle,4,Eat,,
+537,35,F,32,2,4,5,4,5,5,2,5,x,x,,,,,,x,x,,x,x,,,Chanterelle FunnelChanterelle ,,4,Pick,Milk Smell,Scent
+538,55,F,5,3,3,5,4,5,4,4,3,,,x,,x,,,x,x,,x,,x,,Chanterelle,Bolete,4,Pick,,Chanterelle
+539,62,M,28,2,4,4,4,2,2,4,2,x,,,x,,,,x,x,,x,x,x,,,,5,Pick,Pick,Old
+540,56,F,25,5,4,5,4,5,4,4,2,,,,,,,,x,x,,x,x,x,x,Bolete Chanterelle FunnelChanterelle LactariusRufus,Chanterelle Bolete,4,Pick Separate,Pick Smell Sources,Familiar
+541,64,F,35,4,4,4,4,4,5,2,3,,,,,,,x,x,x,,,x,,,FunnelChanterelle,Chanterelle ,2,Pick,,Morel
+542,22,F,19,3,4,5,4,5,4,3,3,x,x,x,x,x,,,x,x,,x,x,x,x,FunnelChanterelle HornOfPlenty AlbatrellusOvinus LactariusTrivialis Chanterelle,ParasolMushroom Chanterelle,4,Pick Separate Equipment Knife,Sources Smell Pick Lookalike,Familiar
+543,52,F,5,3,4,4,4,4,4,2,4,x,x,,x,,,x,x,,,x,x,,,Chanterelle FunnelChanterelle Lactarius Bolete,Chanterelle  Bolete,4,Pick Sources Sound,White Spot Sponge BoleteSafe Milk,FunnelMoss Path Chanterelle Morel Familiar
+544,40,F,10,2,2,4,4,5,5,2,4,x,,,x,,,,x,x,,x,x,,x,FunnelChanterelle,Chanterelle,4,Pick,,
+545,59,F,10,3,2,4,2,5,4,2,3,,,x,,,,,,x,,,,,,FunnelChanterelle,Chanterelle,3,Pick,,Familiar Morel
+546,73,F,45,8,5,4,4,4,4,4,5,x,,,x,,,,,x,,x,x,x,,Chanterelle FunnelChanterelle Porcini,Lactarius  Bolete,4,Pick Equipment,Pick Milk,FunnelSpruce Chanterelle
+547,37,F,7,3,2,4,4,4,4,4,2,x,,,x,,,,x,x,,,x,,,FunnelChanterelle Porcini HornOfPlenty LactariusRufus AlbatrellusOvinus,,2,Pick,Milk BoleteSafe,
+548,61,F,15,4,2,5,4,5,1,2,1,x,,,x,x,,,x,x,,x,x,x,,AlbatrellusOvinus Hydnum FunnelChanterelle HornOfPlenty Bolete,,5,Tell Equipment Lost,Terrain Lookalike ,Path
+549,52,F,42,4,2,4,4,4,4,1,1,x,,,x,,,,x,x,,x,x,x,,Bolete AlbatrellusOvinus Chanterelle,Bolete,4,Pick,Poisonous,FunnelSlope
+550,60,F,55,5,5,4,4,5,3,2,2,x,x,x,x,,,,x,x,x,x,x,x,,HygrophorusCamarophyllus FunnelChanterelle Bolete Porcini BayBolete,Chanterelle FalseSaffronMilkcap,4,,Milk Bulb,
+551,37,F,7,3,2,4,2,2,3,4,1,,,x,,,,,x,x,,,x,,,FunnelChanterelle WoollyMilkcap,Chanterelle,4,Pick,Sponge Milk,
+552,37,F,30,4,5,5,4,5,4,4,4,x,x,,x,x,,,x,x,,x,x,x,x,Chanterelle Porcini Leccinum LactariusRufus HygrophorusCamarophyllus AlbatrellusOvinus,OrangeBirchBolete  CommonInkCap  ShaggyInkCap,4,Pick,Pick,
+553,36,F,5,3,2,5,4,4,4,4,2,x,,x,,,,x,x,,,,x,,x,FunnelChanterelle Porcini,Chanterelle,5,Pick,,Chanterelle Path Cluster FunnelMoss
+554,30,F,5,3,4,4,4,4,4,2,5,x,,,,,,,x,x,,x,,,,Porcini LactariusTrivialis CurryMilkcap LactariusLignyotus,Chanterelle,5,Pick,Milk Stockings,
+555,55,M,25,10,4,4,4,5,4,5,4,,,,,,,x,x,,,x,,x,,Chanterelle Bolete FunnelChanterelle,Bolete Chanterelle Lactarius ,4,Pick,Milk,
+556,51,F,10,3,4,4,4,5,4,2,5,x,,,,,,x,x,x,,x,x,x,x,FunnelChanterelle HornOfPlenty Russula Lactarius,Chanterelle,4,Pick White Senses ,,Familiar
+557,64,F,34,2,5,5,5,3,4,2,5,x,,,x,x,,,x,x,,x,x,x,,Cantharellus Bolete,Chanterelle,4,,Pick,
+558,52,F,40,7,5,5,4,4,2,2,4,,x,,x,,,x,x,x,,x,x,x,x,FunnelChanterelle UglyMilkcap CurryMilkcap HygrophorusCamarophyllus Porcini Hydnum AlbatrellusOvinus FalseSaffronMilkcap,Chanterelle  PestlePuffball  GrassGreenRussula YellowSwampRussula  SheathedWoodtuft,4,Milk Unidentified,Bulb Smell,
+559,70,F,40,3,3,3,4,3,5,2,4,x,,,,,,,x,,,x,x,,x,FunnelChanterelle,LactariusRufus,3,,,Familiar
+560,46,F,1,3,2,4,4,3,2,4,5,x,x,,x,,,,x,x,,x,x,x,x,FunnelChanterelle,Bolete Chanterelle,2,Eat,Eat White,
+561,44,F,10,7,4,4,3,4,4,2,2,x,,,x,,,,x,x,,x,x,x,,FunnelChanterelle,Lactarius Bolete ,5,,,
+562,34,F,3,3,2,3,2,4,1,1,2,x,,,x,,,x,x,x,,x,x,,,Porcini FunnelChanterelle AlbatrellusOvinus SweetTooth,Chanterelle,5,Equipment Separate BoleteSafe Milk Tell,Bulb Ring Sponge Milk,
+563,51,F,40,5,5,5,5,4,4,2,4,,,,,,x,,x,,,x,x,,,Bolete Russula Hygrophoraceae FunnelChanterelle,Chanterelle  WoollyMilkcap  SlipperyJack,4,Pick One Separate,Milk White,FunnelSpruce Path
+564,48,F,20,4,4,4,4,5,4,2,4,x,,,,,x,,x,x,,x,x,x,,Chanterelle Bolete,Russula LactariusTrivialis WoollyMilkcap,2,Pick Sources,Sponge Pick,Familiar Similar
+565,55,M,35,11,5,5,2,5,5,1,5,,x,,x,x,,,x,x,,,x,x,x,FunnelChanterelle Chanterelle HypholomaCapnoides AlbatrellusOvinus Charbonnier HygrophorusCamarophyllus SweetTooth FlatBulb,OrangeBirchBolete  BoletusBetulicola  BirchWebcap  TheMiller  SheathedWoodtuft,5,Pick ,Bulb,
+566,41,F,5,3,4,4,5,3,5,5,4,,,,x,x,,x,x,,,,x,x,,FunnelChanterelle Chanterelle,Chanterelle  Porcini,4,Pick,Milk BoleteSafe,FunnelMoss Chanterelle
+567,56,F,50,2,3,2,4,5,5,5,5,x,,x,x,x,,,,x,,x,x,,x,Chanterelle,,4,Pick,Pick,Familiar
+568,38,F,30,7,3,4,4,5,2,1,5,x,,,x,x,x,,x,x,,x,x,x,,Chanterelle FunnelChanterelle Bolete Russula Lactarius,,2,Eat,,
+569,56,F,53,3,5,5,4,5,5,2,4,x,,x,x,x,,,x,x,,x,x,x,x,FunnelChanterelle LactariusRufus Bolete,Chanterelle   Bolete,4,BoleteSafe Pick ,Milk BoleteSafe,Morel FunnelMoss FunnelSpruce Chanterelle
+570,39,F,21,10,4,4,4,4,3,2,3,,,,x,,,,x,x,,x,x,x,x,Bolete FunnelChanterelle HornOfPlenty,GrassGreenRussula YellowSwampRussula ,4,Separate Unidentified,,Morel FunnelMoss FunnelSlope
+571,46,F,25,3,4,5,4,1,3,2,3,x,,,,,,,x,x,,x,,x,,AlbatrellusOvinus Hydnum,Russula,4,Pick White,Pick,
+572,56,F,4,4,2,4,4,5,2,2,4,x,,,x,x,,,x,x,,x,x,x,,FunnelChanterelle Bolete HygrophorusCamarophyllus Chanterelle Lactarius Russula,,5,Pick,,
+573,37,F,25,5,4,4,4,3,4,2,2,x,x,,x,,,,x,x,,x,x,,,FunnelChanterelle Lactarius Russula,WoollyMilkcap  GrassGreenRussula ,3,Eat,Milk,
+574,56,F,48,6,5,4,5,4,4,2,4,x,,,x,x,x,,x,x,x,x,x,x,x,AlbatrellusOvinus FunnelChanterelle HygrophorusCamarophyllus HornOfPlenty SweetTooth Russula Porcini,Chanterelle  Porcini,4,Pick,None Milk,Chanterelle
+575,43,F,20,4,4,4,4,5,4,1,3,x,x,,x,x,,x,x,x,,x,x,x,,FunnelChanterelle,Chanterelle   Leccinum,4,Pick Sources,,Old Mossy Spruces Sloped
+576,31,F,10,3,2,5,5,4,2,2,5,x,,,x,,,,x,x,,x,x,x,,FunnelChanterelle,Chanterelle,5,Pick ,Terrain,Old Mossy
+577,44,F,43,8,4,4,4,4,3,3,4,x,,,x,x,,x,x,x,,x,x,x,x,Porcini FunnelChanterelle HornOfPlenty FalseSaffronMilkcap Agaricus Lactarius,Chanterelle  GrassGreenRussula  RoughStemmedBolete,4,Milk,,
+578,53,F,15,2,2,4,2,4,4,1,3,,,,x,x,,x,x,,,x,x,,,FunnelChanterelle Bolete,Bolete  Chanterelle,4,Pick One Whole Terrain,White Lookalike,FunnelMoss FunnelSpruce Cluster
+579,41,F,10,4,4,4,4,5,4,1,4,x,,,x,,,,x,x,,x,x,x,,Russula Bolete, Chanterelle,4,Pick Separate,,
+580,40,M,20,5,5,5,4,5,4,2,4,,x,x,x,,,,x,x,,x,x,,x,FunnelChanterelle AlbatrellusOvinus,Chanterelle,5,Pick,,Chanterelle Morel
+581,40,F,35,5,5,4,4,4,5,1,1,x,,,x,x,,,x,x,,x,x,,,Bolete LactariusTrivialis Lactarius Russula LactariusLignyotus AlbatrellusOvinus Chanterelle HypholomaCapnoides SlimySpikeCap,Chanterelle  Leccinum  Russula  SlipperyJack,4,Lost Equipment,White Sources Milk Sponge Pick ,Kosteus 
+582,54,F,45,12,4,4,4,4,4,2,4,x,,,,,,,x,x,,x,x,x,,FunnelChanterelle VelvetBolete SweetTooth GypsyMushroom Bolete,Chanterelle  Russula,4,Pick,Milk Sponge,Chanterelle FunnelMoss
+583,44,F,3,5,2,4,2,4,2,1,4,,,,x,x,x,,x,x,,,x,,,FunnelChanterelle,,4,Pick,Sources,Chanterelle Morel FunnelSpruce FunnelSlope
+584,52,F,42,6,4,4,4,4,2,1,5,x,x,,x,x,,,x,x,,x,x,x,,,,5,Pick,,
+585,70,F,40,3,3,4,3,5,4,2,3,x,,x,,,,,x,x,,,x,,,LactariusRufus FunnelChanterelle AlbatrellusOvinus,Chanterelle   Lactarius,4,Pick Milk,,FunnelMoss FunnelSlope Chanterelle Morel
+586,66,M,55,3,4,4,4,3,3,3,4,x,,,x,x,x,,,x,,,,,,FunnelChanterelle AlbatrellusOvinus,Chanterelle,4,Pick,,
+587,41,F,38,13,4,4,2,5,4,1,3,x,,,,,,,x,x,,x,x,,x,FunnelChanterelle Bolete HornOfPlenty AlbatrellusOvinus LactariusTrivialis,Leccinum  Agaricus  ParasolMushroom  Chanterelle,4,Milk White ,Milk White Webcap Eat,FunnelSlope
+588,66,F,55,4,3,4,4,4,4,1,3,x,,,,x,x,,x,x,,x,x,x,,Bolete,Chanterelle,4,,,
+589,48,F,30,3,4,5,4,2,4,4,2,x,,,,,x,,x,,,x,x,,,FunnelChanterelle HornOfPlenty Bolete,Chanterelle  Russula,4,Pick Separate,Milk Stockings Sponge,Kosteus Chanterelle Morel
+590,36,F,33,7,4,4,4,4,2,1,1,x,x,,x,,,x,x,x,,x,x,,,Lactarius Russula Bolete FunnelChanterelle Chanterelle GypsyMushroom,Chanterelle  ParasolMushroom,4,Clean,Stockings,Old
+591,42,F,10,10,4,4,4,3,4,2,3,x,,x,x,x,x,,x,x,,x,x,x,x,FunnelChanterelle Chanterelle AlbatrellusOvinus Hydnum HornOfPlenty Bolete,Chanterelle  Russula,4,White,White,Old
+592,65,F,45,1,5,5,4,5,2,2,2,x,x,x,,,,,x,,,x,x,x,x,PineBolete FunnelChanterelle Chanterelle,Chanterelle,4,Pick,,
+593,38,M,12,5,4,4,4,3,3,2,2,x,,,x,x,,,x,x,,x,x,,x,FunnelChanterelle Chanterelle Cantharellus LactariusRufus Lactarius,Russula  Agaricus,4,Eat Separate,Milk Sponge,FunnelSlope Morel
+594,35,F,6,2,2,5,4,2,4,4,1,x,,,x,x,,,x,x,,,x,,,FunnelChanterelle Porcini AlbatrellusOvinus,Chanterelle,2,Pick Separate Sources One,White,Familiar Chanterelle
+595,50,M,35,2,4,4,4,5,4,3,3,x,,,,,,,x,,,,,,,FunnelChanterelle,,3,,,
+596,51,F,29,14,5,4,4,2,4,1,1,,,,,,x,,,x,,x,,,,HornOfPlenty FunnelChanterelle Russula Hydnum AlbatrellusOvinus Lactarius Hygrophoraceae Bolete,Chanterelle  Armillaria  GrassGreenRussula  UglyMilkcap  CommonPuffball,4,Poisonous Pick Whole Sources,,
+597,50,F,20,6,2,4,4,1,4,1,3,x,,,,x,,,,,,,x,,,Chanterelle FunnelChanterelle AlbatrellusOvinus Lactarius GypsyMushroom,OrangeBirchBolete  WoollyMilkcap Lactarius  HornOfPlenty  Russula,5,Pick One Separate,Pick,Mossy
+598,41,F,10,4,4,5,4,4,4,4,2,x,,,,x,,,x,x,,,,,,,,4,,,
+599,49,F,45,5,5,5,5,3,4,2,4,x,,,,,,x,x,x,,,x,x,x,HornOfPlenty FunnelChanterelle,Leccinum,3,Pick Terrain Clean Clean,Milk White,
+600,61,F,30,2,4,4,4,2,2,3,4,,,,x,,,x,x,x,,,x,x,x,FunnelChanterelle AlbatrellusOvinus Lactarius SweetTooth TerracottaHedgehog,YellowSwampRussula  Chanterelle  GrassGreenRussula  Lactarius,4,Lost Clean Pick Separate Sources ,Milk Sponge BoleteSafe,Pine Chanterelle FunnelSpruce FunnelSlope Morel
+601,47,F,15,5,4,4,4,5,4,2,1,x,,,x,,x,,x,x,,x,x,x,,Chanterelle FunnelChanterelle Bolete SweetTooth AlbatrellusOvinus ParasolMushroom,Bolete Agaricus ParasolMushroom HornOfPlenty ,4,BoleteSafe ,Spot White,Kosteus
+602,30,M,2,5,2,1,4,5,4,1,1,x,x,,,x,,,x,,,,,,,LactariusTrivialis Tricholoma Bolete Armillaria,Bolete  Chanterelle  WoollyMilkcap,5,Pick,Sponge,
+604,65,M,20,5,3,4,3,4,3,1,1,,,,x,,,x,x,x,,,,x,,Porcini FunnelChanterelle AlbatrellusOvinus,,3,Pick,Pick Sources,
+605,33,F,20,3,5,4,4,5,4,2,4,x,x,,x,,,,x,x,,x,x,x,x,Bolete  AlbatrellusOvinus HornOfPlenty FunnelChanterelle,Bolete Chanterelle,1,,,
+606,52,F,35,6,4,4,4,4,4,2,2,x,,,x,,,,x,x,,x,x,x,x,FunnelChanterelle Porcini Lactarius,Lactarius  Chanterelle,5,Eat Clean ,Smell Milk,Chanterelle FunnelSpruce FunnelSlope FunnelMoss
+607,46,F,36,5,4,4,4,4,2,2,3,x,x,,x,,,,x,x,,x,x,x,x,Bolete,Chanterelle  Lactarius,4,White,,
+608,63,F,20,6,4,4,4,2,5,1,5,,,,,,,x,x,x,,x,x,x,,FunnelChanterelle Bolete Russula Lactarius Hygrophoraceae Agaricus ,Chanterelle,3,Familiar White Pick Unidentified Separate ,Webcap Pick One,Old Mossy Spruces
+609,51,F,41,5,5,4,4,4,4,4,2,x,x,x,,,,,,x,x,x,x,x,,FunnelChanterelle Porcini Russula,Russula ParasolMushroom,4,Eat Lost,,
+610,53,F,51,6,4,5,5,4,5,2,4,x,x,,x,x,,,x,x,,x,x,x,,FunnelChanterelle AlbatrellusOvinus LactariusRufus Russula HornOfPlenty,Chanterelle  Bolete  LactariusTrivialis,5,Pick One,Milk White,Mossy Chanterelle Kosteus Familiar
+611,36,F,6,3,2,4,4,5,4,2,3,,,,x,x,,x,,x,,x,x,x,,Porcini FunnelChanterelle LactariusRufus HornOfPlenty,Chanterelle  ParasolMushroom,4,Pick,,
+612,28,F,5,3,4,4,4,5,4,2,3,x,x,,x,,,,x,x,,x,x,x,x,FunnelChanterelle CraterellusLutescens Bolete,Chanterelle,5,Pick Milk,White Spot Webcap Milk,
+613,57,F,24,8,4,2,4,2,5,2,5,x,,,x,x,x,x,x,x,,x,x,x,x,Russula Lactarius Bolete Hygrophoraceae AlbatrellusOvinus Hydnum Webcap,Russula  Porcini  Leccinum  Armillaria ,4,Eat Whole ,Milk,
+614,66,F,40,6,5,5,4,2,4,1,1,x,,,x,,x,,x,x,,x,x,,x,Porcini Lactarius HygrophorusCamarophyllus CrabBrittlegill RussulaVinosa AlbatrellusOvinus Hydnum FunnelChanterelle HornOfPlenty,YellowSwampRussula  GrassGreenRussula  SheathedWoodtuft  Chanterelle  OrangeBirchBolete,4,Equipment Tell,None Sponge ,
+615,65,F,25,3,5,4,5,2,2,2,4,,,,x,,,x,x,x,,,x,x,,CurryMilkcap HornOfPlenty FunnelChanterelle Porcini GypsyMushroom LactariusTrivialis LactariusRufus,Chanterelle,4,Pick,Pick,Old
+616,32,F,3,3,2,2,3,2,4,1,1,x,,,x,x,,,x,x,,x,x,x,x,FunnelChanterelle Lactarius,,5,,,
+617,62,F,55,10,4,4,4,4,4,4,2,x,,,x,,x,,x,x,,,x,x,,Bolete AlbatrellusOvinus FunnelChanterelle Lactarius GypsyMushroom,Chanterelle Coprinus WoollyMilkcap,4,Pick Clean Milk,Sources,
+618,34,M,10,10,4,5,5,1,1,1,3,x,,x,x,x,x,,x,x,x,x,,x,,FunnelChanterelle AlbatrellusOvinus SweetTooth,ParasolMushroom,5,Lost Equipment ,Eat Lookalike Terrain Poisonous Sources,Morel
+619,67,F,10,6,4,4,4,2,4,2,2,,,,x,x,x,,x,x,,x,x,x,x,Bolete Lactarius FunnelChanterelle HornOfPlenty Russula GypsyMushroom AlbatrellusOvinus,Chanterelle  Bolete  Russula  Lactarius ,5,Pick Whole Equipment Alone ,Milk White Webcap Pick Sources Poisonous,Familiar Path FunnelMoss
+620,62,F,40,2,4,4,4,5,5,5,4,,,x,x,,,x,,x,,x,x,x,,Hydnum FunnelChanterelle Russula Bolete GypsyMushroom,Chanterelle,5,Pick,,
+621,40,F,8,2,3,4,2,4,5,4,4,,,,x,x,,,x,,,x,x,,,Bolete FunnelChanterelle AlbatrellusOvinus,,4,Equipment Tell ,Pick Milk,Familiar FunnelSlope Path
+622,59,F,25,3,3,4,4,4,4,2,3,,x,,x,,x,,x,x,,,,,,FunnelChanterelle Chanterelle BloodRedWebcap AlbatrellusOvinus Lactarius Russula,Chanterelle,5,Pick,,
+623,33,F,2,3,1,2,1,3,4,1,3,,x,,,,,x,x,x,,x,x,x,,Bolete,Bolete,3,Pick,Pick,
+624,38,F,1,1,1,3,3,5,2,4,1,,,,x,x,,,x,,,x,x,x,,FunnelChanterelle,Chanterelle,1,,,
+625,27,M,2,4,4,4,4,4,4,2,2,x,,x,x,x,,,x,x,,x,x,,,FunnelChanterelle Chanterelle Bolete Russula Lactarius,   Chanterelle  Russula ,3,Pick,Sources,
+626,50,F,45,3,5,5,5,4,4,4,3,x,,,,,,,x,x,,,,,x,FunnelChanterelle Chanterelle Bolete,Chanterelle,2,,Sources,
+627,66,F,60,6,5,4,4,5,4,2,5,x,,,,,,,x,x,,,x,x,,FunnelChanterelle Bolete AlbatrellusOvinus Russula,Chanterelle  Russula  OrangeBirchBolete,4,Pick White,,
+628,43,F,15,3,4,4,4,5,4,4,3,x,,,,,,,,,,,,,,FunnelChanterelle Chanterelle Lactarius,OrangeBirchBolete,5,Pick,Milk Smell,FunnelSpruce
+629,43,F,35,4,5,5,5,5,5,2,3,x,,,,,,x,x,x,,x,x,,,FunnelChanterelle Chanterelle HornOfPlenty Hydnum Russula GypsyMushroom Lactarius,Bolete  Agaricus  Lactarius,5,Pick Senses Sources,Milk Smell,Instinct
+630,61,F,30,2,2,4,4,4,4,4,4,x,,x,x,x,,,,x,,,x,x,,FunnelChanterelle Lactarius,Chanterelle  Bolete ,4,White Milk Senses ,Ring Milk,
+631,47,M,26,8,4,4,4,3,3,1,3,,,,x,,x,x,x,x,x,x,x,x,x,Russula RussulaPaludosa RussulaVinosa CrabBrittlegill Hydnum HornOfPlenty AlbatrellusOvinus Chanterelle CurryMilkcap Porcini,ParasolMushroom  Chanterelle  BareToothedRussula  OrangeBirchBolete ,4,Pick Clean ,White Lookalike,Path
+632,32,Other,20,5,5,3,4,2,3,2,1,x,,,,x,,,x,x,x,x,x,,,AlbatrellusOvinus FunnelChanterelle Russula Lactarius HygrophorusCamarophyllus HornOfPlenty Leccinum,SlipperyJack  Chanterelle  Leccinum,5,Alone Equipment,Sponge Milk Smell White Sources ,Similar FunnelMoss Chanterelle Instinct
+633,33,F,3,8,3,4,3,4,2,1,1,,,x,x,,x,x,x,x,,x,x,x,x,Bolete SlimySpikeCap Cantharellus Russula,Bolete ,5,,,
+634,58,F,40,15,4,3,3,4,2,4,5,,,,,,,x,x,x,x,x,x,x,,AlbatrellusOvinus FunnelChanterelle Bolete Russula HornOfPlenty FalseSaffronMilkcap CurryMilkcap HygrophorusCamarophyllus Hygrophoraceae FlatBulb HypholomaCapnoides Webcap Russula Otidea Mycena Clavariadelphus Ramaria,Russula   GrassGreenRussula YellowSwampRussula  Bolete  WoollyMilkcap  UglyMilkcap  SheathedWoodtuft  Chanterelle ,3,Sources ,White,
+635,35,F,10,10,4,5,4,2,4,2,4,x,x,,,x,,,x,x,,x,x,x,x,Bolete Leccinum Porcini AlbatrellusOvinus Hydnum SlimySpikeCap FunnelChanterelle CraterellusLutescens Chanterelle,Chanterelle  HornOfPlenty  Bolete,4,White Sources ,Milk Lookalike,
+636,60,F,30,5,4,5,4,5,5,1,2,x,,,x,,,,x,x,,x,,x,,HornOfPlenty Chanterelle AlbatrellusOvinus SweetTooth VelvetBolete LactariusRufus GypsyMushroom,Chanterelle  Russula ,4,Familiar Equipment ,Pick,Familiar
+637,42,M,22,2,4,5,5,3,4,5,5,,x,,,,,,x,x,,,,,,Bolete Lactarius,Chanterelle Agaricus,5,Pick,Pick,Morel Chanterelle
+638,55,F,44,6,4,4,2,5,4,2,4,x,,,,,,x,,x,,x,x,,,Bolete,,3,Pick Clean,,
+639,45,F,5,2,4,5,2,5,4,4,2,,,,,,,x,x,x,,x,x,x,x,FunnelChanterelle Porcini,,3,Pick,,
+640,34,M,4,3,3,1,1,5,4,2,3,,,,x,x,x,,x,,,,x,,x,Russula FunnelChanterelle HornOfPlenty,ShaggyInkCap,4,White Pick ,Sponge Bulb,
+641,55,F,51,6,5,5,4,1,4,1,1,x,x,x,x,,x,,x,x,,x,x,x,x,Lactarius Agaricus Hydnum AlbatrellusOvinus HornOfPlenty Webcap FunnelChanterelle Russula,Chanterelle  GyromitraEsculenta  Lactarius  Leccinum  Hygrophoraceae Armillaria SheathedWoodtuft  Russula,3,Milk Pick White ,Smell,
+642,45,F,10,2,4,5,4,4,4,2,4,x,,,,x,,,x,x,,x,x,x,,Chanterelle FunnelChanterelle,Chanterelle ,4,Pick Clean ,Pick,
+643,73,F,60,3,2,5,4,5,5,5,3,x,x,,x,x,x,,x,,,x,x,x,,FunnelChanterelle Chanterelle Porcini Porcini Bolete AlbatrellusOvinus Lactarius,GyromitraEsculenta,3,Pick,Pick,Familiar
+644,30,F,10,3,2,4,4,4,4,1,3,,x,x,x,x,,,x,x,,x,x,,x,Chanterelle FunnelChanterelle SweetTooth Bolete LactariusRufus,Chanterelle  WoollyMilkcap,2,BoleteSafe,Milk,
+645,57,F,10,2,4,4,4,4,4,4,3,x,,,x,,x,x,,x,,,,,,Chanterelle Bolete,GyromitraEsculenta  AlbatrellusOvinus,3,Milk,,
+646,46,F,25,3,5,5,5,5,4,1,3,x,,,,,,x,,x,,x,x,x,,FunnelChanterelle HornOfPlenty Chanterelle LactariusTrivialis,,5,Equipment Tell ,White Webcap Milk,FunnelMoss FunnelSlope Familiar
+647,28,F,5,3,2,4,2,5,4,1,4,x,x,,,x,,,x,x,,x,x,x,,,,4,,,
+648,59,F,35,4,4,5,4,5,5,4,4,x,,,x,,,,x,,,x,x,x,,FunnelChanterelle Chanterelle HornOfPlenty Bolete,FlyAgaric,1,Pick,Pick,Familiar
+649,51,F,15,3,4,4,3,5,5,2,1,x,,,,,,,,,,,,x,,Chanterelle Lactarius,,5,Pick,Pick,Familiar
+650,42,M,25,5,4,4,4,4,4,2,2,x,,,x,,,,x,x,,x,x,x,,Russula FunnelChanterelle,Chanterelle  Bolete,4,,,
+651,32,F,7,3,3,4,4,4,4,1,3,,x,x,x,x,,,x,x,,x,x,x,x,AlbatrellusOvinus,Chanterelle,4,Pick,,
+652,55,F,29,4,4,4,4,4,4,4,4,,,x,x,,,,,x,,x,x,,,FunnelChanterelle AlbatrellusOvinus,Chanterelle  Bolete ,4,Equipment Familiar,Pick,
+653,61,M,30,8,5,4,4,4,4,1,5,x,,,x,,,,,x,,x,x,,,FunnelChanterelle Russula Lactarius AlbatrellusOvinus,Chanterelle  Bolete  SheathedWoodtuft ,5,,,Old
+654,62,F,30,10,5,5,5,1,4,5,5,,,,,,x,,x,x,x,,x,,,BloodRedWebcap FunnelChanterelle AlbatrellusOvinus HornOfPlenty,GrassGreenRussula BoletusBetulicola   TheDeceiver  Hygrophoraceae,2,Poisonous ,Stockings,Chanterelle FunnelMoss Rufous
+655,55,M,3,1,2,4,4,5,4,4,3,x,,,x,x,,,,x,,x,,x,,Chanterelle,,3,,,
+656,39,F,25,3,4,5,3,5,5,2,4,x,,,x,,,,x,,,,x,x,x,FunnelChanterelle Hydnum Chanterelle AlbatrellusOvinus,Chanterelle  Russula,5,Equipment Pick,White,
+657,63,F,40,3,4,1,4,4,4,2,1,x,,,x,,,,x,x,,x,x,x,x,FunnelChanterelle HornOfPlenty WoollyMilkcap AlbatrellusOvinus Hydnum,Chanterelle  Russula,4,Pick,,Kosteus Scent
+658,58,F,51,7,4,5,4,4,5,4,4,x,x,,x,,,,x,x,,x,,,,Russula Lactarius FunnelChanterelle,Chanterelle  Bolete,1,Unidentified Separate,White Webcap,Familiar
+659,75,M,50,4,4,4,4,1,2,2,4,x,,,x,,,,x,x,,,x,,,Russula GypsyMushroom FunnelChanterelle,Russula,5,,None,
+660,37,F,3,3,3,4,4,5,4,1,4,,,x,,x,x,,x,x,,x,,,,HornOfPlenty FunnelChanterelle CurryMilkcap YellowSwampRussula RussulaVinosa AlbatrellusOvinus Hydnum,Chanterelle,4,Equipment,White Ring Pick,Mossy Sloped
+661,31,F,2,2,1,5,3,4,5,3,4,,x,,,,,x,x,x,,x,x,x,x,FunnelChanterelle,Chanterelle  Bolete,4,Pick,Red,
+662,34,F,4,5,4,4,4,2,2,1,1,x,,x,,,x,x,x,x,,x,x,,,FunnelChanterelle Lactarius Bolete,Russula,2,Sources,Pick,
+663,44,M,38,4,4,4,4,4,2,2,3,x,,,,,,,x,x,,x,,,,FunnelChanterelle BloodRedWebcap Agaricus,Bolete,3,,None,
+664,43,F,5,7,1,3,4,4,4,3,3,x,,x,x,x,,x,x,x,,,x,x,,Bolete FunnelChanterelle CraterellusLutescens Ramaria,Bolete  Agaricus,5,Pick Senses,Sources,
+665,58,F,20,4,4,5,2,2,4,2,2,,,,,,,x,,x,,,x,,x,HornOfPlenty FunnelChanterelle Chanterelle Bolete BloodRedWebcap,,5,Pick,Pick,Familiar
+666,31,F,2,4,2,4,2,4,4,2,1,,,,x,x,x,,,x,,x,x,,,AlbatrellusOvinus SweetTooth FunnelChanterelle,Bolete Leccinum,4,Eat,Spot Smell White,
+667,70,F,45,3,4,5,4,5,3,2,5,x,,,,,,,,x,,,x,,x,Lactarius Bolete,Chanterelle,4,Pick,Sources,
+668,59,F,45,4,4,4,4,5,4,2,4,x,x,,,,,,x,,,,x,,,FunnelChanterelle Bolete,Chanterelle,4,Pick,Smell,
+669,48,F,54,7,3,4,4,4,5,2,1,x,,,,,,,x,,,,,,,Russula Lactarius,Chanterelle  HornOfPlenty,4,Whole Separate,Milk Sponge,Familiar
+670,61,M,50,5,4,4,4,2,2,1,3,x,x,,x,,,x,x,x,,x,x,,x,FunnelChanterelle SweetTooth AlbatrellusOvinus Bolete Russula GypsyMushroom FlatBulb Chanterelle,WoollyMilkcap  Chanterelle  OrangeBirchBolete Bolete Russula,2,Lost Equipment,BoleteSafe,
+671,46,M,20,10,4,4,3,2,4,3,4,x,,,,,,,x,x,,x,x,,,FunnelChanterelle,Chanterelle,3,,,Chanterelle FunnelMoss
+672,61,F,40,8,3,4,3,4,2,2,2,,,,x,,,,x,x,,x,x,,,Bolete Lactarius FunnelChanterelle,Bolete Chanterelle,5,Pick,Sponge Milk Terrain Sources,
+673,53,F,40,8,5,5,5,4,2,1,4,x,x,,,,,,x,x,,,x,,,FunnelChanterelle Bolete Lactarius AlbatrellusOvinus Chanterelle HornOfPlenty BloodRedWebcap,Bolete  Chanterelle  Lactarius  Russula,5,Tell Equipment,Pick,
+674,40,F,20,3,4,4,4,2,1,4,5,,x,,x,x,,,x,,,x,x,,,FunnelChanterelle AlbatrellusOvinus Hydnum,Bolete  Agaricus ,4,Tell Equipment,Milk,Rufous
+675,45,F,25,3,4,4,4,4,2,2,4,,,,x,,,,x,x,,,,x,,FunnelChanterelle AlbatrellusOvinus, Russula,4,Poisonous ,Pick,Mossy FunnelMoss
+676,38,F,20,2,4,4,3,4,4,1,2,x,,,,,,,x,x,,x,x,x,x,FunnelChanterelle,Chanterelle,5,Pick,,Instinct
+677,50,F,30,4,4,5,5,2,4,1,4,x,,,,,,,x,x,,x,x,x,x,FunnelChanterelle HornOfPlenty Chanterelle,Chanterelle,4,Pick,White,
+678,74,F,43,2,5,5,4,4,5,5,5,,,,x,x,,,x,x,,x,x,x,,FunnelChanterelle HornOfPlenty,Chanterelle ,4,Pick,White,Old FunnelSpruce Morel
+679,29,F,4,4,4,5,3,4,4,5,5,x,,,,,,x,x,x,,,,x,x,Porcini FunnelChanterelle Lactarius Chanterelle,WoollyMilkcap,4,Pick Lost,Lookalike,
+680,66,F,46,2,4,4,3,4,5,2,2,x,,,x,,,,x,x,,x,x,x,,Porcini LactariusTrivialis Chanterelle FunnelChanterelle AlbatrellusOvinus HygrophorusCamarophyllus Russula Hydnum,Porcini  Chanterelle  Hydnum,4,,,
+681,65,F,56,14,5,4,3,5,2,1,4,x,,,x,,x,,x,x,,x,x,x,,FunnelChanterelle,Chanterelle,5,Sources,Milk Ring,Mossy
+682,30,F,8,2,2,4,2,4,4,5,4,x,x,,,,,,x,x,,x,,,,Bolete Lactarius Cantharellus,Chanterelle,1,Pick ,Milk Smell,Familiar
+683,46,F,3,4,4,2,4,1,2,1,4,x,,,x,x,,,,x,,x,,x,,Bolete Chanterelle,Agaricus  SheathedWoodtuft,5,Tell Equipment Pick Clean,Poisonous BoleteSafe Pick,Path
+684,35,F,10,3,3,4,4,2,2,2,1,,,,,,,x,x,x,,,x,,,Lactarius Russula Chanterelle FunnelChanterelle HornOfPlenty,Bolete,4,Pick Unidentified White,BoleteSafe Milk,
+685,64,F,37,4,5,4,4,4,3,4,4,,,,,,,x,x,x,,x,x,x,,FunnelChanterelle HornOfPlenty,Chanterelle,3,Clean Familiar Equipment,Smell,Familiar
+686,57,F,20,4,4,3,2,4,5,2,3,x,,,,,x,,x,x,,,,,,FunnelChanterelle,Leccinum,2,Pick,,
+687,51,M,30,5,4,2,3,2,4,2,5,x,,,x,,,,x,x,,x,,x,,FunnelChanterelle AlbatrellusOvinus Russula GypsyMushroom,,2,,Sponge BoleteSafe Milk,
+688,71,F,50,4,5,5,4,3,5,1,1,x,,,x,,,,,x,,x,x,x,,FunnelChanterelle,,4,Pick,Pick,Morel Familiar
+689,36,F,5,5,2,2,4,4,5,1,1,,x,,x,x,,,x,x,,x,,,,SurpriseWebcap BloodRedWebcap AlbatrellusOvinus,,3,Pick Equipment Separate Clean,Pick,
+690,41,M,28,4,5,5,4,5,4,4,4,x,,,,,,,,x,,,x,,,Chanterelle FunnelChanterelle Bolete Hydnum,Bolete  Lactarius Russula,4,Pick Lost,Pick,
+691,39,F,10,4,2,4,1,4,5,4,3,,x,,,,,,x,x,,x,x,,,Chanterelle FunnelChanterelle,,4,Pick Unidentified ,Poisonous,Rufous FunnelSlope FunnelMoss
+692,62,F,35,4,5,5,4,5,4,2,4,x,,x,x,x,,,x,x,,x,x,,,FunnelChanterelle Chanterelle SweetTooth AlbatrellusOvinus Porcini GypsyMushroom,GrassGreenRussula  YellowSwampRussula  Chanterelle  UglyMilkcap  OrangeBirchBolete,5,Pick Poisonous Terrain Sources,Milk White,Old Spruces FunnelSlope Chanterelle Morel
+693,75,F,70,5,4,5,4,5,5,4,4,x,,,x,,,x,x,x,,x,,x,,AlbatrellusOvinus Lactarius SweetTooth Russula,Chanterelle  Russula ,4,Unidentified ,Smell Milk,
+694,69,F,40,4,5,5,4,4,5,1,1,x,x,x,,,,,x,x,,x,x,x,x,FunnelChanterelle CurryMilkcap Bolete LactariusTrivialis,Chanterelle  WoollyMilkcap,5,Pick,,Familiar
+695,45,F,15,4,4,4,2,5,4,1,4,x,x,,x,,,x,,x,,x,x,,x,HygrophorusCamarophyllus FunnelChanterelle Chanterelle Bolete Porcini FalseSaffronMilkcap,Bolete,5,Pick Alone Lost,Pick,Kosteus Cluster
+696,65,M,40,8,4,4,4,4,2,2,3,,,,x,x,,,x,x,,x,x,x,x,Lactarius Russula Bolete FunnelChanterelle HornOfPlenty Chanterelle CurryMilkcap HygrophorusCamarophyllus Charbonnier,Bolete  Russula  Chanterelle  ParasolMushroom,5,Sources ,Poisonous Smell Sources,
+697,77,M,40,5,4,5,4,2,4,4,2,,,,x,,,,,x,x,,,,x,FunnelChanterelle Bolete Russula AlbatrellusOvinus,Bolete  Russula  Chanterelle,2,,None,
+698,40,F,20,4,3,2,4,3,4,2,3,x,,,x,x,,,x,,,,x,x,,Chanterelle Bolete FunnelChanterelle,Bolete  Agaricus ,4,Pick BoleteSafe,BoleteSafe,Familiar
+699,58,F,6,2,4,4,3,4,4,3,4,,x,,,,,,x,x,,x,x,x,,VelvetBolete LactariusRufus,Chanterelle Russula,5,Pick Sources,Milk White,Chanterelle
+700,62,F,20,4,4,5,5,5,4,2,4,x,,,,,,,x,x,,,,x,,FunnelChanterelle,Chanterelle ,4,Pick,,
+701,58,F,30,3,5,5,4,5,5,1,5,x,,,,,,,x,x,,,x,,,Porcini Chanterelle,Bolete,5,White Pick,,
+702,73,F,62,15,5,5,4,4,4,2,5,x,,,x,,,,x,x,,x,x,x,x,Porcini FunnelChanterelle HornOfPlenty Hygrophoraceae GypsyMushroom LactariusTrivialis LactariusRufus Russula Tricholoma Hydnum AlbatrellusOvinus,Chanterelle  WoollyMilkcap  Leccinum,4,Sources Clean,Sources,Morel Pine FunnelSpruce
+704,49,F,15,2,4,5,5,4,3,4,4,,,,x,x,,x,x,,,x,x,x,x,FunnelChanterelle Chanterelle Porcini,Chanterelle  Russula   HornOfPlenty,5,Pick,Milk,Kosteus
+705,47,F,30,5,5,5,5,4,4,1,2,x,,,x,x,,,x,,,x,x,x,,FunnelChanterelle Hydnum AlbatrellusOvinus Bolete GypsyMushroom SlimySpikeCap Russula Lactarius,Chanterelle Bolete HornOfPlenty ParasolMushroom,4,,Milk BoleteSafe Lookalike,Chanterelle
+706,50,F,35,5,4,4,4,4,2,1,3,,,x,x,,,,x,x,,x,,,,FunnelChanterelle RussulaPaludosa GypsyMushroom,WoollyMilkcap  Chanterelle  Russula  Leccinum ,2,Pick,,Chanterelle
+707,65,F,60,5,4,4,4,4,3,4,2,x,,,x,x,,x,x,x,,x,x,x,,AlbatrellusOvinus FlatBulb Porcini Lactarius Russula,Chanterelle  GrassGreenRussula,5,Eat Unidentified ,,
+708,48,F,30,9,5,4,5,4,3,1,3,x,,,x,,x,,x,x,x,x,x,,x, Porcini YellowSwampRussula RussulaVinosa LactariusTrivialis FalseSaffronMilkcap UglyMilkcap FunnelChanterelle,,4,Eat Knife Equipment ,None,
+709,63,M,40,8,5,5,5,3,4,2,3,x,,,x,,,,x,x,,x,x,x,x,Chanterelle HornOfPlenty FunnelChanterelle HygrophorusCamarophyllus Russula AlbatrellusOvinus Porcini,Bolete  Russula  Lactarius  Chanterelle  GyromitraEsculenta,4,Separate ,Webcap White,Cluster
+710,73,F,35,5,4,4,3,2,4,4,5,,,,x,,,,x,x,,x,x,x,,Porcini Russula FunnelChanterelle Hydnum AlbatrellusOvinus,Chanterelle Russula,5,Pick,White,Pine FunnelSpruce Chanterelle
+711,58,F,12,6,3,4,4,4,4,2,3,x,,,x,x,,,x,x,,x,x,x,x,FunnelChanterelle,Bolete,5,Pick,Pick,Familiar
+712,37,F,10,7,4,4,2,4,2,2,5,,x,x,x,x,x,,x,x,,x,x,,,SlipperyJack Porcini VelvetBolete Lactarius AlbatrellusOvinus Hydnum FunnelChanterelle HornOfPlenty,Chanterelle,3,Pick Poisonous ,White Milk Bulb Ring,Familiar
+713,61,F,55,5,4,2,2,1,4,1,1,x,,,x,,,,x,x,,x,x,,,Russula Bolete,Russula,1,,Milk Sponge,
+714,25,F,1,5,2,3,2,2,3,3,3,,,,x,x,x,,x,x,,,x,x,,Russula Bolete,Russula  OrangeBirchBolete,4,Whole ,Pick,
+715,41,F,10,4,4,4,4,4,4,1,1,,,x,x,,x,,,x,,x,x,x,,Lactarius Russula Chanterelle AlbatrellusOvinus,Chanterelle  Russula,5,Clean,White,
+716,48,F,30,9,5,5,3,4,5,5,1,x,,,,,,,x,x,,x,x,x,,Lactarius Bolete,Chanterelle,5,Pick,White,
+717,68,F,39,6,4,4,3,4,5,2,2,x,,,x,,,,x,x,,x,x,x,,Bolete FunnelChanterelle GypsyMushroom HygrophorusCamarophyllus,Chanterelle  Russula  Lactarius,3,Eat One,,
+718,52,M,40,2,4,4,4,4,3,4,3,x,,,,,,,x,x,,x,x,,,FunnelChanterelle Bolete Lactarius,Chanterelle,3,Equipment,Pick,
+719,70,F,45,5,4,5,4,5,4,1,5,x,,,,,,,x,x,,x,x,x,,,,5,Eat Sources,BoleteSafe,Path FunnelMoss
+720,35,F,3,2,2,4,2,4,4,4,3,,,,,,,x,,,,x,,,,FunnelChanterelle,FunnelChanterelle,4,Pick,,
+721,50,F,18,2,4,5,4,5,4,4,5,,,,x,,,,,x,,x,x,,,FunnelChanterelle Porcini,Chanterelle  ParasolMushroom ,2,Eat,,
+722,53,F,4,3,3,4,4,4,2,1,4,,,,x,x,x,,x,x,,,,,x,FunnelChanterelle AlbatrellusOvinus HornOfPlenty CurryMilkcap Hydnum,Chanterelle  OrangeBirchBolete,5,Pick Poisonous White Clean,White Pick,Spruces Mossy Path
+723,44,F,26,3,4,4,4,5,4,4,2,x,,,,,,,x,x,,x,x,,x,FunnelChanterelle,Chanterelle,3,Pick Equipment,Pick,
+724,58,M,50,4,5,4,4,5,2,1,5,x,x,,,,,,x,x,,x,x,,,Hydnum AlbatrellusOvinus HornOfPlenty FunnelChanterelle,Chanterelle  Bolete,3,Pick,,
+725,49,M,10,2,2,5,4,4,4,3,4,x,,,,,,,x,x,,x,x,x,,,,3,,,
+726,46,F,12,7,5,5,5,4,4,1,1,,x,,x,,,,x,,,x,x,,,FunnelChanterelle Lactarius HornOfPlenty GypsyMushroom,Chanterelle  Hydnum  OrangeBirchBolete,4,Pick,,
+727,44,F,40,3,2,4,4,5,4,2,5,x,,,,,,,x,,,,,,,FunnelChanterelle HornOfPlenty Chanterelle,Chanterelle,4,Pick Clean,Pick,
+728,65,F,55,12,5,4,5,4,1,1,5,x,,,x,,x,x,x,x,,,x,x,x,Porcini LactariusRufus GyromitraEsculenta Russula GypsyMushroom SurpriseWebcap RussulaPaludosa AlbatrellusOvinus,Leccinum  Chanterelle  YellowSwampRussula  WoollyMilkcap,5,Equipment Separate,Pick Smell Ring Bulb Terrain Lookalike,Path
+730,52,F,15,3,5,4,4,4,4,2,4,x,x,,x,,,,x,x,,x,x,,,Lactarius FunnelChanterelle Hygrophoraceae Hydnum AlbatrellusOvinus,Chanterelle,4,Pick Knife Equipment,Milk BoleteSafe,
+731,64,F,35,5,4,4,3,1,4,1,1,,,,x,,,,x,x,,x,,x,,AlbatrellusOvinus FunnelChanterelle Bolete,,1,Pick,Milk White Bulb Ring Sponge,FunnelSpruce FunnelMoss 
+732,58,M,16,5,3,5,4,2,3,4,3,,,,x,,,,x,x,,x,x,x,,FunnelChanterelle HornOfPlenty,Chanterelle Bolete ,4,White,Red Spot,FunnelSpruce
+733,60,F,56,4,5,5,4,5,4,5,3,x,x,x,,,,,x,x,,,,,,FunnelChanterelle AlbatrellusOvinus Russula Lactarius,Bolete,5,,Smell,Chanterelle
+734,66,M,15,3,4,5,5,2,4,2,4,x,,,x,,,,,x,,,,,,FunnelChanterelle Hydnum HornOfPlenty Ramaria,,5,Milk,,Cluster
+735,62,F,40,10,4,5,4,5,4,1,1,x,,,x,,,,,x,,x,x,,x,FunnelChanterelle AlbatrellusOvinus,Chanterelle  Bolete,5,,,Familiar
+736,42,F,24,4,4,4,4,5,2,2,4,,x,,x,,,,x,x,,x,x,x,,Porcini Chanterelle FunnelChanterelle,Chanterelle  Lactarius,2,Knife,Pick,Familiar
+737,47,M,6,3,4,5,4,5,4,2,5,,,,x,x,,,x,x,,,,x,,Porcini LactariusRufus,Chanterelle  WoollyMilkcap,4,Lost Sound Equipment,White Pick,
+738,62,F,30,4,5,4,4,4,2,3,2,,,,,,x,,x,x,,x,x,,,Bolete HornOfPlenty Leccinum AlbatrellusOvinus Chanterelle,Chanterelle  Bolete,4,Pick,,
+739,61,M,53,5,4,5,4,4,4,3,3,,x,,,,,,x,x,,x,x,,,Russula GypsyMushroom FunnelChanterelle SweetTooth,Chanterelle Bolete Lactarius,4,Separate Clean ,Sponge Webcap,
+741,58,F,30,2,2,4,2,2,4,5,3,,,,x,x,,,x,x,,x,x,x,,Russula,Lactarius,5,Pick Clean,Milk,Morel
+742,31,F,6,5,5,5,4,5,5,1,3,,,,x,x,,,x,x,,,,,,Lactarius FunnelChanterelle Bolete Cantharellus HygrophorusCamarophyllus Hydnum Russula SlimySpikeCap Armillaria,Chanterelle  SheathedWoodtuft  ParasolMushroom,5,Milk Terrain,Bulb Webcap Milk,Mossy
+743,51,F,5,7,4,4,4,5,5,1,3,,,,x,x,,x,x,x,,x,x,x,x,LactariusRufus GypsyMushroom Bolete Hydnum Agaricus,Chanterelle  Bolete  BirchWebcap,4,Pick Poisonous ,Milk,Familiar
+744,58,F,35,6,4,5,5,4,5,1,1,x,x,,x,,,,x,x,,x,x,x,x,FunnelChanterelle Bolete Chanterelle HornOfPlenty,WoollyMilkcap  Chanterelle,5,Pick,Pick,
+745,53,F,30,10,5,5,5,5,4,1,1,x,,x,x,,,x,x,x,x,x,x,x,x,FunnelChanterelle AlbatrellusOvinus Bolete Lactarius,Chanterelle Hydnum Lactarius,5,Whole Unidentified ,Milk Smell,Instinct
+746,46,F,24,3,4,5,4,5,5,4,4,x,,,,,,,x,x,,x,x,,x,Bolete Lactarius,Chanterelle,5,Pick,Pick,Familiar
+747,37,M,35,10,5,5,4,5,5,2,4,x,,,x,,,,x,x,,,x,,,FunnelChanterelle AlbatrellusOvinus Porcini SweetTooth,WoollyMilkcap  Chanterelle  OrangeBirchBolete,3,Separate,Bulb Ring,Path Sloped
+748,61,M,30,10,4,4,4,5,4,2,4,,,,x,x,,x,x,x,x,x,x,x,x,Russula GypsyMushroom FunnelChanterelle Lactarius Bolete AlbatrellusOvinus Hygrophoraceae HypholomaCapnoides,Chanterelle  Bolete  Russula  SheathedWoodtuft  ScotchBonnet  Agaricus  ManOnHorseback,4,Pick White Milk ,Pick Poisonous Webcap White Red,Path FunnelMoss FunnelSpruce FunnelSlope Chanterelle
+749,48,F,30,4,4,4,4,5,4,2,5,x,,,x,,,,,x,,x,x,,,FunnelChanterelle Lactarius,WoollyMilkcap,5,Pick,Milk,
+750,70,M,47,6,5,4,4,2,4,1,2,,,,x,,,,,x,,x,x,,,LactariusTrivialis FunnelChanterelle Porcini SlimySpikeCap HornOfPlenty HygrophorusCamarophyllus Russula,Chanterelle  Russula  RoughStemmedBolete  Leccinum  SheathedWoodtuft,4,Milk,Smell,
+751,65,M,40,10,5,4,4,1,4,2,4,,,x,x,,x,,x,x,,x,x,x,x,Porcini FunnelChanterelle, Bolete  Chanterelle,4,Sources Equipment,,
+752,68,F,60,100,5,5,4,5,5,1,5,x,,,,,,,x,,,,,,,Bolete Russula Lactarius,Chanterelle  Russula  Bolete,3,Pick One,Sources,
+753,61,F,40,4,5,4,4,5,4,4,2,x,x,x,x,,x,x,x,x,,x,x,x,x,Chanterelle FunnelChanterelle Porcini HornOfPlenty,Chanterelle  Russula  Bolete ,2,,,
+754,46,F,15,6,2,5,4,4,4,2,4,x,,,x,,,x,x,x,,x,x,x,,FunnelChanterelle Bolete Russula Lactarius Hydnum AlbatrellusOvinus HornOfPlenty,Chanterelle Russula,4,Familiar Lost Sound,,Chanterelle
+755,53,F,50,7,4,4,4,4,4,2,4,x,x,x,,,x,,x,x,,x,x,,x,FunnelChanterelle Russula,Bolete  Lactarius,5,Pick,,
+756,57,F,20,8,3,4,1,3,5,2,3,,,x,,,,,x,x,,x,x,x,x,LactariusRufus FunnelChanterelle,Chanterelle   Russula,5,Pick,Milk,
+757,50,F,30,7,4,4,4,1,3,2,3,x,,,x,,,x,x,x,,x,x,x,x,FunnelChanterelle Lactarius Russula Bolete GypsyMushroom,Bolete  Chanterelle  Lactarius,4,Pick,Milk Lookalike Red Spot Ring,FunnelMoss
+758,57,F,50,6,5,5,4,4,4,1,5,x,,,x,,,,x,x,,,x,,,Bolete Russula FunnelChanterelle SweetTooth AlbatrellusOvinus GypsyMushroom Lactarius,Chanterelle  Russula,5,,Pick,FunnelMoss Chanterelle
+759,65,F,50,5,4,4,4,2,2,2,1,x,,,x,,,x,x,x,,x,x,,,Russula Chanterelle Lactarius GypsyMushroom TerracottaHedgehog AlbatrellusOvinus FunnelChanterelle,Chanterelle,5,Pick,,
+760,68,F,64,4,4,4,4,4,5,1,5,x,,,,,,,x,x,,x,x,x,,FunnelChanterelle HornOfPlenty AlbatrellusOvinus,Chanterelle  Bolete  GypsyMushroom,5,,,Sloped
+761,58,F,30,4,4,5,3,5,4,4,4,x,x,,x,,,,,x,,x,,,,FunnelChanterelle Chanterelle AlbatrellusOvinus HornOfPlenty,Bolete  Lactarius  YellowSwampRussula,4,Pick Sources,Pick,
+762,34,M,2,4,3,5,4,4,5,4,2,x,x,x,,x,,,x,x,,x,x,,x,FunnelChanterelle Porcini Chanterelle,,4,Milk,Milk,FunnelSpruce
+763,31,F,4,2,2,4,2,5,4,4,4,x,,,,,,,x,x,,,x,,,FunnelChanterelle,-,4,Pick Equipment,,
+764,42,F,5,5,4,5,4,1,5,1,1,x,,,,,,,x,x,x,x,x,,,Porcini HornOfPlenty Russula LactariusRufus,Chanterelle,5,Pick,Milk,
+765,45,F,15,4,5,4,4,4,5,2,3,,,,,,,,,x,,x,x,,,FunnelChanterelle HornOfPlenty Bolete AlbatrellusOvinus,Bolete  Chanterelle  Chaga,5,Pick Tell Equipment,Milk Bulb Stockings,Old Pine Morel Chanterelle
+766,52,F,30,10,4,5,4,5,4,2,1,,,x,x,,,,x,x,,x,,,,Bolete Russula Lactarius Chanterelle FunnelChanterelle,Bolete  Russula,4,Pick Poisonous,Milk,
+767,33,F,4,4,3,4,4,5,5,1,5,,,x,x,x,,x,x,x,,x,x,x,,FunnelChanterelle Lactarius HornOfPlenty Bolete,Chanterelle,5,Pick White Milk,,Familiar
+768,46,F,25,6,3,2,4,5,1,1,1,x,x,,,,,,x,x,,x,x,x,x,FunnelChanterelle LactariusRufus AlbatrellusOvinus HornOfPlenty,Chanterelle  Lactarius GyromitraEsculenta ,4,One Tell Equipment,Sources,
+769,37,F,17,4,4,4,4,3,2,2,4,,,,x,x,x,x,x,x,,x,x,x,x,FunnelChanterelle Chanterelle Bolete Russula,Chanterelle  Bolete,4,Pick,,
+770,60,F,43,10,5,5,5,5,2,1,4,x,,,x,,,,x,x,,,x,x,x,LactariusTrivialis Porcini BloodRedWebcap AlbatrellusOvinus Chanterelle RussulaPaludosa,GrassGreenRussula   BareToothedRussula ,4,Milk One ,Webcap Eat,FunnelSpruce Chanterelle
+771,54,F,22,1,2,5,3,2,5,1,1,,,x,x,,,,,,,x,,,,Chanterelle FunnelChanterelle HornOfPlenty Bolete,Amanita,4,Pick,,Familiar
+772,55,F,45,5,4,4,3,4,4,2,2,x,,,,,,,x,x,,x,x,x,,FunnelChanterelle HornOfPlenty,,2,,,
+773,50,F,25,3,5,4,4,5,2,2,1,x,,,x,,,x,x,x,,x,x,x,,Bolete HornOfPlenty Chanterelle FunnelChanterelle,Chanterelle  Agaricus ,3,Pick White Lost Equipment ,Sources,
+774,39,F,30,3,4,4,4,4,4,2,4,x,,x,x,x,,,x,x,,x,,,,FunnelChanterelle Russula,Chanterelle  WoollyMilkcap,4,,,
+775,55,F,45,4,5,4,4,4,4,2,2,x,,,x,x,x,,x,x,,x,,,,Bolete Lactarius HornOfPlenty FunnelChanterelle,Chanterelle  Russula,4,Eat Poisonous,White,Chanterelle Morel
+776,52,F,45,5,4,4,4,4,3,2,3,x,,,x,,,x,x,x,,,x,,x,Bolete Lactarius Russula,Bolete WoollyMilkcap,4,Pick Separate,Milk,Morel
+777,65,F,56,4,5,5,4,4,3,4,4,x,x,,x,,,,x,x,,x,x,x,,Porcini FunnelChanterelle Chanterelle,WoollyMilkcap,4,Pick,,Pine Chanterelle
+778,59,F,10,3,3,4,2,3,5,3,1,x,,,x,x,,,,x,,,x,x,,,Chanterelle,1,White Clean,,
+779,53,F,20,2,5,5,5,5,5,5,2,x,,x,,,,x,x,x,,x,x,,x,Porcini Lactarius Chanterelle FunnelChanterelle,Chanterelle Bolete,5,Pick,Pick,Rufous Chanterelle
+780,53,F,35,4,4,4,4,3,3,2,1,x,,,,,,,x,x,,x,x,,,Lactarius Russula HornOfPlenty Chanterelle,Chanterelle   Lactarius  Coprinus,4,,Sources,
+781,53,F,49,5,4,4,4,4,4,1,5,x,,,x,x,,,x,x,,x,x,x,x,FunnelChanterelle Russula Lactarius,Bolete  Russula  BirchWebcap  Agaricus,5,Milk,White,
+782,34,F,5,2,2,2,2,4,4,2,2,,,x,x,x,,,x,,,x,x,,x,FunnelChanterelle Chanterelle,Chanterelle  Bolete,4,White ,White,Path
+783,39,M,25,5,4,5,4,5,2,4,3,x,,,,,,,x,x,,x,x,,,FunnelChanterelle HornOfPlenty Porcini  AlbatrellusOvinus,GrassGreenRussula  YellowSwampRussula  ParasolMushroom  Leccinum,1,Clean,None,Instinct
+784,62,F,45,4,4,4,4,4,5,4,4,x,,x,,,,,x,,,x,x,x,x,FunnelChanterelle AlbatrellusOvinus SlimySpikeCap GypsyMushroom,Chanterelle ,4,Pick,,
+785,63,M,50,10,5,5,5,4,2,2,1,x,,,x,x,x,,x,x,,x,x,x,,Chanterelle Porcini Leccinum HygrophorusCamarophyllus FunnelChanterelle HornOfPlenty,Chanterelle Leccinum SheathedWoodtuft,5,Pick,White,
+786,47,F,45,4,4,4,4,1,3,1,3,,x,,x,x,,,x,x,,,x,,,FunnelChanterelle Bolete Lactarius Russula AlbatrellusOvinus Chanterelle,WoollyMilkcap Russula Webcap Amanita,4,Unidentified Milk,,Instinct FunnelSlope FunnelSpruce
+787,58,F,50,3,3,4,4,2,4,2,1,x,,,x,x,x,,x,x,,x,x,,,Bolete GypsyMushroom Russula LactariusRufus Matsutake GyromitraEsculenta,Leccinum  YellowSwampRussula  WoollyMilkcap ,5,Pick Sources Unidentified,Pick Terrain,
+788,56,F,20,4,4,4,4,2,5,2,5,,,,x,,,x,,x,,x,,,x,FunnelChanterelle Russula,OrangeBirchBolete  Chanterelle ,4,Separate Alone,Pick,Familiar
+789,51,F,50,4,5,4,4,4,4,4,4,x,,,x,,,x,x,x,,x,x,x,x,AlbatrellusOvinus SheepPolypore FunnelChanterelle CurryMilkcap LactariusLignyotus HornOfPlenty,Chanterelle,2,Eat Poisonous,,Pine FunnelSlope FunnelSpruce Morel
+790,66,F,66,5,4,4,4,2,5,2,3,x,,,x,x,,,x,x,,x,x,x,,AlbatrellusOvinus FunnelChanterelle Bolete,Chanterelle  LactariusRufus,4,Pick,Pick,Familiar
+791,42,F,7,4,2,4,2,4,4,1,3,x,x,,,,,x,x,,,x,x,,x,FunnelChanterelle  Chanterelle,,5,Pick,,
+792,34,M,4,2,1,4,4,5,2,2,2,,,,x,x,,,x,x,,x,x,x,x,FunnelChanterelle,Chanterelle,3,,,
+793,62,F,25,4,4,4,2,1,4,2,1,,,,,,,x,x,x,,x,x,,x,FunnelChanterelle Bolete GypsyMushroom Lactarius,Chanterelle  Russula  GypsyMushroom,5,White ,,Mossy Spruces Sloped
+794,29,F,3,6,1,2,3,5,4,1,3,,,,x,x,,,x,x,,,x,x,,Russula, Bolete  Lactarius,3,Pick,Poisonous,
+795,50,F,30,5,4,4,4,4,4,2,4,x,x,,x,,,,x,x,,x,x,,x,Russula FunnelChanterelle Bolete,,4,,,
+796,56,F,30,3,2,4,4,4,2,1,2,x,,x,,,,,x,x,,,x,,,Lactarius Bolete Russula,,4,Pick,,
+797,44,F,15,3,4,5,4,5,4,2,1,,x,,,,,x,x,x,,x,x,x,,FunnelChanterelle HornOfPlenty Lactarius Russula Bolete Chanterelle AlbatrellusOvinus,Chanterelle  FalseSaffronMilkcap  Agaricus ,4,Milk Poisonous Clean,White Milk,Familiar
+798,45,F,35,3,5,5,5,5,4,3,4,x,,x,,,,,x,x,,x,x,,,Bolete Chanterelle HygrophorusCamarophyllus FunnelChanterelle Hydnum Lactarius HornOfPlenty GypsyMushroom,Chanterelle  Russula ,5,Pick,Ring Milk Sources,Chanterelle Path
+799,44,F,34,6,5,4,4,2,4,2,5,x,,,x,,,,x,x,,x,x,x,x,Cantharellus AlbatrellusOvinus Hydnum HygrophorusCamarophyllus,Bolete  Agaricus ,4,Pick Separate,,
+800,34,F,5,5,2,4,3,4,4,2,4,,,,x,x,,,x,x,,x,x,x,,Lactarius Porcini SweetTooth HygrophorusCamarophyllus, Bolete  LactariusFlexuosus  Chanterelle,5,Pick Milk Poisonous,,
+801,30,F,20,15,4,4,4,4,2,1,3,x,,,x,x,,,x,x,,,x,,x,GypsyMushroom Lactarius Russula FunnelChanterelle Hydnum,Chanterelle  Morel  Bolete  Agaricus  Elaphomyces  PestlePuffball,5,Pick Separate,Sponge,Kosteus
+802,55,M,4,2,4,2,4,4,2,2,5,,,,,,,x,x,x,,x,x,x,,FunnelChanterelle,Chanterelle  Bolete,4,Pick,,FunnelSlope
+803,34,F,5,4,2,4,3,3,3,2,1,x,,,x,,,x,x,x,,,x,,,Lactarius FunnelChanterelle,Bolete,4,Pick Separate,Milk,
+804,65,F,50,4,4,4,3,4,3,4,3,x,x,,x,,x,,x,x,,x,x,,,FunnelChanterelle GypsyMushroom WoollyMilkcap LactariusTrivialis Russula Chanterelle HygrophorusCamarophyllus Bolete Hydnum, UglyMilkcap ,4,Lost Clean,,Pine Old
+805,56,M,6,15,4,5,5,5,2,2,2,,,,,,,x,,x,,x,,x,x,FunnelChanterelle Porcini,Chanterelle ,4,Pick Poisonous,Sources,Spruces
+806,67,F,30,4,3,4,3,4,4,2,2,x,,,x,,,x,x,x,,x,x,x,,Russula Chanterelle FunnelChanterelle,WoollyMilkcap   Chanterelle   Russula   AlbatrellusOvinus,5,Pick,Pick,Chanterelle Pine
+807,45,F,40,6,4,3,4,1,2,1,3,x,x,x,,,,,x,x,,x,,,,Bolete Lactarius AlbatrellusOvinus FunnelChanterelle,Bolete,4,Pick,BoleteSafe,
+808,52,F,43,5,4,4,4,2,3,2,1,,x,x,x,x,x,x,x,x,,x,x,x,x,Bolete Russula Lactarius AlbatrellusOvinus,Lactarius  Bolete   Chanterelle,3,Unidentified Sources Terrain ,Pick,
+809,38,F,4,3,2,5,2,2,4,2,4,,,,,x,,,x,,,x,x,x,x,FunnelChanterelle Lactarius,,4,Pick,Milk,
+810,73,F,54,3,5,5,4,4,2,4,3,x,,,x,,,,x,,x,,,,x,Porcini FunnelChanterelle,Leccinum  Porcini  Chanterelle,4,Pick,Pick,Chanterelle FunnelSpruce FunnelSlope
+811,58,F,40,4,5,5,4,5,4,1,3,x,,,x,x,,,x,x,,,x,x,,,,3,,,
+812,47,F,5,5,2,4,4,1,4,1,1,x,,,,,,,,x,,x,,,,Lactarius FunnelChanterelle,Chanterelle ,5,Milk,Pick,
+813,66,F,30,5,5,5,4,5,4,2,1,,,x,x,,,,,x,,,x,,,Lactarius FunnelChanterelle Bolete Chanterelle Russula,Cantharellus  Bolete   Lactarius  Chanterelle,4,Pick Separate,Milk,Old
+814,40,F,5,5,3,4,2,4,1,2,4,,,x,x,x,,,x,x,,x,x,x,,AlbatrellusOvinus FunnelChanterelle,Lactarius  Chanterelle,4,Pick Sources ,Sources Pick,
+815,39,F,37,5,4,4,5,4,4,1,4,x,,,,,,,x,x,,x,x,,x,FunnelChanterelle Porcini,Chanterelle  Lactarius,4,Sources Eat,Milk,
+816,55,F,10,3,4,5,4,4,4,1,3,,,,x,,x,x,,x,,x,x,,,FunnelChanterelle,Bolete,4,Pick Clean,Pick,
+817,61,F,55,3,3,2,3,3,3,1,3,x,,,x,,,x,x,x,,x,x,x,,Chanterelle Bolete FunnelChanterelle Bolete AlbatrellusOvinus Russula,Russula,3,Pick Unidentified,,Kosteus
+818,57,F,50,4,4,4,5,4,4,3,3,x,x,,x,,,,,x,,x,x,,,Chanterelle FunnelChanterelle Bolete,Chanterelle  Polyporaceae Lactarius,4,Milk,,
+819,43,F,28,4,4,5,4,4,1,4,2,,,x,x,,,,,x,,x,x,,,PineBolete HornOfPlenty Hygrophoraceae ,Chanterelle Russula Lactarius ,5,Eat,,
+820,66,M,42,8,5,4,5,5,4,1,5,,,,,,,x,x,x,,x,x,x,,AlbatrellusOvinus LactariusTrivialis SweetTooth UglyMilkcap FalseSaffronMilkcap,Chanterelle WoollyMilkcap HornOfPlenty Russula,5,Pick Milk Clean One,Milk Sources,
+821,73,F,63,9,2,4,4,4,5,4,2,x,,x,,,,,,x,,x,x,,x,FunnelChanterelle Lactarius Russula,Bolete Chanterelle,4,Milk,Milk,Familiar
+822,56,F,36,4,4,4,4,2,2,1,1,x,,,x,,,,x,x,,x,x,x,,Bolete SweetTooth AlbatrellusOvinus GypsyMushroom CurryMilkcap LactariusTrivialis HornOfPlenty FunnelChanterelle Chanterelle,,4,Clean ,,Old Mossy Spruces Pine
+823,41,F,8,1,2,4,1,4,5,5,2,x,x,,,,,,x,x,,x,x,x,x,FunnelChanterelle,Chanterelle,4,Pick,Pick,
+824,67,F,30,3,4,4,4,4,3,2,3,,,,,,,x,x,,,x,,x,,Bolete Russula Lactarius FunnelChanterelle HornOfPlenty,LactariusRufus BrownPuffball ,4,Pick Unidentified Equipment Lost,,
+825,40,Other,35,3,2,2,4,4,4,3,5,x,x,,x,x,,,x,x,,x,x,x,,FunnelChanterelle Russula Lactarius Bolete,Bolete,5,Eat White,White Milk Sponge,
+826,43,F,30,3,5,5,5,5,4,4,4,x,x,x,x,,,,x,x,,x,x,x,x,HornOfPlenty FunnelChanterelle Chanterelle,Chanterelle,5,Pick,Pick,
+827,46,F,1,3,2,4,3,5,5,3,3,x,,,x,x,,,x,x,,x,x,x,,,,4,,,
+828,38,F,25,10,4,5,4,4,4,1,3,x,x,,x,,,,x,,,x,x,,,FunnelChanterelle Chanterelle HornOfPlenty Porcini Leccinum,WoollyMilkcap,5,Equipment Eat,Lookalike Eat ,
+829,54,F,13,5,4,3,2,5,3,1,2,x,,,x,x,,,x,,,x,x,x,x,FunnelChanterelle Polyporaceae HygrophorusCamarophyllus Lactarius GypsyMushroom Bolete,Chanterelle  Bolete,3,Pick Sources,Milk,
+830,46,F,40,5,4,4,4,4,4,1,4,x,,,x,x,x,,x,x,,x,x,x,,Lactarius LactariusTrivialis LactariusRufus NorthernMilkcap FalseSaffronMilkcap SlimySpikeCap Bolete Porcini FunnelChanterelle,Russula    Chanterelle  Leccinum,5,Milk Pick Unidentified ,Milk Smell,Old
+831,61,F,30,10,5,4,4,3,3,3,3,x,,,x,x,x,,,,,,,,,FunnelChanterelle HygrophorusCamarophyllus Russula Lactarius,Hygrophoraceae  Agaricus  Geoglossum,4,Lost Knife ,White Webcap Eat,
+832,51,F,15,3,4,4,4,5,3,5,1,,,,,,,x,x,x,,x,x,x,x,Chanterelle HornOfPlenty FunnelChanterelle,GrassGreenRussula   Russula,3,Pick,,FunnelMoss FunnelSlope FunnelSpruce
+833,40,F,1,3,2,4,2,4,2,2,1,,x,,,,x,,,x,,x,x,,,FunnelChanterelle,,4,Pick,,
+834,53,M,30,4,4,5,4,4,4,5,4,,,,x,,x,,x,x,,x,,x,x,LactariusRufus Lactarius Russula FunnelChanterelle GypsyMushroom,GrassGreenRussula  YellowSwampRussula  Bovista  Lycoperdon  JerseyCowMushroom  SuedeBolete  PoisonPax ,5,Pick,,Familiar
+835,40,F,6,3,4,5,4,5,2,1,4,x,,,,,,x,x,,,x,,,x,Lactarius,,4,Pick Lost,Sponge Milk,Chanterelle
+836,61,F,30,7,4,4,4,4,5,2,2,x,x,,x,x,,x,x,x,,x,x,x,,FunnelChanterelle HypholomaCapnoides Hygrophoraceae Hydnum Bolete AlbatrellusOvinus Armillaria Russula SlimySpikeCap,Russula  Chanterelle  Lactarius  Bolete  SheathedWoodtuft ,5,Eat Sources Separate Equipment,Poisonous Sources,
+837,42,F,35,4,4,4,4,3,4,2,2,,x,,x,x,,,x,x,,x,x,,x,Chanterelle FunnelChanterelle Hydnum,Bolete  Chanterelle  Lactarius,4,Pick,Milk Webcap,Kosteus
+838,63,F,20,3,4,4,4,4,4,4,2,x,,,x,,,x,,x,,x,x,,x,FunnelChanterelle HornOfPlenty Chanterelle,Bolete  Chanterelle,3,Milk,,Kosteus Chanterelle
+839,59,F,10,4,2,4,4,4,5,2,2,x,x,,,,,,x,x,,,,x,,LactariusRufus LactariusTrivialis FunnelChanterelle,WoollyMilkcap  UglyMilkcap,4,Milk Pick,Milk,Chanterelle Familiar
+840,56,F,7,1,2,5,3,4,5,5,4,,,x,,,,,x,x,,x,,,,Porcini,,1,,,
+841,52,F,42,5,4,4,4,4,4,2,1,x,,,x,x,,,x,x,,x,x,x,,Bolete Chanterelle Lactarius Tricholoma FunnelChanterelle HornOfPlenty GyromitraEsculenta,Chanterelle Bolete  LactariusTrivialis WoollyMilkcap FunnelChanterelle Lactarius,5,,,Scent
+842,33,F,5,3,1,4,3,4,4,1,4,x,,x,x,x,,x,x,x,,x,x,,x,Bolete,Bolete  Chanterelle ,5,Pick One Sources ,BoleteSafe Pick,
+843,69,M,10,3,2,4,2,3,4,1,2,,,x,x,,,,,x,,,,x,,Chanterelle,,1,,,
+844,67,F,17,2,4,4,3,1,5,4,4,,,,x,,,,x,,,x,x,,,Chanterelle,,4,,,
+845,42,M,5,2,2,2,2,4,4,4,2,x,x,,x,,x,,,x,,,,x,,FunnelChanterelle Porcini AlbatrellusOvinus,Chanterelle YellowSwampRussula,5,Equipment,,
+846,68,F,50,5,3,4,3,5,5,1,5,x,,,x,,,,x,x,,x,,x,,FunnelChanterelle Lactarius Bolete,Chanterelle Bolete,5,Pick,White Milk,
+847,30,F,10,5,4,4,2,2,2,1,1,,,,,,,,x,,,x,x,,,LactariusRufus FunnelChanterelle Leccinum,,4,Pick,Sponge,Sloped Mossy
+848,44,F,5,5,3,4,4,4,3,1,1,,x,x,x,x,,,x,x,,x,x,x,,Chanterelle Bolete FunnelChanterelle Russula Lactarius,Chanterelle  Russula  Lactarius Bolete,5,Milk ,Milk,
+849,35,F,20,3,4,4,4,4,5,1,2,x,,x,,,,,x,x,,,,,,LactariusTrivialis Russula LactariusRufus Bolete,,5,Pick,,
+850,30,M,2,5,4,5,4,2,2,2,4,,x,x,,x,,,x,x,,x,,,x,FunnelChanterelle Russula, GrassGreenRussula,5,Pick ,Webcap,Sloped FunnelMoss FunnelSpruce
+851,42,F,5,4,2,4,4,4,2,1,2,x,,,x,x,,,x,x,,x,x,,,FunnelChanterelle SlimySpikeCap LactariusTrivialis Chanterelle Webcap,YellowSwampRussula  JerseyCowMushroom,5,Equipment Tell Pick,Smell White Milk,
+852,31,F,1,2,2,4,1,4,5,1,3,,,x,,,,,x,,,x,x,,,FunnelChanterelle,,2,Clean,,
+853,51,F,20,3,3,4,4,5,5,5,3,x,,x,x,,x,,x,x,,x,x,x,,Lactarius,Bolete,4,Pick,Sources,
+854,45,F,11,3,4,5,4,4,5,5,5,,,x,,,,,x,x,,x,x,,x,FunnelChanterelle CraterellusLutescens,Chanterelle,5,Pick,,FunnelMoss Chanterelle
+855,40,F,8,4,3,5,3,5,4,2,4,x,,,,,,,x,x,,,,,,Bolete Lactarius,Bolete  Russula  Lactarius,4,Pick,,Familiar
+856,41,M,5,1,1,5,3,4,4,5,4,,,,,,,,,x,,,,,,FunnelChanterelle,Russula,4,Pick,,
+857,50,F,2,3,4,5,4,5,4,4,4,x,,,,,,,x,x,,x,,,,FunnelChanterelle,Chanterelle,5,Pick,,
+858,42,F,13,2,4,4,3,2,4,5,2,,x,x,x,,,,x,,,x,,x,x,Russula Lactarius Bolete ,Chanterelle  Bolete,5,Pick Milk,Pick Milk,
+859,65,F,45,4,4,4,4,5,4,2,1,x,x,,,,x,,x,x,,x,,x,x,Bolete Russula Lactarius,,1,Pick,Milk Ring Terrain Smell,
+860,49,F,35,3,5,5,4,5,5,1,4,x,,,x,x,,,x,x,,x,x,,,Chanterelle HornOfPlenty Russula Lactarius FunnelChanterelle Bolete,Russula  Chanterelle  Bolete,4,Pick Clean,,
+861,43,F,30,5,5,5,5,5,4,1,3,x,x,,x,,,,x,x,,x,x,x,x,FunnelChanterelle Lactarius AlbatrellusOvinus Hydnum,Chanterelle  Bolete  Agaricus,5,Pick Separate,Milk,
+862,67,F,22,5,3,3,4,4,3,2,2,x,,x,x,x,,,x,,,,,,,Porcini,Chanterelle,3,Clean,,Familiar
+863,33,F,8,3,4,3,4,2,2,1,4,,,,x,x,,x,x,x,,,x,,,Lactarius Bolete Hydnum AlbatrellusOvinus Chanterelle FunnelChanterelle HornOfPlenty Russula GypsyMushroom HygrophorusCamarophyllus,Chanterelle   Bolete    Russula ,5,Clean,Milk BoleteSafe Lookalike Terrain,
+864,41,F,15,5,5,4,4,4,3,3,1,x,,,,,,,x,x,x,x,x,x,,FunnelChanterelle Lactarius Russula Bolete AlbatrellusOvinus,Bolete  Chanterelle  HornOfPlenty  ,5,Lost Pick Separate,,
+865,34,F,8,5,4,4,4,3,4,4,2,x,x,,x,,,,x,x,,x,x,x,x,FunnelChanterelle,Bolete,4,Pick,Pick,
+866,64,F,55,3,4,5,5,4,4,2,5,x,x,,,,,,x,x,,x,x,x,,FunnelChanterelle,Chanterelle,5,Pick Sources,Sources,
+867,42,F,12,3,4,4,5,2,3,4,3,x,,,x,,,,x,x,,x,x,x,,FunnelChanterelle LactariusRufus RussulaDecolorans Porcini,Lactarius Russula Bolete,2,,,
+868,56,F,27,2,4,5,4,4,4,4,5,,,,x,,x,,x,x,,x,x,x,,AlbatrellusOvinus FunnelChanterelle,Chanterelle  WoollyMilkcap,4,Pick White,Milk,
+869,57,F,54,4,5,5,4,5,5,2,4,x,x,,x,,,,x,x,,x,x,x,x,FunnelChanterelle Bolete CurryMilkcap Hydnum AlbatrellusOvinus Hygrophoraceae,WoollyMilkcap,5,Unidentified Pick,White,Morel
+870,58,F,50,3,5,5,5,2,3,2,2,x,,,x,,,,x,x,x,x,x,,x,Porcini AlbatrellusOvinus LactariusTrivialis FunnelChanterelle,Leccinum  GrassGreenRussula  YellowSwampRussula,2,,Milk,
+871,39,F,20,3,4,5,4,2,4,4,2,x,,,x,x,x,,x,x,,x,,,,FunnelChanterelle,,5,Pick Separate,Milk,Rufous
+872,43,M,4,5,4,2,4,4,3,2,4,,,,x,,,,x,x,,x,x,x,x,FunnelChanterelle Bolete AlbatrellusOvinus,Chanterelle  Bolete   Leccinum,3,Pick,,Old
+873,38,M,28,12,5,5,5,2,4,1,3,x,,,x,,x,,x,x,x,x,x,,,LactariusTrivialis FunnelChanterelle Telamonia,,2,Eat ,Milk,
+874,44,F,21,5,4,4,4,4,2,1,2,x,,x,x,x,,x,x,x,,x,x,x,x,Russula Lactarius FunnelChanterelle Porcini HornOfPlenty,Lactarius  Chanterelle  Russula,4,Terrain Separate,Eat,
+875,42,F,20,5,5,5,4,5,4,3,4,x,x,,,,,,x,x,,x,x,x,x,Porcini FunnelChanterelle,Chanterelle,5,Pick Lost Equipment,Pick,
+876,67,F,20,4,5,4,4,3,4,1,3,x,x,,x,,x,,x,x,,x,x,,,Chanterelle FunnelChanterelle Bolete AlbatrellusOvinus Lactarius Hydnum,Bolete  Russula  Chanterelle  ParasolMushroom,4,Pick,Bulb,
+877,55,F,45,4,2,4,4,2,5,4,2,x,,,,,,,x,x,,x,x,x,,Lactarius Russula,,5,,Pick One,Familiar
+878,52,F,16,2,4,4,4,4,4,4,4,,,,,,,,x,,,x,x,x,,FunnelChanterelle Chanterelle Porcini,Chanterelle  WoollyMilkcap    Lactarius,3,Pick,Pick,
+879,59,F,57,10,5,5,4,1,5,1,3,x,x,,x,x,,,x,x,,x,x,x,x,Russula Bolete,Russula  Chanterelle  Bolete,3,Pick,Milk,
+880,57,F,30,2,2,2,2,3,5,3,3,x,,,x,,,,x,x,,,x,,,Leccinum,,5,Pick Poisonous Separate,Pick Sponge,
+881,46,F,20,2,4,4,4,4,5,4,5,x,,,,,,,x,x,,x,x,x,,FunnelChanterelle Bolete,Cantharellus,5,White,Lookalike,FunnelMoss Chanterelle
+882,65,F,30,3,2,4,3,5,5,2,4,x,,,x,,,x,,x,,x,x,x,,FunnelChanterelle Hydnum AlbatrellusOvinus Lactarius,Chanterelle  Bolete  Russula,4,Pick,Milk,
+883,56,F,50,4,4,5,4,4,4,3,4,x,,,x,x,,,x,x,,x,x,,,FunnelChanterelle,Porcini Bolete,4,White Pick,,
+884,25,F,3,3,2,4,4,4,2,2,4,x,x,,x,x,,,x,x,,x,x,x,x,FunnelChanterelle Lactarius Chanterelle,,4,Eat,,
+885,37,F,5,2,2,4,2,4,4,2,4,x,x,,,,,,x,x,,,x,x,,Chanterelle Russula Bolete,Chanterelle,2,Pick Familiar,Pick,Scent
+886,62,F,30,8,4,4,4,1,4,1,1,x,,,x,,,x,x,x,,x,x,x,x,Bolete FunnelChanterelle HygrophorusCamarophyllus,Chanterelle,3,Pick,Milk,
+887,56,M,35,4,5,5,5,2,4,5,2,x,,,,,,,x,x,,x,x,,,Chanterelle FunnelChanterelle Bolete Hydnum,Chanterelle  Hydnum ,5,Knife Equipment,,
+888,55,M,45,2,4,4,4,3,2,2,3,x,,,x,x,x,,x,x,,x,x,,,FunnelChanterelle Lactarius Bolete,WoollyMilkcap ,4,Pick,Milk,FunnelSpruce Chanterelle
+889,38,F,18,5,5,5,5,2,2,1,4,x,,,x,,,,x,x,,x,x,x,x,FunnelChanterelle SweetTooth Agaricus Hygrophoraceae AlbatrellusOvinus,Russula  UglyMilkcap  Chanterelle  Chaga  SheathedWoodtuft,4,Pick Poisonous White,Milk,Old
+890,53,F,33,4,5,5,4,5,4,1,1,x,,x,x,x,,,x,x,,x,x,x,,Cantharellus Russula Lactarius Bolete,Lactarius  Chanterelle  Bolete,5,Pick,,
+891,37,F,19,3,4,5,4,5,5,2,4,,,,,,,x,x,x,,x,x,x,x,FunnelChanterelle Porcini,Chanterelle,3,Pick,Pick,
+892,51,F,5,1,3,4,2,2,2,2,5,x,,x,x,x,,x,,x,,x,x,x,,FunnelChanterelle Chanterelle AlbatrellusOvinus Russula SweetTooth GypsyMushroom,Chanterelle  Russula  Bolete,5,Pick Terrain Sound ,Pick,FunnelSpruce
+893,26,F,4,4,5,5,5,2,2,1,4,x,,,,x,,,x,x,,,,x,,Bolete Lactarius,,4,,,
+894,44,F,40,3,4,4,4,4,4,4,3,x,,,x,x,,,x,x,,x,x,x,,FunnelChanterelle HornOfPlenty FlatBulb,ParasolMushroom  WoollyMilkcap  UglyMilkcap,3,,Milk,
+895,57,F,33,6,1,5,5,2,4,3,2,x,x,,x,x,x,x,x,x,x,x,x,x,x,Russula AlbatrellusOvinus FunnelChanterelle Porcini BayBolete SweetTooth CurryMilkcap LactariusTrivialis GypsyMushroom Webcap,Russula Leccinum ,5,Equipment,,Path Spruces
+896,43,F,10,3,4,5,4,5,2,4,5,x,,x,x,,,,x,x,,,x,,,Russula,Porcini  WoollyMilkcap,5,Milk,,
+897,33,Other,19,4,5,5,5,4,5,2,5,x,,x,x,x,,x,x,x,,x,x,x,x,Porcini Leccinum HornOfPlenty LactariusTrivialis UglyMilkcap CurryMilkcap BloodRedWebcap SurpriseWebcap HygrophorusCamarophyllus AlbatrellusOvinus SweetTooth TerracottaHedgehog RussulaVinosa RussulaPaludosa CrabBrittlegill FunnelChanterelle HypholomaCapnoides,RoughStemmedBolete  Leccinum  YellowSwampRussula  GrassGreenRussula,4,Equipment ,Stockings,Old Mossy FunnelSlope Familiar
+898,39,F,8,3,4,3,3,4,4,2,4,x,,,x,x,,,x,x,,x,x,,,FunnelChanterelle Bolete,Chanterelle,4,Pick,,
+899,41,F,18,5,4,4,4,2,4,2,2,x,,,x,,x,,x,x,,x,x,,,Russula Lactarius LactariusRufus LactariusTrivialis AlbatrellusOvinus HornOfPlenty TerracottaHedgehog FunnelChanterelle Chanterelle BloodRedWebcap VelvetRollRim Webcap,OrangeBirchBolete    Porcini  Agaricus  GrassGreenRussula    FlyAgaric  ,4,Pick Poisonous Separate,Lookalike Milk,Path FunnelMoss
+900,51,F,30,2,3,5,4,5,3,2,4,x,,,x,,,,x,,,,,,,FunnelChanterelle,Bolete,3,Pick,,
+901,41,F,10,3,4,5,4,5,4,1,4,x,x,,x,x,,,x,x,,,,x,,Russula Bolete LactariusRufus,Chanterelle,5,Pick Terrain One,BoleteSafe Milk Bulb,Morel
+902,55,M,2,3,2,4,4,1,4,5,5,,,,,x,,,x,,,x,x,x,,Russula Lactarius FunnelChanterelle Bolete,Russula  Bolete,5,Pick,None,
+903,49,F,40,5,5,5,4,3,2,1,3,x,,,,,,,x,x,,x,x,x,x,FunnelChanterelle Bolete Lactarius,Chanterelle,2,Eat ,,Mossy
+904,60,F,50,3,5,5,5,4,5,3,4,x,,,x,,,x,x,x,,x,x,x,x,Porcini FunnelChanterelle GypsyMushroom SweetTooth HygrophorusCamarophyllus HornOfPlenty,Chanterelle,4,Pick,Milk,Familiar Morel
+905,66,F,25,5,4,4,4,4,4,2,2,,,,x,,x,,x,x,,x,x,x,,Russula FunnelChanterelle Chanterelle Bolete,Chanterelle  Russula Bolete Lactarius,5,Eat,White Webcap,
+906,78,M,40,10,4,4,4,3,3,4,3,,,,x,,x,,x,x,,,x,x,,Bolete FunnelChanterelle,Russula,4,Equipment,Terrain,FunnelMoss FunnelSpruce
