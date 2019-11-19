@@ -31,7 +31,9 @@ dat = read.csv("https://raw.githubusercontent.com/roopekaaronen/mushroom/master/
 
 # Decriptives
 mean(dat$Age) # Mean age
+sd(dat$Age) # SD age
 mean(dat$Experience_years) # Mean experience
+sd(dat$Experience_years) # SD experience
 sum(dat$Experience_years) # Total years of experience
 median(dat$Species) # Mean amount of species foraged on one trip
 str(dat) # 894 observations
@@ -54,7 +56,7 @@ p <- ggplot(dat, aes(x=Age)) +
   geom_density(size = 1, color = "darkgreen", fill="forestgreen", alpha = 0.5) +
   geom_vline(aes(xintercept=mean(Age)),
                color="chocolate4", linetype="dashed", size=1) +
-  xlab("Age (mean = 49.6)") +
+  xlab("Age (mean = 49.6, SD = 12.7)") +
   ylab("Density")
 p
 dev.off() # Print data
@@ -67,7 +69,7 @@ p2 <- ggplot(dat, aes(x=Experience_years)) +
   geom_density(size = 1, color = "darkgreen", fill="forestgreen", alpha = 0.5) +
   geom_vline(aes(xintercept=mean(Experience_years)),
              color="chocolate4", linetype="dashed", size=1) +
-  xlab("Experience (mean = 25)") +
+  xlab("Experience (mean = 25, SD = 17.2)") +
   ylab("Density")
 p2
 dev.off()
