@@ -24,7 +24,9 @@ library(likert)
 library(wordcloud)
 library(tm)
 library(qdap)
-
+library(plyr)
+library(RColorBrewer)
+library(reshape2)
 # Read data
 
 dat = read.csv("https://raw.githubusercontent.com/roopekaaronen/mushroom/master/mushroom.csv", stringsAsFactors = FALSE, header = T)
@@ -335,6 +337,76 @@ corrplot(cor(tabCorr, method = "pearson"), method = "color", type = "upper", num
          addCoef.col = "black")
 dev.off()
 
+
+################################
+##  Experience vs. mushrooms identified
+################################
+
+
+## Count total number of reported mushroom species for the two pictures
+dat$shroomamount <- (str_count(dat$SpeciesPicture1, '\\w+') + str_count(dat$SpeciesPicture2, '\\w+'))
+
+## Linear regression of Experience vs. shroomamount
+plot(density(dat$shroomamount))# density
+
+linearMod <- lm(Experience ~ shroomamount, data=dat) 
+summary(linearMod) # Summary of linear model
+
+# Convert experience into factor for raincloud plot
+dat$Experience <- as.factor(dat$Experience)
+
+## Create raincloud plot (Allen, 2018)
+## CODE FOR RAINDCLOUD PLOTS IS ADAPTED FROM ALLEN, 2018: https://micahallen.org/2018/03/15/introducing-raincloud-plots/
+
+## Set source
+source("https://gist.githubusercontent.com/benmarwick/2a1bb0133ff568cbe28d/raw/fb53bd97121f7f9ce947837ef1a4c65a73bffb3f/geom_flat_violin.R")
+
+## Set theme
+## DEFINE THE THEME
+raincloud_theme = theme(
+  text = element_text(size = 8),
+  axis.title.x = element_text(size = 9),
+  axis.title.y = element_text(size = 9),
+  axis.text = element_text(size = 6),
+  axis.text.x = element_text(angle = 0, vjust = 0.5),
+  legend.title=element_text(size=6),
+  legend.text=element_text(size=6),
+  legend.position = "right",
+  plot.title = element_text(lineheight=.8, face="bold", size = 7),
+  panel.border = element_blank(),
+  panel.grid.minor = element_blank(),
+  panel.grid.major = element_blank(),
+  axis.line.x = element_line(colour = 'black', size=0.5, linetype='solid'),
+  axis.line.y = element_line(colour = 'black', size=0.5, linetype='solid'))
+
+
+## Define functions
+lb <- function(x) mean(x) - sd(x)
+ub <- function(x) mean(x) + sd(x)
+
+sumld<- ddply(dat, ~Experience, summarise, mean = mean(shroomamount), median = median(shroomamount), lower = lb(shroomamount), upper = ub(shroomamount))
+head(sumld)
+
+## Print raincloud plot (with 95% CI, mean, and density distribution)
+tiff("raincloud-experience.tiff", units="mm", width=85, height=85, res=300)
+
+g <- ggplot(data = dat, aes(y = shroomamount, x = Experience, fill = Experience)) +
+  geom_flat_violin(position = position_nudge(x = .2, y = 0), alpha = .8) +
+  geom_point(aes(y = shroomamount, color = Experience), position = position_jitter(width = .15), size = .5, alpha = 0.8) +
+  geom_point(data = sumld, aes(x = Experience, y = mean), position = position_nudge(x = 0.3), size = 2.5) +
+  geom_errorbar(data = sumld, aes(ymin = lower, ymax = upper, y = mean), position = position_nudge(x = 0.3), width = 0) +
+  expand_limits(x = 5.25) +
+  guides(fill = FALSE) +
+  guides(color = FALSE) +
+  scale_color_brewer(palette = "Dark2") +
+  scale_fill_brewer(palette = "Dark2") +
+  theme_bw() +
+  xlab("Experience (self-reported)") +
+  ylab("Number of mushroom species mentioned") +
+raincloud_theme
+
+g
+dev.off()
 
 ################################################
 ##    END OF ANALYSIS
