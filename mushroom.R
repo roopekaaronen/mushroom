@@ -347,10 +347,13 @@ dev.off()
 dat$shroomamount <- (str_count(dat$SpeciesPicture1, '\\w+') + str_count(dat$SpeciesPicture2, '\\w+'))
 
 ## Linear regression of Experience vs. shroomamount
-plot(density(dat$shroomamount))# density
+plot(density(dat$shroomamount))# Density distribution of shroomamount
 
-linearMod <- lm(Experience ~ shroomamount, data=dat) 
+linearMod <- lm(Experience ~ shroomamount, data=dat) # Create linear model
 summary(linearMod) # Summary of linear model
+print(linearMod)
+confint(linearMod, level = 0.95) # Calculate confidence intervals
+
 
 # Convert experience into factor for raincloud plot
 dat$Experience <- as.factor(dat$Experience)
