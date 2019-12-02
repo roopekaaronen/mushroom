@@ -1,0 +1,893 @@
+Agaricus  Bolete
+
+   WoollyMilkcap 
+Bolete Russula  Chanterelle
+Bolete
+Bolete
+Porcini  FalseSaffronMilkcap
+Chanterelle  Porcini
+Chanterelle
+Bolete
+HornOfPlenty  Leccinum
+Chanterelle  Lactarius
+Chanterelle
+Porcini  Bolete
+Chanterelle
+UglyMilkcap  RoughStemmedBolete  FlyAgaric  Chanterelle  Agaricus Coprinus
+Chanterelle
+Bolete  Chanterelle
+Chanterelle 
+Leccinum Russula UglyMilkcap
+Chanterelle
+Chanterelle
+Chanterelle
+WoollyMilkcap 
+Chanterelle
+
+Chanterelle
+Chanterelle
+Chanterelle  Russula 
+Bolete  Coprinus 
+Chanterelle  Lactarius 
+FalseSaffronMilkcap  WoollyMilkcap  Chanterelle
+Chanterelle
+Chanterelle Hygrophoraceae Russula Bolete
+Chanterelle  HornOfPlenty
+Russula  Chanterelle  Bolete
+
+Chanterelle
+WoollyMilkcap  Russula  Chanterelle
+MeadowWaxcap Chanterelle BareToothedRussula
+Chanterelle 
+
+Chanterelle
+Russula
+WoollyMilkcap LactariusTrivialis 
+Bolete
+Russula
+Chanterelle
+Bolete  Chaga
+Bolete  Russula  Chanterelle 
+Bolete
+Chanterelle
+Bolete Chanterelle
+Chanterelle
+Chanterelle  Leccinum
+Chanterelle 
+Chanterelle
+Chanterelle
+Chanterelle  Lactarius  Bolete
+FunnelChanterelle
+Chanterelle
+Chanterelle Bolete
+Chanterelle  YellowSwampRussula  GrassGreenRussula RoughStemmedBolete
+Porcini  WoollyMilkcap  Chanterelle
+WoollyMilkcap
+Chanterelle  Bolete
+ Lactarius
+Bolete
+Chanterelle Lactarius
+
+Hygrophoraceae
+Chanterelle
+Lactarius
+Chanterelle Porcini HornOfPlenty Leccinum
+Chanterelle
+Bolete  Chanterelle
+Chanterelle
+Chanterelle   Bolete
+
+Chanterelle  Lactarius  Russula  YellowSwampRussula    WoollyMilkcap
+WoollyMilkcap   AlbatrellusOvinus
+Chanterelle
+Bolete
+Lactarius  Chanterelle
+
+Bolete
+Lactarius
+Chanterelle
+Chanterelle ParasolMushroom 
+Chanterelle
+Chanterelle AlbatrellusOvinus SweetTooth Porcini YellowSwampRussula Leccinum GypsyMushroom
+Bolete
+Chanterelle  Russula  SheathedWoodtuft  Bolete 
+Porcini
+Chanterelle  WoollyMilkcap  GrassGreenRussula 
+Chanterelle
+Chanterelle  Russula  Bolete  Lactarius
+Chanterelle 
+Chanterelle
+
+Russula  Bolete  Leccinum   Chanterelle    Lactarius Agaricus ParasolMushroom   
+
+Bolete  Chanterelle
+Chanterelle  GyromitraEsculenta
+Chanterelle  Bolete  Russula
+WoollyMilkcap Porcini
+Chanterelle
+Bolete
+Agaricus  HornOfPlenty
+Chanterelle  HornOfPlenty
+Bolete
+Agaricus  OrangeBirchBolete  GrassGreenRussula Chanterelle  UglyMilkcap Clitocybe Entoloma Hygrophoraceae
+WoollyMilkcap Chanterelle
+
+Leccinum  Chanterelle  SlipperyJack
+Chanterelle  Bolete
+Porcini  OrangeBirchBolete  Russula  YellowSwampRussula  Chanterelle  UglyMilkcap 
+SlipperyJack  GrassGreenRussula    Morel 
+Chanterelle Coprinus  SlipperyJack  Lycoperdon PearShapedPuffball CommonPuffball
+Chanterelle
+Chanterelle
+Chanterelle  WoollyMilkcap  Bolete
+Chanterelle  WoollyMilkcap  ScotchBonnet  Hygrocybe 
+Chanterelle  Bolete Lactarius
+ParasolMushroom   
+RoughStemmedBolete
+Chanterelle
+Bolete  ShaggyInkCap  GypsyMushroom  Chanterelle  CommonPuffball  ParasolMushroom
+Chanterelle  UglyMilkcap 
+Chanterelle  Bolete  Russula 
+Lactarius
+Chanterelle
+Bolete  Hygrophoraceae  HornOfPlenty  CloudedAgaric ParasolMushroom  FlyAgaric
+Lactarius  Russula  Leccinum  GypsyMushroom  SheathedWoodtuft  BayBolete  Chanterelle  BirchWebcap
+Chanterelle
+Chanterelle Agaricus  Amanita
+
+
+OrangeBirchBolete  WoollyMilkcap  Chanterelle Chaga
+
+Russula  Bolete  Chanterelle  HornOfPlenty  Agaricus
+Chanterelle
+Chanterelle  Russula
+Chanterelle  GrassGreenRussula
+Chanterelle Bolete  Agaricus 
+
+Chanterelle
+Porcini   WoollyMilkcap 
+Russula   Lactarius
+GrassGreenRussula  YellowSwampRussula  Russula  RoughStemmedBolete  WoollyMilkcap  SheathedWoodtuft  UglyMilkcap  Chanterelle  OrangeBirchBolete  Chaga  CoconutScentedMilkcap  ClitocybeCatinus
+Chanterelle  Bovista Lycoperdon Bolete FalseSaffronMilkcap   
+Porcini
+Chanterelle
+Chanterelle
+
+
+Chanterelle Bolete
+WoollyMilkcap Russula
+
+Chanterelle GrassGreenRussula
+Morel  SlipperyJack  ParasolMushroom  Agaricus
+Chanterelle
+UglyMilkcap   WoollyMilkcap Agaricus
+Bolete
+GrassGreenRussula  Chanterelle
+Bolete  Chanterelle 
+Lactarius
+Chanterelle 
+Chanterelle
+Russula   Lactarius 
+Chanterelle
+ Morel
+Chanterelle
+SheathedWoodtuft  YellowSwampRussula  Porcini  Chanterelle 
+Chanterelle
+Chanterelle
+Bolete  Lactarius
+Russula  Chanterelle
+Chanterelle  Bolete
+Chanterelle  Bolete  Lactarius
+Chanterelle  Bolete
+Bolete
+Coprinus  ParasolMushroom   
+ BoletusBetulicola   WoollyMilkcap
+Chanterelle  Bolete
+Bolete  Russula  Chanterelle  ParasolMushroom SlimySpikeCap
+Russula  Lactarius 
+Chanterelle  Leccinum  WoollyMilkcap  SlipperyJack
+Chanterelle
+Bolete
+Chanterelle  Russula
+SheathedWoodtuft
+Chanterelle
+WoollyMilkcap
+Porcini
+Porcini
+WoollyMilkcap  Chanterelle
+Chanterelle  Russula  WoollyMilkcap  Leccinum
+Chanterelle  BirchWebcap  Russula OrangeBirchBolete
+Russula  Lactarius  Hygrophoraceae  GypsyMushroom
+
+ Chanterelle  Hydnum
+WoollyMilkcap
+GrassGreenRussula  Chanterelle  WoollyMilkcap
+Lactarius  Bolete
+Chanterelle
+SlipperyJack
+Chanterelle
+WoollyMilkcap
+Chanterelle
+Chanterelle LactariusTrivialis 
+Chanterelle  SlipperyJack  Agaricus
+-
+Lactarius Russula  Chanterelle 
+Chanterelle
+Chanterelle Bolete 
+Russula  LactariusRufus
+Agaricus  Amanita
+Chanterelle  WoollyMilkcap  OrangeBirchBolete
+
+Chanterelle Lactarius
+AlbatrellusOvinus  Chanterelle  Russula
+Chanterelle YellowSwampRussula LactariusTrivialis OrangeBirchBolete
+Hygrocybe  Cuphophyllus Gliophorus Geoglossum
+
+Bolete  Chanterelle
+Chanterelle  Bolete 
+
+Lactarius  Chanterelle
+OrangeBirchBolete  Chanterelle  SlipperyJack 
+Chanterelle
+Chanterelle 
+Chanterelle  Russula  Lactarius
+
+Chanterelle  Russula  AlbatrellusOvinus
+Chanterelle
+Chanterelle  Porcini  SlipperyJack
+Chanterelle
+Chanterelle  Porcini
+
+WoollyMilkcap  Chanterelle
+Chanterelle  WoollyMilkcap
+Chanterelle   
+Chanterelle  Russula  WoollyMilkcap
+Chanterelle
+Chanterelle Bolete
+Chanterelle  Lactarius  Bolete
+Bolete
+Chanterelle Bolete Russula  SlimySpikeCap   
+
+
+WoollyMilkcap Chanterelle
+Bolete  Agaricus
+Chanterelle
+Chanterelle  SummerCep  SlipperyJack  OrangeBirchBolete  SheathedWoodtuft  CoconutScentedMilkcap
+Bolete  WoollyMilkcap  Russula  Chanterelle
+Chanterelle
+
+Chanterelle
+Bolete
+
+Chanterelle  Lactarius  WoollyMilkcap  LactariusFlexuosus  Russula 
+
+
+WoollyMilkcap   GrassGreenRussula
+Chanterelle Chaga
+
+Chanterelle
+Russula  Cantharellus  Bolete  Chanterelle  Lactarius
+Bolete  Russula  Lactarius
+
+
+Chanterelle  Bolete
+Chanterelle  Lactarius  Bolete
+
+Chanterelle  Bolete ParasolMushroom
+Bolete
+Russula 
+Lactarius
+Bolete  Russula  Lactarius 
+Chanterelle  ParasolMushroom  Leccinum  Russula
+Chanterelle
+Chanterelle  Bolete 
+Lactarius  Bolete  Agaricus  Chanterelle
+
+Bolete
+Coprinus 
+
+Bolete
+GyromitraEsculenta 
+HornOfPlenty  Bolete
+Chanterelle 
+Chanterelle  Bolete
+Chanterelle 
+
+Chanterelle 
+Chanterelle
+Lactarius
+YellowSwampRussula  RussulaDecolorans  Leccinum  Chanterelle  SheathedWoodtuft
+Chanterelle
+Chanterelle
+Bolete
+Chanterelle  Russula
+Chanterelle 
+Chanterelle  ParasolMushroom 
+Chanterelle Bolete WoollyMilkcap
+Chanterelle  Lactarius   Leccinum Russula 
+Chanterelle
+WoollyMilkcap
+Bolete
+GrassGreenRussula
+Russula  WoollyMilkcap Leccinum  SheathedWoodtuft Chanterelle  BirchPolypore 
+Chanterelle  YellowSwampRussula  Agaricus  LactariusTrivialis  GypsyMushroom  UglyMilkcap 
+Chanterelle  GrassGreenRussula  Bolete
+Morel
+Chanterelle
+Chanterelle  OrangeBirchBolete  BoletusBetulicola  GrassGreenRussula  BirchWebcap  TheMiller  WoollyMilkcap
+WoollyMilkcap Russula
+Chanterelle  Leccinum  WoollyMilkcap
+ Bolete  Chanterelle
+Chanterelle  Bolete FunnelChanterelle
+SaffronRinglessAmanita  YellowSwampRussula  GrassGreenRussula  Chanterelle  RoughStemmedBolete  WoollyMilkcap  UglyMilkcap 
+Chanterelle
+
+
+Bolete
+
+Lactarius Russula 
+WoollyMilkcap  Chanterelle  AlbatrellusOvinus  Russula 
+Chanterelle  HornOfPlenty  Lactarius  Russula
+
+Chanterelle Lactarius
+
+Chanterelle
+Hygrophoraceae Bolbitius  Roundheads Inocybe  Entoloma Bolete Corticium Bolete  Russula ParasolMushroom
+
+Bolete
+Russula  HornOfPlenty  Porcini
+Chanterelle  PestlePuffball  GrassGreenRussula YellowSwampRussula  SheathedWoodtuft
+Bolete  Chanterelle
+
+Agaricus  Chanterelle  OrangeBirchBolete
+Chanterelle
+Chanterelle
+Bolete Chanterelle
+Chanterelle 
+Chanterelle  Bolete
+Bolete  Chanterelle  Morel  Russula 
+
+Lactarius
+Chanterelle Lactarius
+SheathedWoodtuft Chanterelle UglyMilkcap GrassGreenRussula Armillaria
+Chanterelle
+GrassGreenRussula
+
+Chanterelle
+Bolete
+Chanterelle  OrangeBirchBolete  Russula
+Chanterelle
+Bolete Chanterelle
+
+Bolete
+Chanterelle  WoollyMilkcap  Leccinum
+Chanterelle  SlipperyJack
+Chanterelle Cantharellus Hydnum Lactarius
+Bolete
+Chanterelle  Bolete
+Chanterelle
+WoollyMilkcap  Bolete  LactariusTrivialis
+
+Bolete  Chanterelle  HornOfPlenty Russula  Bolete 
+
+Chanterelle  WoollyMilkcap
+Russula
+Chanterelle 
+Chanterelle
+Chanterelle  OrangeBirchBolete
+Chanterelle  ParasolMushroom  OrangeBirchBolete 
+Chanterelle  Lactarius
+Chanterelle
+Chanterelle
+WoollyMilkcap  Chanterelle  Porcini  OrangeBirchBolete
+
+WoollyMilkcap
+
+Chanterelle
+Chanterelle
+OrangeBirchBolete  Chanterelle  SheathedWoodtuft
+Chanterelle 
+Bolete Lactarius
+Chanterelle  Russula
+Bolete  Russula
+Bolete  Lactarius  SheathedWoodtuft  Russula  
+Chanterelle
+Agaricus  Leccinum  Russula
+Bolete Chanterelle WoollyMilkcap
+Leccinum  Lactarius
+HornOfPlenty  Chanterelle
+Chanterelle
+Chanterelle  Bolete
+Leccinum  Chanterelle
+Chanterelle
+
+Bolete  FunnelChanterelle  Chanterelle
+Agaricus  Coprinus
+Chanterelle
+Bolete 
+
+
+Chanterelle
+Chanterelle  UglyMilkcap
+SlipperyJack
+SlipperyJack  Chanterelle
+YellowSwampRussula   GrassGreenRussula   Chanterelle
+Chanterelle
+Chanterelle
+Chanterelle  Armillaria
+Chanterelle  Bolete
+Russula 
+Chanterelle  Bolete
+Porcini SlipperyJack  Chanterelle  WoollyMilkcap  Russula 
+Bolete
+WoollyMilkcap
+Bolete  FunnelChanterelle  Chanterelle  Hydnum  HornOfPlenty AlbatrellusOvinus
+Chanterelle  Russula
+
+Lactarius 
+Agaricus  Chanterelle  Russula 
+Leccinum
+Lactarius  Chanterelle  Leccinum
+Chanterelle
+Chanterelle
+Chanterelle   HornOfPlenty
+Bolete Chanterelle
+Chanterelle
+Chanterelle 
+Cantharellus  ParasolMushroom ShaggyParasol  HornOfPlenty 
+Russula  Bolete  Polyporaceae Agaricales
+
+Chanterelle  Agaricus
+Chanterelle
+
+Chanterelle
+Chanterelle
+Lactarius
+
+Agaricus ParasolMushroom SlipperyJack 
+Chanterelle
+Chanterelle
+ OrangeBirchBolete
+Chanterelle
+Chanterelle
+Russula Bolete WoollyMilkcap Porcini  FalseChanterelle
+GrassGreenRussula 
+Chanterelle
+Chanterelle
+Bolete
+Amanita  Porcini 
+Russula Chanterelle
+HornOfPlenty Chanterelle
+Lactarius  Russula  Chanterelle
+Chanterelle
+Chanterelle 
+Chanterelle
+Cantharellus Bolete
+Russula  Chanterelle  AlbatrellusOvinus
+
+Chanterelle  Bolete
+Chanterelle
+
+Agaricus  ParasolMushroom
+Bolete
+Chanterelle
+Chanterelle  Russula  Bolete
+Bolete   Chanterelle
+ Chanterelle
+Bolete  Russula Lactarius   Chanterelle
+Chanterelle
+WoollyMilkcap  Leccinum  Chanterelle  GrassGreenRussula  YellowSwampRussula
+Chanterelle  OrangeBirchBolete
+Chanterelle  Russula
+Lactarius
+Lactarius   Chanterelle
+Chanterelle  Russula  Leccinum   GypsyMushroom
+GrassGreenRussula  YellowSwampRussula  WoollyMilkcap  Chanterelle
+Chanterelle WoollyMilkcap
+Chanterelle  GrassGreenRussula  ShaggyInkCap  Bolete
+Chanterelle  Leccinum
+Chanterelle 
+Chanterelle
+Russula  Chanterelle
+Russula
+Chanterelle  Bolete Lactarius
+Chanterelle  Bolete  Russula
+Bolete  Russula  Chanterelle  HornOfPlenty
+Chanterelle  Leccinum  WoollyMilkcap
+Chanterelle
+Chanterelle Russula
+Chanterelle
+Chanterelle
+WoollyMilkcap
+Chanterelle  Bolete
+OrangeBirchBolete  Chanterelle
+Russula  CommonPuffball  Chanterelle Coprinus 
+ParasolMushroom
+ParasolMushroom  Agaricus  Chanterelle  WoollyMilkcap 
+Agaricus
+
+Russula  Leccinum
+JerseyCowMushroom Agaricus 
+
+Chanterelle
+Chanterelle
+Chanterelle
+Chanterelle 
+Chanterelle
+
+Chanterelle   Lactarius Bolete
+
+
+Bolete GyromitraEsculenta
+Agaricus  ShaggyInkCap
+Agaricus Chanterelle Morel Russula Coprinus
+Chanterelle  LactariusTrivialis
+
+Leccinum   Porcini
+Chanterelle
+
+Bolete
+
+Chanterelle Bolete
+Chanterelle 
+ParasolMushroom Chanterelle
+Chanterelle  Bolete
+Chanterelle
+Chanterelle
+Lactarius  Bolete
+
+
+Bolete
+Chanterelle FalseSaffronMilkcap
+Chanterelle
+OrangeBirchBolete  CommonInkCap  ShaggyInkCap
+Chanterelle
+Chanterelle
+Bolete Chanterelle Lactarius 
+Chanterelle
+Chanterelle
+Chanterelle  PestlePuffball  GrassGreenRussula YellowSwampRussula  SheathedWoodtuft
+LactariusRufus
+Bolete Chanterelle
+Lactarius Bolete 
+Chanterelle
+Chanterelle  WoollyMilkcap  SlipperyJack
+Russula LactariusTrivialis WoollyMilkcap
+OrangeBirchBolete  BoletusBetulicola  BirchWebcap  TheMiller  SheathedWoodtuft
+Chanterelle  Porcini
+
+
+Chanterelle   Bolete
+GrassGreenRussula YellowSwampRussula 
+Russula
+
+WoollyMilkcap  GrassGreenRussula 
+Chanterelle  Porcini
+Chanterelle   Leccinum
+Chanterelle
+Chanterelle  GrassGreenRussula  RoughStemmedBolete
+Bolete  Chanterelle
+ Chanterelle
+Chanterelle
+Chanterelle  Leccinum  Russula  SlipperyJack
+Chanterelle  Russula
+
+
+Chanterelle   Lactarius
+Chanterelle
+Leccinum  Agaricus  ParasolMushroom  Chanterelle
+Chanterelle
+Chanterelle  Russula
+Chanterelle  ParasolMushroom
+Chanterelle  Russula
+Chanterelle
+Russula  Agaricus
+Chanterelle
+
+Chanterelle  Armillaria  GrassGreenRussula  UglyMilkcap  CommonPuffball
+OrangeBirchBolete  WoollyMilkcap Lactarius  HornOfPlenty  Russula
+
+Leccinum
+YellowSwampRussula  Chanterelle  GrassGreenRussula  Lactarius
+Bolete Agaricus ParasolMushroom HornOfPlenty 
+Bolete  Chanterelle  WoollyMilkcap
+
+Bolete Chanterelle
+Lactarius  Chanterelle
+Chanterelle  Lactarius
+Chanterelle
+Russula ParasolMushroom
+Chanterelle  Bolete  LactariusTrivialis
+Chanterelle  ParasolMushroom
+Chanterelle
+Russula  Porcini  Leccinum  Armillaria 
+YellowSwampRussula  GrassGreenRussula  SheathedWoodtuft  Chanterelle  OrangeBirchBolete
+Chanterelle
+
+Chanterelle Coprinus WoollyMilkcap
+ParasolMushroom
+Chanterelle  Bolete  Russula  Lactarius 
+Chanterelle
+
+Chanterelle
+Bolete
+Chanterelle
+   Chanterelle  Russula 
+Chanterelle
+Chanterelle  Russula  OrangeBirchBolete
+OrangeBirchBolete
+Bolete  Agaricus  Lactarius
+Chanterelle  Bolete 
+ParasolMushroom  Chanterelle  BareToothedRussula  OrangeBirchBolete 
+SlipperyJack  Chanterelle  Leccinum
+Bolete 
+Russula   GrassGreenRussula YellowSwampRussula  Bolete  WoollyMilkcap  UglyMilkcap  SheathedWoodtuft  Chanterelle 
+Chanterelle  HornOfPlenty  Bolete
+Chanterelle  Russula 
+Chanterelle Agaricus
+
+
+ShaggyInkCap
+Chanterelle  GyromitraEsculenta  Lactarius  Leccinum  Hygrophoraceae Armillaria SheathedWoodtuft  Russula
+Chanterelle 
+GyromitraEsculenta
+Chanterelle  WoollyMilkcap
+GyromitraEsculenta  AlbatrellusOvinus
+
+
+FlyAgaric
+
+Chanterelle  Bolete
+Chanterelle
+Chanterelle  Bolete 
+Chanterelle  Bolete  SheathedWoodtuft 
+GrassGreenRussula BoletusBetulicola   TheDeceiver  Hygrophoraceae
+
+Chanterelle  Russula
+Chanterelle  Russula
+Chanterelle  Bolete
+Russula
+Chanterelle
+Chanterelle  Bolete
+Russula
+Bolete
+Bolete  Agaricus
+
+Bolete Leccinum
+Chanterelle
+Chanterelle
+Chanterelle  HornOfPlenty
+WoollyMilkcap  Chanterelle  OrangeBirchBolete Bolete Russula
+Chanterelle
+Bolete Chanterelle
+Bolete  Chanterelle  Lactarius  Russula
+Bolete  Agaricus 
+ Russula
+Chanterelle
+Chanterelle
+Chanterelle 
+WoollyMilkcap
+Porcini  Chanterelle  Hydnum
+Chanterelle
+Chanterelle
+Agaricus  SheathedWoodtuft
+Bolete
+Chanterelle
+Leccinum
+
+
+
+Bolete  Lactarius Russula
+
+GrassGreenRussula  YellowSwampRussula  Chanterelle  UglyMilkcap  OrangeBirchBolete
+Chanterelle  Russula 
+Chanterelle  WoollyMilkcap
+Bolete
+Bolete  Russula  Chanterelle  ParasolMushroom
+Bolete  Russula  Chanterelle
+Bolete  Agaricus 
+Chanterelle Russula
+Chanterelle 
+Bolete
+Chanterelle  WoollyMilkcap  Leccinum
+Chanterelle  Russula   HornOfPlenty
+Chanterelle Bolete HornOfPlenty ParasolMushroom
+WoollyMilkcap  Chanterelle  Russula  Leccinum 
+Chanterelle  GrassGreenRussula
+
+Bolete  Russula  Lactarius  Chanterelle  GyromitraEsculenta
+Chanterelle Russula
+Bolete
+Chanterelle
+Russula
+Russula  OrangeBirchBolete
+Chanterelle  Russula
+Chanterelle
+Chanterelle  Russula  Lactarius
+Chanterelle
+
+FunnelChanterelle
+Chanterelle  ParasolMushroom 
+Chanterelle  OrangeBirchBolete
+Chanterelle
+Chanterelle  Bolete
+
+Chanterelle  Hydnum  OrangeBirchBolete
+Chanterelle
+Leccinum  Chanterelle  YellowSwampRussula  WoollyMilkcap
+Chanterelle
+
+Chanterelle Bolete 
+Bolete
+
+Chanterelle  Bolete
+Chanterelle  Lactarius
+Chanterelle  WoollyMilkcap
+Chanterelle  Bolete
+Chanterelle Bolete Lactarius
+Lactarius
+Chanterelle  SheathedWoodtuft  ParasolMushroom
+Chanterelle  Bolete  BirchWebcap
+WoollyMilkcap  Chanterelle
+Chanterelle Hydnum Lactarius
+Chanterelle
+WoollyMilkcap  Chanterelle  OrangeBirchBolete
+Chanterelle  Bolete  Russula  SheathedWoodtuft  ScotchBonnet  Agaricus  ManOnHorseback
+WoollyMilkcap
+Chanterelle  Russula  RoughStemmedBolete  Leccinum  SheathedWoodtuft
+ Bolete  Chanterelle
+Chanterelle  Russula  Bolete
+Chanterelle  Russula  Bolete 
+Chanterelle Russula
+Bolete  Lactarius
+Chanterelle   Russula
+Bolete  Chanterelle  Lactarius
+Chanterelle  Russula
+Chanterelle
+Chanterelle  Bolete  GypsyMushroom
+Bolete  Lactarius  YellowSwampRussula
+
+-
+Chanterelle
+Bolete  Chanterelle  Chaga
+Bolete  Russula
+Chanterelle
+Chanterelle  Lactarius GyromitraEsculenta 
+Chanterelle  Bolete
+GrassGreenRussula   BareToothedRussula 
+Amanita
+
+Chanterelle  Agaricus 
+Chanterelle  WoollyMilkcap
+Chanterelle  Russula
+Bolete WoollyMilkcap
+WoollyMilkcap
+Chanterelle
+Chanterelle Bolete
+Chanterelle   Lactarius  Coprinus
+Bolete  Russula  BirchWebcap  Agaricus
+Chanterelle  Bolete
+GrassGreenRussula  YellowSwampRussula  ParasolMushroom  Leccinum
+Chanterelle 
+Chanterelle Leccinum SheathedWoodtuft
+WoollyMilkcap Russula Webcap Amanita
+Leccinum  YellowSwampRussula  WoollyMilkcap 
+OrangeBirchBolete  Chanterelle 
+Chanterelle
+Chanterelle  LactariusRufus
+
+Chanterelle
+Chanterelle  Russula  GypsyMushroom
+ Bolete  Lactarius
+
+
+Chanterelle  FalseSaffronMilkcap  Agaricus 
+Chanterelle  Russula 
+Bolete  Agaricus 
+ Bolete  LactariusFlexuosus  Chanterelle
+Chanterelle  Morel  Bolete  Agaricus  Elaphomyces  PestlePuffball
+Chanterelle  Bolete
+Bolete
+ UglyMilkcap 
+Chanterelle 
+WoollyMilkcap   Chanterelle   Russula   AlbatrellusOvinus
+Bolete
+Lactarius  Bolete   Chanterelle
+
+Leccinum  Porcini  Chanterelle
+
+Chanterelle 
+Cantharellus  Bolete   Lactarius  Chanterelle
+Lactarius  Chanterelle
+Chanterelle  Lactarius
+Bolete
+Russula
+Chanterelle  Polyporaceae Lactarius
+Chanterelle Russula Lactarius 
+Chanterelle WoollyMilkcap HornOfPlenty Russula
+Bolete Chanterelle
+
+Chanterelle
+LactariusRufus BrownPuffball 
+Bolete
+Chanterelle
+
+WoollyMilkcap
+Chanterelle  Bolete
+Russula    Chanterelle  Leccinum
+Hygrophoraceae  Agaricus  Geoglossum
+GrassGreenRussula   Russula
+
+GrassGreenRussula  YellowSwampRussula  Bovista  Lycoperdon  JerseyCowMushroom  SuedeBolete  PoisonPax 
+
+Russula  Chanterelle  Lactarius  Bolete  SheathedWoodtuft 
+Bolete  Chanterelle  Lactarius
+Bolete  Chanterelle
+WoollyMilkcap  UglyMilkcap
+
+Chanterelle Bolete  LactariusTrivialis WoollyMilkcap FunnelChanterelle Lactarius
+Bolete  Chanterelle 
+
+
+Chanterelle YellowSwampRussula
+Chanterelle Bolete
+
+Chanterelle  Russula  Lactarius Bolete
+
+ GrassGreenRussula
+YellowSwampRussula  JerseyCowMushroom
+
+Bolete
+Chanterelle
+Bolete  Russula  Lactarius
+Russula
+Chanterelle
+Chanterelle  Bolete
+
+Russula  Chanterelle  Bolete
+Chanterelle  Bolete  Agaricus
+Chanterelle
+Chanterelle   Bolete    Russula 
+Bolete  Chanterelle  HornOfPlenty  
+Bolete
+Chanterelle
+Lactarius Russula Bolete
+Chanterelle  WoollyMilkcap
+WoollyMilkcap
+Leccinum  GrassGreenRussula  YellowSwampRussula
+
+Chanterelle  Bolete   Leccinum
+
+Lactarius  Chanterelle  Russula
+Chanterelle
+Bolete  Russula  Chanterelle  ParasolMushroom
+
+Chanterelle  WoollyMilkcap    Lactarius
+Russula  Chanterelle  Bolete
+
+Cantharellus
+Chanterelle  Bolete  Russula
+Porcini Bolete
+
+Chanterelle
+Chanterelle
+Chanterelle  Hydnum 
+WoollyMilkcap 
+Russula  UglyMilkcap  Chanterelle  Chaga  SheathedWoodtuft
+Lactarius  Chanterelle  Bolete
+Chanterelle
+Chanterelle  Russula  Bolete
+
+ParasolMushroom  WoollyMilkcap  UglyMilkcap
+Russula Leccinum 
+Porcini  WoollyMilkcap
+RoughStemmedBolete  Leccinum  YellowSwampRussula  GrassGreenRussula
+Chanterelle
+OrangeBirchBolete    Porcini  Agaricus  GrassGreenRussula    FlyAgaric  
+Bolete
+Chanterelle
+Russula  Bolete
+Chanterelle
+Chanterelle
+Chanterelle  Russula Bolete Lactarius
+Russula
