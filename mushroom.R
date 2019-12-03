@@ -5,6 +5,8 @@
 ##    https://roopekaaronen.com
 ##    @roopekaaronen
 ##    GitHub: https://github.com/roopekaaronen
+##
+##    R code for data-analysis, "Mycological Rationality" paper
 ################################################################
 
 
@@ -27,6 +29,9 @@ library(qdap)
 library(plyr)
 library(RColorBrewer)
 library(reshape2)
+library(gridExtra)
+library(ggpubr)
+
 # Read data
 
 dat = read.csv("https://raw.githubusercontent.com/roopekaaronen/mushroom/master/mushroom.csv", stringsAsFactors = FALSE, header = T)
@@ -90,7 +95,15 @@ p3 <- ggplot(dat, aes(x=Species)) +
 p3
 dev.off() 
 
+## Combine p, p2, p3
+tiff("combined.tiff", units="mm", width=170, height=150, res=300)
 
+ggarrange(p, p2, p3,
+          labels = c("A", "B", "C"),
+          ncol = 2, nrow = 2)
+
+
+dev.off()
 
 ################################
 ##  Foraging habits, Likert-scales
