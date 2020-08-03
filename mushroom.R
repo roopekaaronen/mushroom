@@ -12,7 +12,7 @@
 
 # Set working directory
 
-setwd("C:/Users/...")
+setwd("C:/Users/RoopeOK/Documents/Yliopisto/Sienestys/mushroom")
 
 # Install and download packages
 
@@ -31,6 +31,7 @@ library(RColorBrewer)
 library(reshape2)
 library(gridExtra)
 library(ggpubr)
+library(cowplot)
 
 # Read data
 
@@ -45,65 +46,56 @@ sum(dat$Experience_years) # Total years of experience
 median(dat$Species) # Mean amount of species foraged on one trip
 str(dat) # 894 observations
 
-# Gender
-
-Gender <- table(unlist(strsplit(tolower(dat$Gender), " ")))
-View(Gender)
-
 ################################
 ##  Demographics and 
 ##  descriptive analysis
 ################################
 
-
-# Plot age and distribution of age of participants.
-tiff("age.tiff", units="mm", width=140, height=85, res=300)
-
-p <- ggplot(dat, aes(x=Age)) + 
-  geom_density(size = 1, color = "darkgreen", fill="forestgreen", alpha = 0.5) +
+# Plot age distribution of respondents
+p <- ggplot(dat, aes(x=Age)) +
+  geom_histogram(color="#e9ecef", fill = "forestgreen",  alpha=0.6, binwidth = 2) + # other colour #404080
+  labs(fill="") +
+  ylab("Count") +
   geom_vline(aes(xintercept=mean(Age)),
-               color="chocolate4", linetype="dashed", size=1) +
-  xlab("Age (mean = 49.6, SD = 12.7)") +
-  ylab("Density")
+             color="black", linetype="dashed", size=0.5, alpha = 0.5)
 p
-dev.off() # Print data
 
 
 # Plot experience and distribution of experience of participants.
-tiff("xp.tiff", units="mm", width=140, height=85, res=300)
-
-p2 <- ggplot(dat, aes(x=Experience_years)) + 
-  geom_density(size = 1, color = "darkgreen", fill="forestgreen", alpha = 0.5) +
+p2 <- ggplot(dat, aes(x=Experience_years)) +
+  geom_histogram(color="#e9ecef", fill = "forestgreen",  alpha=0.6, binwidth = 5) + # other colour #404080
+  labs(fill="") +
+  ylab("Count") +
   geom_vline(aes(xintercept=mean(Experience_years)),
-             color="chocolate4", linetype="dashed", size=1) +
-  xlab("Experience (mean = 25, SD = 17.2)") +
-  ylab("Density")
+             color="black", linetype="dashed", size=0.5, alpha = 0.5) +
+  xlab("Experience (years)") +
+  ylab("Count")
 p2
-dev.off()
 
 
-# Plot number of picked species and distribution.
-
-tiff("species.tiff", units="mm", width=140, height=85, res=300)
-
-p3 <- ggplot(dat, aes(x=Species)) + 
-  geom_density(size = 1, color = "darkgreen", fill="forestgreen", alpha = 0.5) +
+# Plot distribution of picked species.
+p3 <- ggplot(dat, aes(x=Species)) +
+  geom_histogram(fill = "forestgreen", color = "forestgreen",  alpha=0.6, binwidth = 2, size = 0.5, stat = "count") + # other colour #404080
+  labs(fill="") +
+  ylab("Count") +
   geom_vline(aes(xintercept=median(Species)),
-             color="chocolate4", linetype="dashed", size=1) +
-  xlab("Species (median = 4)") +
-  ylab("Density")
+             color="black", linetype="dashed", size=0.5, alpha = 0.5) +
+  xlab("Species picked") +
+  ylab("Count")
 p3
-dev.off() 
+  
+## Combine p, p2, p3 with cowplot
 
-## Combine p, p2, p3
-tiff("combined.tiff", units="mm", width=170, height=150, res=300)
+bottom_row <- plot_grid(p3, labels = c('C'), label_size = 12)
 
-ggarrange(p, p2, p3,
-          labels = c("A", "B", "C"),
-          ncol = 2, nrow = 2)
+top_row <- plot_grid(p, p2, labels = c("A", "B"), ncol = 2)
+
+plot_grid(top_row, bottom_row, nrow = 2)
+
+ggsave("combined.pdf", width = 170, height = 150, units = "mm") # save as PDF
+ggsave("combined.tiff", width = 170, height = 150, units = "mm") # save as TIFF
 
 
-dev.off()
 
 ################################
 ##  Foraging habits, Likert-scales
@@ -112,7 +104,6 @@ dev.off()
 
 # Select relevant variables.
 tab <- dat %>% dplyr::select(6:12, 29)
-View(tab)
 
 # Rename responses.
 
@@ -173,11 +164,9 @@ plot(Result,
      type="bar", legend.position = "right")
 dev.off()
 
-# Alternative visualisation
-plot(Result,
-     type="density",
-     facet = TRUE,
-     bw = 0.5)
+ggsave("barchart.tiff", width = 200, height = 85, units = "mm")
+ggsave("barchart.pdf", width = 200, height = 85, units = "mm")
+
 
 ################################
 ##  Counts of reported heuristics
@@ -210,9 +199,9 @@ art1bag <- str_split(art1tidy, pattern="\\s+")
 art1bag <- unlist(art1bag)
 
 # Print wordcloud #1
-tiff("wordcloud1.tiff", units="mm", width=140, height=85, res=300)
-wordcloud(art1bag, min.freq = 5, random.order = F, scale=c(1.5,.5), rot.per = 0)
-dev.off()
+#tiff("wordcloud1.tiff", units="mm", width=140, height=85, res=300)
+#wordcloud(art1bag, min.freq = 5, random.order = F, scale=c(1.5,.5), rot.per = 0)
+#dev.off()
 
 # Read lines of the mushroom2.txt corpus
 art2 <- paste(readLines("mushroom2.txt"), collapse = " ") 
@@ -225,9 +214,9 @@ art2bag <- str_split(art2tidy, pattern="\\s+")
 art2bag <- unlist(art2bag)
 
 # Print wordcloud #2
-tiff("wordcloud2.tiff", units="mm", width=140, height=85, res=300)
-wordcloud(art2bag, min.freq = 5, random.order = F, scale=c(1.5,.5), rot.per = 0)
-dev.off()
+#tiff("wordcloud2.tiff", units="mm", width=140, height=85, res=300)
+#wordcloud(art2bag, min.freq = 5, random.order = F, scale=c(1.5,.5), rot.per = 0)
+#dev.off()
 
 
 # View all unique words in the .txt files
@@ -298,13 +287,17 @@ frequent_terms$WORD[frequent_terms$WORD == "bolete"] <- "Bolete"
 frequent_terms$WORD[frequent_terms$WORD == "albatrellusovinus"] <- "Albatrellus ovinus"
 
 # Plot a bar chart
-tiff("species1.tiff", units="mm", width=150, height=100, res=300)
-ggplot(frequent_terms, aes(y = FREQ, x = reorder(WORD, FREQ)), colour = "green") +
-  geom_bar(stat = "identity", colour = "darkgreen", fill = "forestgreen", alpha = 0.5) +
+#tiff("species1.tiff", units="mm", width=150, height=100, res=300)
+ggplot(frequent_terms, aes(y = FREQ, x = reorder(WORD, FREQ))) +
+  geom_bar(stat = "identity", colour = "#e9ecef", fill = "forestgreen", alpha = 0.4) +
   ylab("Frequency") +
   xlab("Fungi") +
   coord_flip()
-dev.off()
+ggsave("species1.pdf", width = 150, height = 100, units = "mm") # save as PDF
+ggsave("species1.tiff", width = 150, height = 100, units = "mm") # save as TIFF
+
+
+#dev.off()
 
 # Repeat the procedures above for Picture 2 species
 frequent_terms2 <- freq_terms(art2tidy, 15)
@@ -328,13 +321,16 @@ frequent_terms2$WORD[frequent_terms2$WORD == "slipperyjack"] <- "Slippery Jack"
 frequent_terms2$WORD[frequent_terms2$WORD == "sheathedwoodtuft"] <- "Sheathed woodtuft"
 
 # Plot a bar chart
-tiff("species2.tiff", units="mm", width=150, height=100, res=300)
+#tiff("species2.tiff", units="mm", width=150, height=100, res=300)
 ggplot(frequent_terms2, aes(y = FREQ, x = reorder(WORD, FREQ)), colour = "green") +
-  geom_bar(stat = "identity", colour = "yellow4", fill = "yellow4", alpha = 0.5) +
+  geom_bar(stat = "identity", colour = "#e9ecef", fill = "goldenrod", alpha = 0.5) +
   ylab("Frequency") +
   xlab("Fungi") +
   coord_flip()
-dev.off()
+
+ggsave("species2.pdf", width = 150, height = 100, units = "mm") # save as PDF
+ggsave("species2.tiff", width = 150, height = 100, units = "mm") # save as TIFF
+
 
 ################################
 ##  Exploratory correlation plot
@@ -345,11 +341,12 @@ dev.off()
 tabCorr <- dat %>% dplyr::select(4:12, 29, 2)
 
 # Print the correlation plot (with Pearson correlation coefficients)
-tiff("corrplot.tiff", units="mm", width=150, height=150, res=300)
+# tiff("corrplot.tiff", units="in", width=7, height=7, res=300)
+pdf(file = "corrplot.pdf")
+
 corrplot(cor(tabCorr, method = "pearson"), method = "color", type = "upper", number.cex = .7,
          addCoef.col = "black")
 dev.off()
-
 
 ################################
 ##  Experience vs. mushrooms identified
@@ -361,12 +358,6 @@ dat$shroomamount <- (str_count(dat$SpeciesPicture1, '\\w+') + str_count(dat$Spec
 
 ## Linear regression of Experience vs. shroomamount
 plot(density(dat$shroomamount))# Density distribution of shroomamount
-
-linearMod <- lm(Experience ~ shroomamount, data=dat) # Create linear model
-summary(linearMod) # Summary of linear model
-print(linearMod)
-confint(linearMod, level = 0.95) # Calculate confidence intervals
-
 
 # Convert experience into factor for raincloud plot
 dat$Experience <- as.factor(dat$Experience)
@@ -404,25 +395,27 @@ sumld<- ddply(dat, ~Experience, summarise, mean = mean(shroomamount), median = m
 head(sumld)
 
 ## Print raincloud plot (with 95% CI, mean, and density distribution)
-tiff("raincloud-experience.tiff", units="mm", width=85, height=85, res=300)
+##tiff("raincloud-experience.tiff", units="mm", width=85, height=85, res=300)
 
 g <- ggplot(data = dat, aes(y = shroomamount, x = Experience, fill = Experience)) +
-  geom_flat_violin(position = position_nudge(x = .2, y = 0), alpha = .8) +
+  geom_flat_violin(position = position_nudge(x = .2, y = 0), alpha = .4, color = "gray23", size = 0.5) +
   geom_point(aes(y = shroomamount, color = Experience), position = position_jitter(width = .15), size = .5, alpha = 0.8) +
   geom_point(data = sumld, aes(x = Experience, y = mean), position = position_nudge(x = 0.3), size = 2.5) +
   geom_errorbar(data = sumld, aes(ymin = lower, ymax = upper, y = mean), position = position_nudge(x = 0.3), width = 0) +
   expand_limits(x = 5.25) +
   guides(fill = FALSE) +
   guides(color = FALSE) +
-  scale_color_brewer(palette = "Dark2") +
-  scale_fill_brewer(palette = "Dark2") +
+  scale_color_brewer(palette = "Set2") +
+  scale_fill_brewer(palette = "Set2") +
   theme_bw() +
   xlab("Experience (self-reported)") +
   ylab("Number of mushroom species mentioned") +
 raincloud_theme
-
 g
-dev.off()
+
+ggsave("raincloud.pdf", width = 105, height = 105, units = "mm") # save as PDF
+ggsave("raincloud.tiff", width = 105, height = 105, units = "mm") # save as TIFF
+
 
 ################################################
 ##    END OF ANALYSIS
