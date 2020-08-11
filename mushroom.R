@@ -12,7 +12,7 @@
 
 # Set working directory
 
-setwd("C:/Users/RoopeOK/Documents/Yliopisto/Sienestys/mushroom")
+setwd("C:/Users/...")
 
 # Install and download packages
 
