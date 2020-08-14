@@ -1,6 +1,6 @@
 ################################################################
 ##    Roope Kaaronen   // University of Helsinki
-##    Date: 3.8.2020
+##    Date: 14.8.2020
 ##    Contact: roope dot kaaronen at helsinki dot fi
 ##    https://roopekaaronen.com
 ##    @roopekaaronen
@@ -10,7 +10,8 @@
 ################################################################
 
 
-# Set working directory
+# Set working directory (optional)...
+# ...but only if you want to save figures, it's not used otherwise.
 
 setwd("C:/Users/...")
 
@@ -32,6 +33,7 @@ library(reshape2)
 library(gridExtra)
 library(ggpubr)
 library(cowplot)
+library(Cairo)
 
 # Read data
 
@@ -297,8 +299,6 @@ ggsave("species1.pdf", width = 150, height = 100, units = "mm") # save as PDF
 ggsave("species1.tiff", width = 150, height = 100, units = "mm") # save as TIFF
 
 
-#dev.off()
-
 # Repeat the procedures above for Picture 2 species
 frequent_terms2 <- freq_terms(art2tidy, 15)
 
@@ -371,13 +371,13 @@ source("https://gist.githubusercontent.com/benmarwick/2a1bb0133ff568cbe28d/raw/f
 ## Set theme
 ## DEFINE THE THEME
 raincloud_theme = theme(
-  text = element_text(size = 8),
-  axis.title.x = element_text(size = 9),
-  axis.title.y = element_text(size = 9),
-  axis.text = element_text(size = 6),
+  text = element_text(size = 10),
+  axis.title.x = element_text(size = 11),
+  axis.title.y = element_text(size = 11),
+  axis.text = element_text(size = 9),
   axis.text.x = element_text(angle = 0, vjust = 0.5),
-  legend.title=element_text(size=6),
-  legend.text=element_text(size=6),
+  legend.title=element_text(size=9),
+  legend.text=element_text(size=9),
   legend.position = "right",
   plot.title = element_text(lineheight=.8, face="bold", size = 7),
   panel.border = element_blank(),
@@ -395,7 +395,6 @@ sumld<- ddply(dat, ~Experience, summarise, mean = mean(shroomamount), median = m
 head(sumld)
 
 ## Print raincloud plot (with 95% CI, mean, and density distribution)
-##tiff("raincloud-experience.tiff", units="mm", width=85, height=85, res=300)
 
 g <- ggplot(data = dat, aes(y = shroomamount, x = Experience, fill = Experience)) +
   geom_flat_violin(position = position_nudge(x = .2, y = 0), alpha = .4, color = "gray23", size = 0.5) +
@@ -413,9 +412,15 @@ g <- ggplot(data = dat, aes(y = shroomamount, x = Experience, fill = Experience)
 raincloud_theme
 g
 
-ggsave("raincloud.pdf", width = 105, height = 105, units = "mm") # save as PDF
-ggsave("raincloud.tiff", width = 105, height = 105, units = "mm") # save as TIFF
+# Save the raincloud plot using ggsave or Cairo
+#ggsave("raincloud.pdf", width = 105, height = 105, units = "mm") # save as PDF
+#ggsave("raincloud.tiff", width = 105, height = 105, units = "mm") # save as TIFF
 
+Cairo(width = 125, height = 125, file="Figure14", type="pdf", pointsize=8,
+      bg = "transparent", canvas = "white", units = "mm", dpi = "auto")
+g
+dev.off()
+#browseURL('Figure14.pdf')
 
 ################################################
 ##    END OF ANALYSIS
