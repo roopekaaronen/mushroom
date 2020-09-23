@@ -356,8 +356,10 @@ dev.off()
 ## Count total number of reported mushroom species for the two pictures
 dat$shroomamount <- (str_count(dat$SpeciesPicture1, '\\w+') + str_count(dat$SpeciesPicture2, '\\w+'))
 
-## Linear regression of Experience vs. shroomamount
 plot(density(dat$shroomamount))# Density distribution of shroomamount
+## Linear regression of Experience vs. shroomamount
+linear <- lm(shroomamount ~ Experience, data = dat)
+summary(linear)
 
 # Convert experience into factor for raincloud plot
 dat$Experience <- as.factor(dat$Experience)
